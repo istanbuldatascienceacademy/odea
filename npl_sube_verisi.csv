@@ -1,0 +1,92 @@
+﻿sube_kodu,il,ilce,bolge,sube_tipi,enlem,boylam,toplam_kredi_tl,takipteki_tutar_tl,npl_orani_pct,musteri_sayisi,risk_seviyesi,onceki_donem_npl,npl_degisim,npl_trendi
+SB0001,İstanbul,İstanbul - Merkez,Marmara,Bölge Şube,40.925,28.8826,38343887,855069,2.23,2218,Düşük,1.63,0.6,Artıyor
+SB0002,İstanbul,İstanbul - Kuzey,Marmara,Bölge Şube,41.0242,29.0391,17057623,929640,5.45,8816,Yüksek,4.73,0.72,Artıyor
+SB0003,İstanbul,İstanbul - Güney,Marmara,Mahalle Şube,41.049,28.894,110805996,3545792,3.2,7158,Orta,4.07,-0.87,Azalıyor
+SB0004,İstanbul,İstanbul - Doğu,Marmara,Merkez Şube,40.9107,29.0272,119080665,4727502,3.97,2159,Orta,5.04,-1.07,Azalıyor
+SB0005,İstanbul,İstanbul - Batı,Marmara,Mahalle Şube,41.0682,28.8553,47463636,1571046,3.31,5213,Orta,3.45,-0.14,Stabil
+SB0006,Ankara,Ankara - Merkez,İç Anadolu,Merkez Şube,39.8788,32.9839,15846997,768579,4.85,4045,Orta,5.1,-0.25,Stabil
+SB0007,Ankara,Ankara - Kuzey,İç Anadolu,Merkez Şube,39.8773,32.7687,100985062,3675856,3.64,13773,Orta,3.5,0.14,Stabil
+SB0008,Ankara,Ankara - Güney,İç Anadolu,Merkez Şube,40.0532,32.9021,9974400,343119,3.44,3604,Orta,3.38,0.06,Stabil
+SB0009,Ankara,Ankara - Doğu,İç Anadolu,Bölge Şube,39.7943,32.8316,16545260,590666,3.57,10915,Orta,2.38,1.19,Artıyor
+SB0010,Ankara,Ankara - Batı,İç Anadolu,Bölge Şube,39.8107,32.8256,110658324,7635424,6.9,11292,Yüksek,6.21,0.69,Artıyor
+SB0011,İzmir,İzmir - Merkez,Ege,Mahalle Şube,38.3942,27.2221,52487375,3185984,6.07,8601,Yüksek,7.08,-1.01,Azalıyor
+SB0012,İzmir,İzmir - Kuzey,Ege,Merkez Şube,38.4946,27.2085,109547829,5795080,5.29,10762,Yüksek,6.35,-1.06,Azalıyor
+SB0013,İzmir,İzmir - Güney,Ege,Merkez Şube,38.3019,27.0361,28372013,1776088,6.26,7515,Yüksek,5.41,0.85,Artıyor
+SB0014,İzmir,İzmir - Doğu,Ege,Merkez Şube,38.5371,27.0887,71992568,3952392,5.49,14662,Yüksek,4.91,0.58,Artıyor
+SB0015,Bursa,Bursa - Merkez,Marmara,Merkez Şube,40.2365,29.0614,6496325,262452,4.04,1581,Orta,3.65,0.39,Artıyor
+SB0016,Bursa,Bursa - Kuzey,Marmara,Bölge Şube,40.1527,29.1577,58607919,1898897,3.24,14131,Orta,2.93,0.31,Artıyor
+SB0017,Bursa,Bursa - Güney,Marmara,Merkez Şube,40.0874,28.9223,55062622,2527374,4.59,7330,Orta,5.24,-0.65,Azalıyor
+SB0018,Bursa,Bursa - Doğu,Marmara,Merkez Şube,40.1264,29.1073,92692984,4245339,4.58,2532,Orta,5.48,-0.9,Azalıyor
+SB0019,Antalya,Antalya - Merkez,Akdeniz,Merkez Şube,36.9762,30.7765,100511474,4724039,4.7,5655,Orta,4.55,0.15,Stabil
+SB0020,Antalya,Antalya - Kuzey,Akdeniz,Merkez Şube,37.0118,30.6893,39388265,1567653,3.98,5601,Orta,4.96,-0.98,Azalıyor
+SB0021,Antalya,Antalya - Güney,Akdeniz,Bölge Şube,36.9835,30.723,39471911,2139378,5.42,5565,Yüksek,5.2,0.22,Stabil
+SB0022,Antalya,Antalya - Doğu,Akdeniz,Mahalle Şube,36.9949,30.6108,55862974,3580817,6.41,10700,Yüksek,7.28,-0.87,Azalıyor
+SB0023,Adana,Adana - Merkez,Akdeniz,Mahalle Şube,37.0644,35.2293,50210849,3640287,7.25,6458,Yüksek,6.06,1.19,Artıyor
+SB0024,Adana,Adana - Kuzey,Akdeniz,Bölge Şube,37.0583,35.4604,30941192,2249425,7.27,11741,Yüksek,6.48,0.79,Artıyor
+SB0025,Adana,Adana - Güney,Akdeniz,Mahalle Şube,36.9283,35.296,106019081,7601568,7.17,4588,Yüksek,6.95,0.22,Stabil
+SB0026,Adana,Adana - Doğu,Akdeniz,Bölge Şube,37.047,35.1721,72331161,4216907,5.83,821,Yüksek,5.88,-0.05,Stabil
+SB0027,Adana,Adana - Batı,Akdeniz,Mahalle Şube,37.1435,35.4681,73600822,5034296,6.84,8076,Yüksek,7.88,-1.04,Azalıyor
+SB0028,Adana,Adana - Merkez,Akdeniz,Bölge Şube,37.0746,35.3927,67817182,4028341,5.94,11056,Yüksek,6.23,-0.29,Stabil
+SB0029,Gaziantep,Gaziantep - Merkez,Güneydoğu,Bölge Şube,36.9761,37.2392,19113197,1687695,8.83,2038,Kritik,9.02,-0.19,Stabil
+SB0030,Gaziantep,Gaziantep - Kuzey,Güneydoğu,Merkez Şube,37.041,37.3438,79789973,6470967,8.11,12447,Kritik,8.32,-0.21,Stabil
+SB0031,Gaziantep,Gaziantep - Güney,Güneydoğu,Bölge Şube,36.9742,37.263,111517784,8006977,7.18,13731,Yüksek,6.39,0.79,Artıyor
+SB0032,Gaziantep,Gaziantep - Doğu,Güneydoğu,Bölge Şube,37.0147,37.4964,64934723,5889579,9.07,12180,Kritik,9.55,-0.48,Azalıyor
+SB0033,Gaziantep,Gaziantep - Batı,Güneydoğu,Bölge Şube,37.0846,37.4475,53296796,3517589,6.6,5282,Yüksek,6.51,0.09,Stabil
+SB0034,Gaziantep,Gaziantep - Merkez,Güneydoğu,Mahalle Şube,37.0308,37.481,69313577,5468841,7.89,11053,Yüksek,8.82,-0.93,Azalıyor
+SB0035,Konya,Konya - Merkez,İç Anadolu,Mahalle Şube,37.7718,32.3574,37154946,2597131,6.99,9371,Yüksek,5.83,1.16,Artıyor
+SB0036,Konya,Konya - Kuzey,İç Anadolu,Bölge Şube,37.9599,32.3566,92937089,5511169,5.93,10132,Yüksek,6.36,-0.43,Azalıyor
+SB0037,Konya,Konya - Güney,İç Anadolu,Bölge Şube,37.9111,32.5099,60557935,2452596,4.05,3030,Orta,4.26,-0.21,Stabil
+SB0038,Konya,Konya - Doğu,İç Anadolu,Merkez Şube,37.8402,32.3493,73630375,2886311,3.92,13178,Orta,3.42,0.5,Artıyor
+SB0039,Konya,Konya - Batı,İç Anadolu,Bölge Şube,37.7383,32.5675,35816413,2227781,6.22,2719,Yüksek,6.18,0.04,Stabil
+SB0040,Kayseri,Kayseri - Merkez,İç Anadolu,Bölge Şube,38.7791,35.3562,31607312,1928046,6.1,3644,Yüksek,6.58,-0.48,Azalıyor
+SB0041,Kayseri,Kayseri - Kuzey,İç Anadolu,Mahalle Şube,38.87,35.4955,104780681,5982977,5.71,12674,Yüksek,4.81,0.9,Artıyor
+SB0042,Kayseri,Kayseri - Güney,İç Anadolu,Merkez Şube,38.6271,35.361,106895902,5398243,5.05,7013,Yüksek,4.25,0.8,Artıyor
+SB0043,Kayseri,Kayseri - Doğu,İç Anadolu,Mahalle Şube,38.6515,35.5175,87018711,3167481,3.64,13467,Orta,2.57,1.07,Artıyor
+SB0044,Mersin,Mersin - Merkez,Akdeniz,Mahalle Şube,36.7808,34.5752,104166744,4312503,4.14,8935,Orta,4.48,-0.34,Azalıyor
+SB0045,Mersin,Mersin - Kuzey,Akdeniz,Mahalle Şube,36.8692,34.4868,55578189,4096113,7.37,13797,Yüksek,6.4,0.97,Artıyor
+SB0046,Mersin,Mersin - Güney,Akdeniz,Merkez Şube,36.82,34.7029,85860167,6181932,7.2,2113,Yüksek,8.1,-0.9,Azalıyor
+SB0047,Mersin,Mersin - Doğu,Akdeniz,Merkez Şube,36.9126,34.7346,108890573,5967203,5.48,4945,Yüksek,5.03,0.45,Artıyor
+SB0048,Eskişehir,Eskişehir - Merkez,İç Anadolu,Mahalle Şube,39.745,30.4612,26317528,929009,3.53,984,Orta,4.44,-0.91,Azalıyor
+SB0049,Eskişehir,Eskişehir - Kuzey,İç Anadolu,Mahalle Şube,39.7147,30.4081,62377600,3873649,6.21,1460,Yüksek,5.86,0.35,Artıyor
+SB0050,Diyarbakır,Diyarbakır - Merkez,Güneydoğu,Mahalle Şube,37.8552,40.1804,48883141,4311493,8.82,1366,Kritik,8.52,0.3,Stabil
+SB0051,Diyarbakır,Diyarbakır - Kuzey,Güneydoğu,Bölge Şube,37.9431,40.2444,98097626,8142103,8.3,13312,Kritik,9.17,-0.87,Azalıyor
+SB0052,Diyarbakır,Diyarbakır - Güney,Güneydoğu,Bölge Şube,37.9817,40.2057,101047905,9296407,9.2,4532,Kritik,8.42,0.78,Artıyor
+SB0053,Diyarbakır,Diyarbakır - Doğu,Güneydoğu,Bölge Şube,38.0575,40.1436,91947051,6105284,6.64,14620,Yüksek,6.8,-0.16,Stabil
+SB0054,Diyarbakır,Diyarbakır - Batı,Güneydoğu,Bölge Şube,37.7613,40.3631,117428129,7527143,6.41,3744,Yüksek,6.72,-0.31,Azalıyor
+SB0055,Diyarbakır,Diyarbakır - Merkez,Güneydoğu,Merkez Şube,38.0568,40.1564,82813289,7171631,8.66,3238,Kritik,7.47,1.19,Artıyor
+SB0056,Samsun,Samsun - Merkez,Karadeniz,Mahalle Şube,41.2547,36.4775,64894027,2336185,3.6,10437,Orta,2.96,0.64,Artıyor
+SB0057,Samsun,Samsun - Kuzey,Karadeniz,Bölge Şube,41.1756,36.4551,17213011,822782,4.78,3419,Orta,4.14,0.64,Artıyor
+SB0058,Trabzon,Trabzon - Merkez,Karadeniz,Bölge Şube,40.9175,39.8244,63564113,3654936,5.75,13917,Yüksek,4.97,0.78,Artıyor
+SB0059,Trabzon,Trabzon - Kuzey,Karadeniz,Bölge Şube,41.0764,39.6425,117863841,7130762,6.05,3549,Yüksek,6.41,-0.36,Azalıyor
+SB0060,Trabzon,Trabzon - Güney,Karadeniz,Mahalle Şube,41.0952,39.8431,119161267,6518121,5.47,4645,Yüksek,4.85,0.62,Artıyor
+SB0061,Trabzon,Trabzon - Doğu,Karadeniz,Merkez Şube,41.0611,39.6943,75380142,4183598,5.55,4758,Yüksek,4.95,0.6,Artıyor
+SB0062,Trabzon,Trabzon - Batı,Karadeniz,Mahalle Şube,40.9553,39.6247,111496642,6477955,5.81,1426,Yüksek,5.66,0.15,Stabil
+SB0063,Trabzon,Trabzon - Merkez,Karadeniz,Bölge Şube,40.9119,39.583,44306116,1789967,4.04,11807,Orta,3.45,0.59,Artıyor
+SB0064,Erzurum,Erzurum - Merkez,Doğu Anadolu,Mahalle Şube,39.8436,41.3377,20311048,1206476,5.94,7177,Yüksek,5.08,0.86,Artıyor
+SB0065,Erzurum,Erzurum - Kuzey,Doğu Anadolu,Bölge Şube,39.9143,41.1794,12483327,1132238,9.07,1245,Kritik,8.72,0.35,Artıyor
+SB0066,Erzurum,Erzurum - Güney,Doğu Anadolu,Merkez Şube,39.9375,41.3704,55947616,3004387,5.37,6009,Yüksek,6.31,-0.94,Azalıyor
+SB0067,Erzurum,Erzurum - Doğu,Doğu Anadolu,Merkez Şube,39.9165,41.3539,7890576,427669,5.42,4271,Yüksek,4.75,0.67,Artıyor
+SB0068,Erzurum,Erzurum - Batı,Doğu Anadolu,Mahalle Şube,39.8318,41.4024,91571817,4853306,5.3,2667,Yüksek,5.68,-0.38,Azalıyor
+SB0069,Erzurum,Erzurum - Merkez,Doğu Anadolu,Merkez Şube,39.9626,41.4118,54629084,3982460,7.29,9947,Yüksek,8.19,-0.9,Azalıyor
+SB0070,Van,Van - Merkez,Doğu Anadolu,Mahalle Şube,38.4228,43.4436,113501552,6549040,5.77,9502,Yüksek,5.15,0.62,Artıyor
+SB0071,Van,Van - Kuzey,Doğu Anadolu,Merkez Şube,38.4099,43.3278,18753101,1196448,6.38,5826,Yüksek,6.67,-0.29,Stabil
+SB0072,Van,Van - Güney,Doğu Anadolu,Merkez Şube,38.4078,43.4295,75061743,4030816,5.37,12984,Yüksek,4.8,0.57,Artıyor
+SB0073,Van,Van - Doğu,Doğu Anadolu,Bölge Şube,38.3806,43.2353,71328495,5963062,8.36,14022,Kritik,8.85,-0.49,Azalıyor
+SB0074,Van,Van - Batı,Doğu Anadolu,Bölge Şube,38.5822,43.4564,73404557,6819283,9.29,10711,Kritik,9.75,-0.46,Azalıyor
+SB0075,Van,Van - Merkez,Doğu Anadolu,Merkez Şube,38.6188,43.3495,32972791,1836584,5.57,5383,Yüksek,5.46,0.11,Stabil
+SB0076,Malatya,Malatya - Merkez,Doğu Anadolu,Bölge Şube,38.5038,38.1845,7662540,420673,5.49,2169,Yüksek,5.81,-0.32,Azalıyor
+SB0077,Malatya,Malatya - Kuzey,Doğu Anadolu,Bölge Şube,38.2627,38.424,93272069,7135313,7.65,1090,Yüksek,6.5,1.15,Artıyor
+SB0078,Malatya,Malatya - Güney,Doğu Anadolu,Bölge Şube,38.2704,38.3593,19350581,1035256,5.35,7840,Yüksek,6.14,-0.79,Azalıyor
+SB0079,Malatya,Malatya - Doğu,Doğu Anadolu,Bölge Şube,38.2599,38.1995,108873744,8775224,8.06,3703,Kritik,8.55,-0.49,Azalıyor
+SB0080,Malatya,Malatya - Batı,Doğu Anadolu,Merkez Şube,38.2979,38.2144,61188606,4185301,6.84,2377,Yüksek,5.83,1.01,Artıyor
+SB0081,Kocaeli,Kocaeli - Merkez,Marmara,Bölge Şube,40.6911,30.063,26247560,1236260,4.71,12721,Orta,3.81,0.9,Artıyor
+SB0082,Kocaeli,Kocaeli - Kuzey,Marmara,Mahalle Şube,40.7975,29.788,68547201,2234639,3.26,5563,Orta,3.49,-0.23,Stabil
+SB0083,Kocaeli,Kocaeli - Güney,Marmara,Merkez Şube,40.8698,30.0255,72324959,2119121,2.93,8138,Düşük,2.34,0.59,Artıyor
+SB0084,Kocaeli,Kocaeli - Doğu,Marmara,Bölge Şube,40.8064,29.9048,25000704,615017,2.46,9162,Düşük,1.57,0.89,Artıyor
+SB0085,Kocaeli,Kocaeli - Batı,Marmara,Mahalle Şube,40.685,29.8735,74262518,1470398,1.98,9905,Düşük,1.82,0.16,Stabil
+SB0086,Kocaeli,Kocaeli - Merkez,Marmara,Merkez Şube,40.7879,29.8683,110415344,5112230,4.63,10314,Orta,5.33,-0.7,Azalıyor
+SB0087,Denizli,Denizli - Merkez,Ege,Bölge Şube,37.6505,29.0734,16228534,376502,2.32,2243,Düşük,2.98,-0.66,Azalıyor
+SB0088,Denizli,Denizli - Kuzey,Ege,Bölge Şube,37.6815,28.98,39603327,2031651,5.13,3638,Yüksek,5.91,-0.78,Azalıyor
+SB0089,Şanlıurfa,Şanlıurfa - Merkez,Güneydoğu,Merkez Şube,37.2019,38.7471,117409454,7596392,6.47,7427,Yüksek,6.07,0.4,Artıyor
+SB0090,Şanlıurfa,Şanlıurfa - Kuzey,Güneydoğu,Merkez Şube,37.1499,38.9399,69360219,5389289,7.77,6525,Yüksek,7.09,0.68,Artıyor
+SB0091,Şanlıurfa,Şanlıurfa - Güney,Güneydoğu,Merkez Şube,37.0299,38.7475,79264391,7427073,9.37,4593,Kritik,10.21,-0.84,Azalıyor

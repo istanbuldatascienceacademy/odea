@@ -1,0 +1,501 @@
+﻿musteri_id,yas,yas_grubu,sehir,segment,urun_tipi,kanal,musteri_suresi_yil,son_islem_gun,musteri_durumu,churn_riski_pct,bakiye_tl,bakiye_degisim_pct
+MUS0001,62,51+,Antalya,Bireysel,Vadesiz Mevduat,Şube,2,4,Aktif,29,32218.47,5.7
+MUS0002,27,22-35,İstanbul,Bireysel,Yatırım Hesabı,Mobil,10,8,Aktif,16,22794.54,-28.9
+MUS0003,34,22-35,Gaziantep,Özel Bankacılık,İhtiyaç Kredisi,Şube,12,37,Risk Altında,38,39518.68,-29.7
+MUS0004,32,22-35,Adana,Bireysel,Yatırım Hesabı,ATM,12,11,Aktif,16,621.57,-14.8
+MUS0005,44,36-50,Antalya,KOBİ,Konut Kredisi,Mobil,14,18,Aktif,4,1865.44,6.9
+MUS0006,27,22-35,Adana,KOBİ,Konut Kredisi,Şube,9,2,Aktif,22,31369.48,0.9
+MUS0007,27,22-35,Ankara,Özel Bankacılık,Kredi Kartı,İnternet,14,43,Risk Altında,39,3945.98,-15.8
+MUS0008,64,51+,İzmir,Bireysel,Vadesiz Mevduat,Şube,5,13,Aktif,14,9847.13,7.0
+MUS0009,66,51+,Adana,Bireysel,Kredi Kartı,Mobil,9,11,Aktif,6,17064.06,-27.4
+MUS0010,58,51+,Bursa,Özel Bankacılık,Konut Kredisi,İnternet,15,15,Aktif,10,2857.94,-24.4
+MUS0011,57,51+,Gaziantep,Özel Bankacılık,Konut Kredisi,İnternet,9,5,Aktif,-3,23023.95,-26.4
+MUS0012,25,22-35,İzmir,KOBİ,Vadesiz Mevduat,Şube,14,58,Risk Altında,33,-1505.98,-14.7
+MUS0013,51,51+,İstanbul,KOBİ,Konut Kredisi,Mobil,9,9,Aktif,7,37272.93,-16.4
+MUS0014,40,36-50,Konya,KOBİ,Kredi Kartı,Mobil,7,17,Aktif,13,36907.92,-9.7
+MUS0015,28,22-35,Bursa,Özel Bankacılık,Konut Kredisi,Şube,14,18,Aktif,25,47442.49,6.9
+MUS0016,22,22-35,Konya,Bireysel,Konut Kredisi,Mobil,10,10,Aktif,21,8169.88,-20.4
+MUS0017,58,51+,Konya,KOBİ,Vadesiz Mevduat,Mobil,2,5,Aktif,19,31286.3,7.9
+MUS0018,32,22-35,Gaziantep,KOBİ,İhtiyaç Kredisi,Şube,5,10,Aktif,26,16944.58,-3.1
+MUS0019,45,36-50,Konya,Bireysel,İhtiyaç Kredisi,Mobil,8,3,Aktif,-3,13594.71,-6.5
+MUS0020,36,36-50,İstanbul,KOBİ,Kredi Kartı,Mobil,10,2,Aktif,25,7591.8,6.2
+MUS0021,43,36-50,Bursa,KOBİ,İhtiyaç Kredisi,ATM,2,7,Aktif,30,24657.87,-1.1
+MUS0022,58,51+,Bursa,Özel Bankacılık,Yatırım Hesabı,İnternet,10,4,Aktif,-4,331.19,-12.8
+MUS0023,49,36-50,İstanbul,Bireysel,Yatırım Hesabı,Mobil,7,11,Aktif,2,39032.59,-25.6
+MUS0024,34,22-35,Konya,Özel Bankacılık,İhtiyaç Kredisi,Şube,4,9,Aktif,25,20444.54,5.0
+MUS0025,26,22-35,Ankara,KOBİ,İhtiyaç Kredisi,Mobil,8,1,Aktif,27,48294.79,7.1
+MUS0026,37,36-50,Konya,Bireysel,Yatırım Hesabı,İnternet,3,2,Aktif,2,4055.04,-29.9
+MUS0027,46,36-50,Antalya,KOBİ,Yatırım Hesabı,İnternet,5,16,Aktif,7,3513.83,-18.1
+MUS0028,25,22-35,İstanbul,Bireysel,İhtiyaç Kredisi,ATM,10,19,Aktif,11,21223.37,6.8
+MUS0029,55,51+,Ankara,Bireysel,Vadesiz Mevduat,Şube,3,3,Aktif,19,32136.69,-20.6
+MUS0030,29,22-35,Bursa,KOBİ,İhtiyaç Kredisi,Mobil,15,14,Aktif,12,31155.52,-7.4
+MUS0031,42,36-50,Bursa,Bireysel,Konut Kredisi,ATM,15,13,Aktif,-2,2198.31,-4.2
+MUS0032,51,51+,İstanbul,KOBİ,Vadesiz Mevduat,İnternet,6,4,Aktif,8,-970.66,-21.5
+MUS0033,38,36-50,Ankara,Özel Bankacılık,Konut Kredisi,Şube,3,6,Aktif,9,19100.15,-8.3
+MUS0034,41,36-50,İstanbul,KOBİ,İhtiyaç Kredisi,ATM,10,5,Aktif,-7,9545.63,5.6
+MUS0035,57,51+,Antalya,KOBİ,Konut Kredisi,Şube,3,7,Aktif,10,32812.34,4.1
+MUS0036,54,51+,İstanbul,KOBİ,Konut Kredisi,Mobil,8,9,Aktif,3,-2575.23,-16.7
+MUS0037,30,22-35,İzmir,KOBİ,Konut Kredisi,İnternet,11,18,Aktif,23,-4468.17,-27.0
+MUS0038,66,51+,İstanbul,KOBİ,Kredi Kartı,ATM,15,5,Aktif,22,18638.27,-28.3
+MUS0039,45,36-50,Adana,KOBİ,Vadesiz Mevduat,Şube,15,4,Aktif,7,14452.32,-7.6
+MUS0040,48,36-50,Bursa,Bireysel,Kredi Kartı,Şube,10,1,Aktif,28,4864.84,7.0
+MUS0041,48,36-50,Antalya,KOBİ,Kredi Kartı,Şube,13,13,Aktif,18,42969.17,4.3
+MUS0042,36,36-50,Adana,Bireysel,Yatırım Hesabı,ATM,4,1,Aktif,-3,31301.83,-14.1
+MUS0043,39,36-50,Antalya,KOBİ,Vadesiz Mevduat,ATM,14,13,Aktif,6,32373.5,3.7
+MUS0044,43,36-50,Antalya,KOBİ,Vadesiz Mevduat,Şube,1,22,Risk Altında,33,962.14,-12.6
+MUS0045,68,51+,Gaziantep,Özel Bankacılık,Konut Kredisi,Mobil,13,7,Aktif,8,9009.74,-1.6
+MUS0046,22,22-35,Bursa,Özel Bankacılık,İhtiyaç Kredisi,ATM,9,11,Aktif,12,29273.55,-3.5
+MUS0047,29,22-35,Antalya,Özel Bankacılık,Konut Kredisi,İnternet,12,10,Aktif,22,25492.69,-22.3
+MUS0048,64,51+,Antalya,KOBİ,Kredi Kartı,İnternet,7,10,Aktif,5,10780.25,-12.8
+MUS0049,59,51+,Konya,Özel Bankacılık,Konut Kredisi,İnternet,10,17,Aktif,-4,21025.24,6.0
+MUS0050,32,22-35,Antalya,Bireysel,Vadesiz Mevduat,ATM,11,10,Aktif,17,7355.24,-22.0
+MUS0051,23,22-35,Konya,Özel Bankacılık,Kredi Kartı,Mobil,1,173,Pasif,63,29637.1,-22.2
+MUS0052,66,51+,Gaziantep,Bireysel,Yatırım Hesabı,Şube,7,1,Aktif,20,44096.29,4.4
+MUS0053,28,22-35,Bursa,KOBİ,Yatırım Hesabı,Şube,13,49,Risk Altında,36,-2237.99,-20.0
+MUS0054,29,22-35,Konya,Özel Bankacılık,Kredi Kartı,ATM,8,52,Risk Altında,44,18470.74,6.3
+MUS0055,50,36-50,Konya,Özel Bankacılık,Kredi Kartı,İnternet,15,9,Aktif,12,37119.75,-9.1
+MUS0056,62,51+,Konya,KOBİ,Konut Kredisi,Mobil,4,8,Aktif,-1,9944.33,-17.2
+MUS0057,56,51+,İzmir,Özel Bankacılık,Kredi Kartı,Şube,2,33,Risk Altında,44,-1467.41,-13.7
+MUS0058,56,51+,İstanbul,Özel Bankacılık,Yatırım Hesabı,Şube,8,19,Aktif,12,47033.41,-29.2
+MUS0059,58,51+,İstanbul,Özel Bankacılık,Yatırım Hesabı,ATM,7,14,Aktif,2,24602.13,-0.6
+MUS0060,60,51+,Konya,Özel Bankacılık,Kredi Kartı,Şube,15,16,Aktif,28,-3403.63,-16.6
+MUS0061,65,51+,İzmir,Bireysel,Yatırım Hesabı,İnternet,13,18,Aktif,9,-3516.85,-14.2
+MUS0062,58,51+,Ankara,Bireysel,Vadesiz Mevduat,İnternet,11,6,Aktif,4,-2234.35,-14.8
+MUS0063,35,22-35,Adana,Özel Bankacılık,Konut Kredisi,İnternet,8,9,Aktif,23,40920.1,-11.2
+MUS0064,56,51+,Bursa,KOBİ,Konut Kredisi,Mobil,1,1,Aktif,16,47228.65,-22.0
+MUS0065,23,22-35,Bursa,Özel Bankacılık,Kredi Kartı,Şube,10,56,Risk Altında,38,47126.64,-11.4
+MUS0066,38,36-50,İzmir,Bireysel,Konut Kredisi,Mobil,13,4,Aktif,-1,26827.66,7.2
+MUS0067,58,51+,Gaziantep,Bireysel,Yatırım Hesabı,Şube,11,8,Aktif,18,604.57,0.9
+MUS0068,65,51+,İstanbul,KOBİ,Vadesiz Mevduat,ATM,10,12,Aktif,3,-1207.38,-4.1
+MUS0069,22,22-35,Konya,Özel Bankacılık,Yatırım Hesabı,Mobil,14,15,Aktif,21,33901.98,-12.6
+MUS0070,68,51+,Konya,Özel Bankacılık,Konut Kredisi,İnternet,9,9,Aktif,8,12726.75,-20.2
+MUS0071,27,22-35,Bursa,KOBİ,Yatırım Hesabı,İnternet,5,13,Aktif,29,13501.81,-10.2
+MUS0072,42,36-50,Bursa,Özel Bankacılık,Yatırım Hesabı,ATM,3,9,Aktif,0,43417.6,-2.0
+MUS0073,39,36-50,Bursa,Bireysel,Vadesiz Mevduat,Mobil,9,16,Aktif,3,25534.69,-20.4
+MUS0074,52,51+,Konya,Bireysel,Yatırım Hesabı,Mobil,11,8,Aktif,-1,17242.06,-20.3
+MUS0075,64,51+,Konya,Özel Bankacılık,Konut Kredisi,ATM,10,11,Aktif,7,14349.58,-11.9
+MUS0076,41,36-50,Ankara,Özel Bankacılık,Kredi Kartı,Şube,5,18,Aktif,18,47298.27,-2.4
+MUS0077,34,22-35,Antalya,Bireysel,Yatırım Hesabı,ATM,4,10,Aktif,16,7511.57,-22.8
+MUS0078,22,22-35,İzmir,Bireysel,İhtiyaç Kredisi,ATM,12,18,Aktif,11,11067.52,7.8
+MUS0079,62,51+,Ankara,KOBİ,Yatırım Hesabı,Mobil,14,16,Aktif,-1,21329.28,-16.4
+MUS0080,25,22-35,Ankara,Özel Bankacılık,Yatırım Hesabı,Mobil,5,3,Aktif,25,26736.16,-2.5
+MUS0081,31,22-35,Antalya,Bireysel,İhtiyaç Kredisi,Mobil,3,18,Aktif,13,37044.39,-5.7
+MUS0082,61,51+,Gaziantep,Özel Bankacılık,İhtiyaç Kredisi,İnternet,4,19,Aktif,-1,49451.72,-17.8
+MUS0083,61,51+,Ankara,KOBİ,İhtiyaç Kredisi,Şube,1,36,Risk Altında,31,31323.55,-23.7
+MUS0084,33,22-35,İzmir,Özel Bankacılık,Vadesiz Mevduat,Mobil,9,16,Aktif,24,11019.26,-20.7
+MUS0085,67,51+,Ankara,Özel Bankacılık,Yatırım Hesabı,Şube,5,19,Aktif,20,31365.07,7.3
+MUS0086,49,36-50,Bursa,Özel Bankacılık,İhtiyaç Kredisi,Şube,2,3,Aktif,29,-1719.91,1.7
+MUS0087,60,51+,Antalya,Bireysel,İhtiyaç Kredisi,İnternet,12,10,Aktif,4,33485.35,7.7
+MUS0088,54,51+,Konya,KOBİ,Yatırım Hesabı,Mobil,9,14,Aktif,-9,35399.37,-5.9
+MUS0089,23,22-35,İstanbul,KOBİ,Kredi Kartı,ATM,2,31,Risk Altında,51,20877.55,-3.9
+MUS0090,39,36-50,Gaziantep,Bireysel,İhtiyaç Kredisi,İnternet,3,12,Aktif,5,17459.15,-17.2
+MUS0091,28,22-35,Adana,KOBİ,Kredi Kartı,İnternet,14,38,Risk Altında,40,31442.09,-14.0
+MUS0092,57,51+,Ankara,Özel Bankacılık,Yatırım Hesabı,ATM,1,4,Aktif,25,48360.16,-13.8
+MUS0093,54,51+,Konya,Bireysel,Vadesiz Mevduat,İnternet,14,17,Aktif,-4,14897.86,0.3
+MUS0094,62,51+,Bursa,KOBİ,Vadesiz Mevduat,ATM,8,10,Aktif,-6,19096.39,-2.1
+MUS0095,29,22-35,Bursa,Özel Bankacılık,İhtiyaç Kredisi,Şube,1,61,Pasif,62,25373.83,-26.3
+MUS0096,29,22-35,İzmir,KOBİ,Vadesiz Mevduat,İnternet,8,17,Aktif,19,33797.64,-13.4
+MUS0097,52,51+,Konya,Özel Bankacılık,Kredi Kartı,Şube,8,17,Aktif,21,36046.09,-24.5
+MUS0098,26,22-35,Adana,Bireysel,Yatırım Hesabı,ATM,5,10,Aktif,19,41061.18,-6.8
+MUS0099,64,51+,Konya,Özel Bankacılık,Kredi Kartı,İnternet,8,18,Aktif,15,36958.0,-14.9
+MUS0100,42,36-50,Bursa,Bireysel,Kredi Kartı,İnternet,14,2,Aktif,18,12499.7,-11.1
+MUS0101,46,36-50,Konya,Bireysel,Kredi Kartı,Mobil,7,19,Aktif,21,13259.71,-26.0
+MUS0102,50,36-50,Konya,KOBİ,İhtiyaç Kredisi,Mobil,2,14,Aktif,19,42901.31,8.8
+MUS0103,26,22-35,Adana,KOBİ,Konut Kredisi,İnternet,8,11,Aktif,12,41878.77,4.4
+MUS0104,46,36-50,İstanbul,Bireysel,Yatırım Hesabı,Mobil,6,10,Aktif,10,49858.43,-0.1
+MUS0105,49,36-50,Konya,KOBİ,Vadesiz Mevduat,Şube,2,21,Risk Altında,34,-2470.5,1.8
+MUS0106,40,36-50,Gaziantep,Bireysel,Konut Kredisi,Şube,6,14,Aktif,16,26126.04,1.7
+MUS0107,32,22-35,Gaziantep,Özel Bankacılık,Vadesiz Mevduat,Şube,3,29,Risk Altında,38,7770.36,-4.5
+MUS0108,51,51+,Konya,KOBİ,Vadesiz Mevduat,ATM,5,6,Aktif,7,-937.6,7.8
+MUS0109,59,51+,Antalya,Özel Bankacılık,Yatırım Hesabı,İnternet,5,13,Aktif,-4,41933.45,-25.7
+MUS0110,46,36-50,Antalya,Bireysel,Konut Kredisi,ATM,10,9,Aktif,2,-4554.61,4.6
+MUS0111,25,22-35,Konya,Bireysel,İhtiyaç Kredisi,ATM,15,12,Aktif,29,7045.25,-22.4
+MUS0112,38,36-50,Ankara,Özel Bankacılık,Kredi Kartı,Mobil,11,2,Aktif,19,26876.56,-0.7
+MUS0113,27,22-35,Adana,Bireysel,Konut Kredisi,İnternet,15,5,Aktif,16,38258.2,5.1
+MUS0114,45,36-50,Antalya,Özel Bankacılık,İhtiyaç Kredisi,Şube,9,10,Aktif,15,36060.76,-16.5
+MUS0115,29,22-35,İzmir,KOBİ,Vadesiz Mevduat,Şube,8,55,Risk Altında,32,15117.63,1.6
+MUS0116,22,22-35,Ankara,Özel Bankacılık,İhtiyaç Kredisi,İnternet,5,19,Aktif,18,15956.4,-4.5
+MUS0117,45,36-50,Konya,KOBİ,Kredi Kartı,Mobil,2,40,Risk Altında,47,45339.07,-21.1
+MUS0118,26,22-35,Antalya,Bireysel,Yatırım Hesabı,İnternet,11,2,Aktif,14,47044.38,-17.8
+MUS0119,53,51+,Bursa,Özel Bankacılık,Vadesiz Mevduat,Şube,2,43,Risk Altında,39,31876.74,-0.3
+MUS0120,56,51+,İzmir,KOBİ,İhtiyaç Kredisi,İnternet,7,16,Aktif,-7,28860.87,7.6
+MUS0121,39,36-50,Bursa,Özel Bankacılık,Konut Kredisi,İnternet,1,12,Aktif,22,464.5,-2.6
+MUS0122,56,51+,İstanbul,Özel Bankacılık,Konut Kredisi,İnternet,15,4,Aktif,-4,47195.59,3.0
+MUS0123,27,22-35,İstanbul,Özel Bankacılık,Kredi Kartı,Mobil,11,28,Risk Altında,32,38283.8,-21.8
+MUS0124,57,51+,Bursa,Özel Bankacılık,İhtiyaç Kredisi,Şube,4,1,Aktif,4,10250.12,9.4
+MUS0125,30,22-35,İzmir,KOBİ,Konut Kredisi,Mobil,9,5,Aktif,10,-4182.68,1.6
+MUS0126,37,36-50,İstanbul,Özel Bankacılık,Konut Kredisi,Şube,10,5,Aktif,1,35794.49,-9.0
+MUS0127,26,22-35,Adana,Özel Bankacılık,Yatırım Hesabı,Mobil,8,8,Aktif,26,46997.86,-28.3
+MUS0128,64,51+,Konya,Bireysel,Konut Kredisi,Mobil,9,13,Aktif,5,18445.05,-25.7
+MUS0129,67,51+,Ankara,Özel Bankacılık,Yatırım Hesabı,Mobil,15,5,Aktif,9,-1387.48,-19.0
+MUS0130,62,51+,Adana,KOBİ,İhtiyaç Kredisi,İnternet,10,10,Aktif,6,19954.35,-5.8
+MUS0131,28,22-35,Bursa,Özel Bankacılık,Vadesiz Mevduat,İnternet,13,14,Aktif,17,13641.24,-11.9
+MUS0132,48,36-50,Adana,Özel Bankacılık,Vadesiz Mevduat,İnternet,12,12,Aktif,-2,47447.59,-2.5
+MUS0133,52,51+,Ankara,Özel Bankacılık,Vadesiz Mevduat,Mobil,2,12,Aktif,18,39647.31,-7.7
+MUS0134,59,51+,Adana,Özel Bankacılık,İhtiyaç Kredisi,Mobil,9,14,Aktif,1,42745.07,-1.2
+MUS0135,40,36-50,Adana,KOBİ,Konut Kredisi,Mobil,10,7,Aktif,6,3510.16,-10.7
+MUS0136,28,22-35,Adana,Özel Bankacılık,İhtiyaç Kredisi,Mobil,6,8,Aktif,28,39397.18,3.8
+MUS0137,61,51+,İstanbul,Bireysel,İhtiyaç Kredisi,ATM,10,9,Aktif,-5,33648.43,-17.6
+MUS0138,43,36-50,İzmir,KOBİ,Vadesiz Mevduat,Şube,6,3,Aktif,12,2803.11,-4.7
+MUS0139,23,22-35,Bursa,Özel Bankacılık,İhtiyaç Kredisi,İnternet,2,41,Risk Altında,49,3657.51,-17.5
+MUS0140,42,36-50,Ankara,Bireysel,İhtiyaç Kredisi,Mobil,13,2,Aktif,-5,32068.28,-19.1
+MUS0141,64,51+,Konya,Özel Bankacılık,Yatırım Hesabı,İnternet,7,17,Aktif,-4,1259.96,-12.8
+MUS0142,40,36-50,Konya,Bireysel,İhtiyaç Kredisi,ATM,11,13,Aktif,-3,49144.51,-27.8
+MUS0143,35,22-35,İzmir,Özel Bankacılık,Kredi Kartı,ATM,5,27,Risk Altında,35,-4574.86,-0.1
+MUS0144,33,22-35,Bursa,Bireysel,Yatırım Hesabı,ATM,3,2,Aktif,22,18992.08,-11.6
+MUS0145,26,22-35,Gaziantep,KOBİ,Konut Kredisi,İnternet,14,14,Aktif,30,10923.34,-13.8
+MUS0146,42,36-50,Konya,Bireysel,İhtiyaç Kredisi,ATM,3,4,Aktif,3,8382.41,-6.4
+MUS0147,55,51+,Antalya,Bireysel,Yatırım Hesabı,ATM,2,6,Aktif,25,-799.13,-4.7
+MUS0148,55,51+,Adana,KOBİ,Kredi Kartı,ATM,9,5,Aktif,25,7994.79,-24.1
+MUS0149,34,22-35,İzmir,Bireysel,İhtiyaç Kredisi,Mobil,3,16,Aktif,30,20517.42,-7.5
+MUS0150,59,51+,Adana,Bireysel,İhtiyaç Kredisi,ATM,8,3,Aktif,4,20790.66,-4.7
+MUS0151,39,36-50,Adana,Özel Bankacılık,Vadesiz Mevduat,Mobil,10,15,Aktif,4,-2931.6,-15.3
+MUS0152,40,36-50,Gaziantep,KOBİ,Vadesiz Mevduat,İnternet,2,22,Risk Altında,32,19735.35,2.4
+MUS0153,63,51+,Konya,Bireysel,Konut Kredisi,Şube,4,4,Aktif,14,39603.17,3.5
+MUS0154,67,51+,İzmir,Bireysel,İhtiyaç Kredisi,Mobil,2,15,Aktif,29,23823.77,-5.6
+MUS0155,45,36-50,Gaziantep,Özel Bankacılık,Konut Kredisi,İnternet,6,2,Aktif,9,38407.48,-4.1
+MUS0156,26,22-35,Gaziantep,Özel Bankacılık,Vadesiz Mevduat,ATM,6,5,Aktif,29,13334.91,-6.7
+MUS0157,31,22-35,Antalya,Bireysel,Konut Kredisi,İnternet,15,3,Aktif,29,12027.0,-14.9
+MUS0158,43,36-50,Ankara,KOBİ,Kredi Kartı,İnternet,14,1,Aktif,16,14942.87,-22.8
+MUS0159,35,22-35,Bursa,Bireysel,Yatırım Hesabı,Şube,6,3,Aktif,24,11268.57,1.5
+MUS0160,54,51+,İstanbul,KOBİ,İhtiyaç Kredisi,ATM,13,13,Aktif,-6,3483.9,-22.8
+MUS0161,66,51+,İzmir,Bireysel,İhtiyaç Kredisi,İnternet,13,12,Aktif,3,32199.96,-20.5
+MUS0162,50,36-50,Konya,KOBİ,Konut Kredisi,Şube,10,10,Aktif,7,48107.82,1.4
+MUS0163,34,22-35,Konya,Özel Bankacılık,İhtiyaç Kredisi,İnternet,6,17,Aktif,22,24010.29,8.7
+MUS0164,34,22-35,İzmir,Bireysel,İhtiyaç Kredisi,ATM,13,16,Aktif,30,43076.43,-7.8
+MUS0165,28,22-35,Ankara,Bireysel,İhtiyaç Kredisi,ATM,12,9,Aktif,15,19712.56,-9.5
+MUS0166,49,36-50,Konya,Bireysel,Kredi Kartı,ATM,2,23,Risk Altında,43,16804.97,-15.0
+MUS0167,46,36-50,Bursa,Özel Bankacılık,Konut Kredisi,Mobil,2,11,Aktif,18,38525.94,-24.5
+MUS0168,40,36-50,İzmir,Özel Bankacılık,Yatırım Hesabı,İnternet,15,1,Aktif,9,44822.16,-29.2
+MUS0169,35,22-35,Gaziantep,Özel Bankacılık,Kredi Kartı,Mobil,14,39,Risk Altında,32,1701.66,-20.5
+MUS0170,62,51+,Konya,Bireysel,İhtiyaç Kredisi,Mobil,13,18,Aktif,5,-4096.06,-9.4
+MUS0171,37,36-50,Antalya,Bireysel,Kredi Kartı,İnternet,12,12,Aktif,24,8231.03,-13.3
+MUS0172,64,51+,Adana,KOBİ,Vadesiz Mevduat,Mobil,11,17,Aktif,7,38252.68,-9.7
+MUS0173,23,22-35,İstanbul,Özel Bankacılık,Yatırım Hesabı,İnternet,7,1,Aktif,18,14640.16,-27.3
+MUS0174,37,36-50,Adana,Bireysel,Vadesiz Mevduat,Şube,12,18,Aktif,11,13620.1,-4.3
+MUS0175,65,51+,İzmir,Bireysel,Yatırım Hesabı,Şube,8,2,Aktif,14,11139.34,-28.2
+MUS0176,34,22-35,Adana,KOBİ,Vadesiz Mevduat,ATM,15,18,Aktif,22,21036.99,-28.5
+MUS0177,63,51+,Adana,KOBİ,Konut Kredisi,Mobil,4,9,Aktif,0,1846.13,-15.3
+MUS0178,47,36-50,Gaziantep,Bireysel,Yatırım Hesabı,ATM,12,16,Aktif,5,15204.08,1.9
+MUS0179,39,36-50,Gaziantep,Özel Bankacılık,Vadesiz Mevduat,Mobil,13,6,Aktif,9,25001.09,-17.2
+MUS0180,27,22-35,Antalya,KOBİ,Konut Kredisi,İnternet,6,6,Aktif,23,32937.06,-15.9
+MUS0181,24,22-35,Gaziantep,KOBİ,Konut Kredisi,ATM,12,3,Aktif,11,31915.11,-13.8
+MUS0182,54,51+,İstanbul,KOBİ,Kredi Kartı,Şube,13,2,Aktif,29,1942.65,-20.6
+MUS0183,63,51+,Gaziantep,KOBİ,Konut Kredisi,Mobil,6,15,Aktif,-6,47185.29,-15.1
+MUS0184,26,22-35,Adana,Özel Bankacılık,Kredi Kartı,İnternet,10,37,Risk Altında,45,8728.64,-25.5
+MUS0185,33,22-35,Gaziantep,Özel Bankacılık,İhtiyaç Kredisi,Mobil,8,15,Aktif,18,6801.37,-5.5
+MUS0186,66,51+,Bursa,Bireysel,Yatırım Hesabı,Mobil,15,15,Aktif,-8,4496.1,-1.5
+MUS0187,27,22-35,Adana,KOBİ,Konut Kredisi,Mobil,13,10,Aktif,27,44023.24,4.1
+MUS0188,67,51+,Adana,Bireysel,Kredi Kartı,Şube,12,5,Aktif,21,8020.49,-10.2
+MUS0189,45,36-50,Adana,KOBİ,İhtiyaç Kredisi,İnternet,9,3,Aktif,-6,-1383.85,-14.1
+MUS0190,67,51+,Gaziantep,KOBİ,Yatırım Hesabı,İnternet,12,5,Aktif,-8,48480.89,-4.3
+MUS0191,50,36-50,Adana,KOBİ,İhtiyaç Kredisi,Şube,8,19,Aktif,20,5007.97,8.7
+MUS0192,49,36-50,Ankara,Özel Bankacılık,Vadesiz Mevduat,Şube,9,6,Aktif,5,12746.34,-1.6
+MUS0193,44,36-50,Ankara,Bireysel,Konut Kredisi,ATM,9,18,Aktif,10,10094.81,-5.0
+MUS0194,61,51+,İzmir,Bireysel,Vadesiz Mevduat,Şube,9,11,Aktif,19,41339.15,-7.5
+MUS0195,23,22-35,Antalya,KOBİ,Vadesiz Mevduat,Şube,2,139,Pasif,58,30144.52,-10.1
+MUS0196,62,51+,Antalya,Bireysel,Konut Kredisi,İnternet,9,10,Aktif,2,19944.93,-2.5
+MUS0197,32,22-35,Konya,Bireysel,Yatırım Hesabı,İnternet,8,5,Aktif,20,12192.04,-1.3
+MUS0198,68,51+,Gaziantep,Özel Bankacılık,Konut Kredisi,Şube,14,18,Aktif,16,840.12,-20.3
+MUS0199,29,22-35,Bursa,Bireysel,Yatırım Hesabı,Şube,5,10,Aktif,21,46996.17,4.6
+MUS0200,48,36-50,Adana,Bireysel,Kredi Kartı,ATM,4,16,Aktif,10,49778.32,-11.3
+MUS0201,41,36-50,Ankara,KOBİ,Vadesiz Mevduat,İnternet,8,8,Aktif,4,6832.94,-15.9
+MUS0202,25,22-35,Konya,KOBİ,Yatırım Hesabı,ATM,5,4,Aktif,10,18701.03,5.3
+MUS0203,68,51+,Adana,Özel Bankacılık,Yatırım Hesabı,Mobil,6,19,Aktif,-9,25899.93,-15.5
+MUS0204,40,36-50,Konya,KOBİ,Yatırım Hesabı,ATM,2,27,Risk Altında,34,2076.49,-26.1
+MUS0205,45,36-50,Adana,Bireysel,Konut Kredisi,Şube,13,17,Aktif,19,17076.29,-28.4
+MUS0206,24,22-35,Konya,Bireysel,Konut Kredisi,İnternet,3,17,Aktif,29,2687.95,7.3
+MUS0207,42,36-50,Antalya,KOBİ,Yatırım Hesabı,ATM,3,18,Aktif,6,21941.57,-7.5
+MUS0208,52,51+,Adana,KOBİ,Vadesiz Mevduat,ATM,14,14,Aktif,-7,27103.62,1.9
+MUS0209,68,51+,Konya,KOBİ,Vadesiz Mevduat,ATM,14,19,Aktif,8,7514.88,-27.9
+MUS0210,52,51+,Gaziantep,KOBİ,İhtiyaç Kredisi,Şube,3,2,Aktif,7,26491.36,-2.0
+MUS0211,34,22-35,Adana,Bireysel,Yatırım Hesabı,İnternet,1,33,Risk Altında,48,17570.76,1.0
+MUS0212,52,51+,İzmir,KOBİ,Vadesiz Mevduat,Şube,14,16,Aktif,10,23901.24,-17.4
+MUS0213,33,22-35,Adana,KOBİ,İhtiyaç Kredisi,ATM,8,9,Aktif,30,28554.21,-22.3
+MUS0214,37,36-50,Antalya,Özel Bankacılık,İhtiyaç Kredisi,Şube,5,7,Aktif,9,32963.2,-10.4
+MUS0215,52,51+,Antalya,Bireysel,İhtiyaç Kredisi,ATM,6,18,Aktif,8,15883.18,9.2
+MUS0216,44,36-50,Antalya,Özel Bankacılık,Kredi Kartı,Mobil,13,12,Aktif,7,45820.53,-3.8
+MUS0217,52,51+,Antalya,Bireysel,Kredi Kartı,ATM,4,19,Aktif,8,8160.51,-28.0
+MUS0218,55,51+,İstanbul,Özel Bankacılık,Kredi Kartı,Mobil,4,16,Aktif,15,529.97,0.8
+MUS0219,22,22-35,Gaziantep,Özel Bankacılık,Kredi Kartı,İnternet,9,32,Risk Altında,45,36575.11,-18.5
+MUS0220,40,36-50,Ankara,KOBİ,Vadesiz Mevduat,Şube,11,6,Aktif,1,17983.67,3.5
+MUS0221,24,22-35,Konya,KOBİ,Yatırım Hesabı,Şube,14,2,Aktif,29,-4490.31,-7.3
+MUS0222,28,22-35,Antalya,KOBİ,Konut Kredisi,İnternet,15,17,Aktif,27,22165.18,7.5
+MUS0223,54,51+,Bursa,Özel Bankacılık,Konut Kredisi,Mobil,8,15,Aktif,-5,30655.69,-1.3
+MUS0224,22,22-35,Antalya,Bireysel,Konut Kredisi,Şube,12,45,Risk Altında,39,40484.44,-9.4
+MUS0225,27,22-35,İzmir,Özel Bankacılık,Vadesiz Mevduat,Şube,7,8,Aktif,30,-4624.34,-14.7
+MUS0226,50,36-50,Adana,KOBİ,Konut Kredisi,ATM,13,1,Aktif,8,9385.42,-15.6
+MUS0227,37,36-50,Konya,Bireysel,Vadesiz Mevduat,ATM,1,17,Aktif,27,45770.83,5.5
+MUS0228,41,36-50,Antalya,KOBİ,Vadesiz Mevduat,ATM,12,8,Aktif,-3,47654.83,-10.9
+MUS0229,51,51+,Adana,KOBİ,İhtiyaç Kredisi,İnternet,12,16,Aktif,7,36654.28,2.1
+MUS0230,35,22-35,Ankara,KOBİ,Kredi Kartı,İnternet,13,24,Risk Altında,36,45448.46,-25.5
+MUS0231,57,51+,Bursa,Bireysel,İhtiyaç Kredisi,Şube,15,17,Aktif,10,19301.23,-2.8
+MUS0232,67,51+,Ankara,Bireysel,Yatırım Hesabı,İnternet,10,5,Aktif,4,23228.63,-11.7
+MUS0233,25,22-35,Antalya,Özel Bankacılık,Yatırım Hesabı,Mobil,9,1,Aktif,18,36019.25,-6.9
+MUS0234,24,22-35,Ankara,Bireysel,Konut Kredisi,Mobil,7,2,Aktif,25,10789.99,-22.8
+MUS0235,30,22-35,Adana,Özel Bankacılık,Yatırım Hesabı,İnternet,13,13,Aktif,22,-586.25,8.6
+MUS0236,56,51+,Ankara,KOBİ,Konut Kredisi,Şube,3,17,Aktif,12,2004.09,9.1
+MUS0237,22,22-35,Antalya,KOBİ,Vadesiz Mevduat,İnternet,13,14,Aktif,27,24256.35,2.9
+MUS0238,37,36-50,İzmir,Bireysel,Konut Kredisi,ATM,8,2,Aktif,-7,39521.3,-13.2
+MUS0239,23,22-35,Ankara,KOBİ,Kredi Kartı,Mobil,4,15,Aktif,26,27878.17,-1.9
+MUS0240,25,22-35,Gaziantep,Bireysel,Vadesiz Mevduat,İnternet,4,7,Aktif,27,36491.21,1.0
+MUS0241,30,22-35,Bursa,KOBİ,Konut Kredisi,ATM,9,11,Aktif,29,8029.72,5.1
+MUS0242,64,51+,Gaziantep,Özel Bankacılık,Kredi Kartı,ATM,9,18,Aktif,6,47168.61,5.2
+MUS0243,33,22-35,Konya,Özel Bankacılık,Yatırım Hesabı,Mobil,11,13,Aktif,30,38219.25,-17.3
+MUS0244,48,36-50,Antalya,Bireysel,Kredi Kartı,İnternet,7,16,Aktif,22,8253.25,-21.0
+MUS0245,67,51+,İstanbul,Özel Bankacılık,Yatırım Hesabı,İnternet,3,17,Aktif,7,2375.1,-20.3
+MUS0246,35,22-35,Konya,Bireysel,Vadesiz Mevduat,ATM,6,7,Aktif,27,-2165.49,-14.9
+MUS0247,60,51+,Ankara,KOBİ,Vadesiz Mevduat,Şube,10,7,Aktif,17,21366.68,4.8
+MUS0248,43,36-50,Bursa,KOBİ,Vadesiz Mevduat,Şube,5,16,Aktif,3,45294.27,-2.2
+MUS0249,67,51+,Bursa,Özel Bankacılık,Yatırım Hesabı,ATM,4,15,Aktif,2,24350.76,-15.6
+MUS0250,38,36-50,Konya,Bireysel,İhtiyaç Kredisi,İnternet,6,11,Aktif,5,45288.18,-15.2
+MUS0251,48,36-50,Bursa,Bireysel,İhtiyaç Kredisi,Şube,1,55,Risk Altında,33,46411.7,-6.8
+MUS0252,48,36-50,Bursa,Bireysel,Kredi Kartı,ATM,5,19,Aktif,17,40834.95,-10.0
+MUS0253,63,51+,Antalya,KOBİ,Konut Kredisi,İnternet,11,16,Aktif,10,20345.59,-0.7
+MUS0254,44,36-50,Konya,KOBİ,Kredi Kartı,Şube,3,23,Risk Altında,35,23816.94,3.6
+MUS0255,26,22-35,İstanbul,Bireysel,Vadesiz Mevduat,İnternet,14,8,Aktif,30,-1261.76,-24.0
+MUS0256,35,22-35,Adana,KOBİ,Yatırım Hesabı,Mobil,9,16,Aktif,30,31260.64,-29.4
+MUS0257,56,51+,İstanbul,KOBİ,Yatırım Hesabı,Mobil,9,18,Aktif,-2,48761.36,-29.3
+MUS0258,66,51+,İzmir,Bireysel,Yatırım Hesabı,Mobil,11,5,Aktif,6,8253.29,-5.2
+MUS0259,38,36-50,Antalya,Bireysel,Konut Kredisi,İnternet,14,13,Aktif,1,20244.88,-20.3
+MUS0260,66,51+,Ankara,Bireysel,Konut Kredisi,Mobil,4,13,Aktif,2,15744.33,-11.0
+MUS0261,62,51+,Ankara,Özel Bankacılık,Kredi Kartı,İnternet,1,41,Risk Altında,50,26122.11,4.3
+MUS0262,28,22-35,İstanbul,Bireysel,İhtiyaç Kredisi,Şube,15,50,Risk Altında,38,9910.23,7.0
+MUS0263,65,51+,İstanbul,Özel Bankacılık,Konut Kredisi,Şube,15,7,Aktif,0,27286.99,0.1
+MUS0264,67,51+,Ankara,Bireysel,Yatırım Hesabı,ATM,14,8,Aktif,8,26168.28,4.0
+MUS0265,65,51+,Adana,KOBİ,İhtiyaç Kredisi,İnternet,15,3,Aktif,-6,22543.61,9.0
+MUS0266,25,22-35,Bursa,Özel Bankacılık,Yatırım Hesabı,Mobil,2,59,Risk Altında,54,47517.21,-14.1
+MUS0267,42,36-50,Konya,Bireysel,Konut Kredisi,İnternet,1,18,Aktif,26,46762.86,-12.7
+MUS0268,65,51+,Ankara,Bireysel,Yatırım Hesabı,ATM,10,3,Aktif,-8,9738.46,-14.8
+MUS0269,62,51+,Adana,Bireysel,Yatırım Hesabı,ATM,3,1,Aktif,-8,46862.81,-12.2
+MUS0270,39,36-50,Ankara,Özel Bankacılık,Kredi Kartı,Şube,2,55,Risk Altında,54,25510.7,-13.7
+MUS0271,23,22-35,Ankara,Özel Bankacılık,Konut Kredisi,ATM,2,38,Risk Altında,35,17759.55,1.2
+MUS0272,68,51+,Bursa,KOBİ,İhtiyaç Kredisi,Şube,15,6,Aktif,12,2636.2,-18.0
+MUS0273,53,51+,İzmir,Özel Bankacılık,Vadesiz Mevduat,İnternet,3,10,Aktif,3,21632.72,-26.9
+MUS0274,38,36-50,Bursa,Bireysel,Yatırım Hesabı,İnternet,4,10,Aktif,-6,-4627.79,-14.2
+MUS0275,61,51+,Konya,Özel Bankacılık,Konut Kredisi,ATM,7,5,Aktif,10,11523.94,-5.9
+MUS0276,66,51+,Adana,Özel Bankacılık,Yatırım Hesabı,Şube,4,10,Aktif,10,35418.09,-4.7
+MUS0277,58,51+,Adana,Özel Bankacılık,Kredi Kartı,İnternet,13,12,Aktif,17,1263.83,-7.4
+MUS0278,59,51+,İstanbul,KOBİ,Kredi Kartı,İnternet,9,15,Aktif,11,38872.7,3.3
+MUS0279,26,22-35,Konya,KOBİ,Yatırım Hesabı,Şube,14,8,Aktif,29,8897.49,-23.8
+MUS0280,49,36-50,Ankara,KOBİ,Yatırım Hesabı,İnternet,13,19,Aktif,5,17044.28,-9.7
+MUS0281,66,51+,İstanbul,KOBİ,İhtiyaç Kredisi,ATM,7,3,Aktif,7,1015.32,-20.1
+MUS0282,64,51+,İstanbul,Özel Bankacılık,Kredi Kartı,İnternet,6,4,Aktif,18,-4419.87,-19.7
+MUS0283,54,51+,Bursa,Özel Bankacılık,İhtiyaç Kredisi,İnternet,12,15,Aktif,2,37478.82,-6.5
+MUS0284,54,51+,İstanbul,Bireysel,Konut Kredisi,İnternet,3,14,Aktif,-1,45630.11,-26.6
+MUS0285,68,51+,Antalya,Özel Bankacılık,Konut Kredisi,ATM,3,17,Aktif,-4,21560.93,-11.0
+MUS0286,50,36-50,Adana,Özel Bankacılık,Yatırım Hesabı,Mobil,12,4,Aktif,-9,-3757.82,-16.3
+MUS0287,28,22-35,Bursa,KOBİ,Kredi Kartı,Şube,11,41,Risk Altında,40,25791.69,8.3
+MUS0288,36,36-50,İzmir,KOBİ,Yatırım Hesabı,Şube,13,13,Aktif,13,-3394.42,-5.4
+MUS0289,34,22-35,Gaziantep,Bireysel,İhtiyaç Kredisi,İnternet,8,7,Aktif,16,10308.97,-1.8
+MUS0290,26,22-35,İzmir,Özel Bankacılık,Vadesiz Mevduat,ATM,10,15,Aktif,16,1267.52,-3.2
+MUS0291,53,51+,Gaziantep,KOBİ,Konut Kredisi,İnternet,9,12,Aktif,-7,14359.17,-11.7
+MUS0292,33,22-35,Ankara,Özel Bankacılık,Konut Kredisi,Şube,14,8,Aktif,23,11795.9,-22.7
+MUS0293,66,51+,Gaziantep,KOBİ,İhtiyaç Kredisi,İnternet,3,19,Aktif,-6,16104.05,-22.6
+MUS0294,62,51+,İzmir,Özel Bankacılık,Kredi Kartı,İnternet,9,6,Aktif,9,12301.9,-12.0
+MUS0295,25,22-35,İstanbul,Bireysel,Konut Kredisi,İnternet,14,13,Aktif,16,48010.6,-9.8
+MUS0296,53,51+,Gaziantep,Özel Bankacılık,Yatırım Hesabı,İnternet,7,3,Aktif,-5,26096.88,1.8
+MUS0297,36,36-50,Antalya,KOBİ,Vadesiz Mevduat,Şube,5,6,Aktif,9,37940.71,-7.4
+MUS0298,53,51+,Ankara,Özel Bankacılık,İhtiyaç Kredisi,Mobil,9,12,Aktif,7,24812.39,0.3
+MUS0299,68,51+,Bursa,Bireysel,İhtiyaç Kredisi,İnternet,8,8,Aktif,10,11373.99,10.0
+MUS0300,50,36-50,Ankara,Bireysel,Konut Kredisi,İnternet,5,7,Aktif,-3,39588.65,-6.5
+MUS0301,44,36-50,Gaziantep,KOBİ,İhtiyaç Kredisi,Şube,14,7,Aktif,4,39744.14,2.2
+MUS0302,58,51+,Antalya,Özel Bankacılık,İhtiyaç Kredisi,Şube,6,10,Aktif,9,26500.46,8.1
+MUS0303,54,51+,İzmir,Bireysel,Vadesiz Mevduat,İnternet,15,5,Aktif,-2,33578.46,-24.7
+MUS0304,31,22-35,Bursa,Özel Bankacılık,Konut Kredisi,İnternet,12,19,Aktif,14,29782.11,-4.9
+MUS0305,46,36-50,Ankara,KOBİ,Vadesiz Mevduat,İnternet,8,12,Aktif,-2,20008.26,-10.5
+MUS0306,59,51+,Konya,Bireysel,Vadesiz Mevduat,ATM,1,45,Risk Altında,32,6980.65,-12.8
+MUS0307,35,22-35,Adana,Özel Bankacılık,Konut Kredisi,ATM,8,19,Aktif,27,2182.68,4.1
+MUS0308,43,36-50,İstanbul,KOBİ,Vadesiz Mevduat,Mobil,15,1,Aktif,4,1833.04,4.3
+MUS0309,50,36-50,Gaziantep,KOBİ,Vadesiz Mevduat,Şube,8,10,Aktif,4,3743.76,7.3
+MUS0310,39,36-50,Antalya,Özel Bankacılık,Konut Kredisi,Mobil,2,30,Risk Altında,35,-2151.7,-5.0
+MUS0311,68,51+,Gaziantep,KOBİ,Kredi Kartı,Mobil,12,1,Aktif,8,6738.16,-26.9
+MUS0312,59,51+,Konya,Bireysel,İhtiyaç Kredisi,Mobil,4,4,Aktif,0,49348.52,-13.1
+MUS0313,30,22-35,Bursa,Bireysel,Vadesiz Mevduat,İnternet,8,4,Aktif,13,12234.33,5.2
+MUS0314,30,22-35,İzmir,KOBİ,Kredi Kartı,Mobil,7,20,Risk Altında,43,28567.56,-23.4
+MUS0315,44,36-50,İzmir,KOBİ,Kredi Kartı,İnternet,12,7,Aktif,19,-232.16,-26.0
+MUS0316,29,22-35,Adana,Özel Bankacılık,Yatırım Hesabı,İnternet,10,8,Aktif,14,10233.22,-26.6
+MUS0317,57,51+,Antalya,KOBİ,İhtiyaç Kredisi,Mobil,10,7,Aktif,-1,23476.2,-9.6
+MUS0318,47,36-50,Bursa,Özel Bankacılık,Vadesiz Mevduat,İnternet,5,8,Aktif,-7,22477.04,-6.2
+MUS0319,55,51+,Adana,Bireysel,Vadesiz Mevduat,ATM,15,19,Aktif,2,18147.49,-8.1
+MUS0320,33,22-35,Ankara,KOBİ,Yatırım Hesabı,Mobil,13,1,Aktif,12,9420.19,-28.4
+MUS0321,25,22-35,Antalya,Özel Bankacılık,Yatırım Hesabı,İnternet,13,3,Aktif,22,30229.55,-8.5
+MUS0322,31,22-35,Antalya,KOBİ,Vadesiz Mevduat,Mobil,5,5,Aktif,16,24501.46,-14.4
+MUS0323,62,51+,Antalya,KOBİ,Vadesiz Mevduat,İnternet,13,2,Aktif,-3,8446.39,7.0
+MUS0324,29,22-35,İstanbul,KOBİ,İhtiyaç Kredisi,ATM,8,4,Aktif,15,-4303.43,-24.5
+MUS0325,22,22-35,Adana,Bireysel,Yatırım Hesabı,ATM,3,5,Aktif,21,36237.7,4.9
+MUS0326,68,51+,İstanbul,Özel Bankacılık,Vadesiz Mevduat,ATM,15,17,Aktif,-2,-1487.04,-1.5
+MUS0327,58,51+,Konya,KOBİ,Vadesiz Mevduat,İnternet,11,2,Aktif,1,22478.55,-7.3
+MUS0328,45,36-50,Ankara,Bireysel,Konut Kredisi,Mobil,3,1,Aktif,6,-2577.92,4.5
+MUS0329,37,36-50,Adana,Bireysel,Yatırım Hesabı,İnternet,1,2,Aktif,20,25407.56,6.6
+MUS0330,63,51+,Adana,Özel Bankacılık,Kredi Kartı,Şube,7,9,Aktif,25,40429.83,-7.1
+MUS0331,29,22-35,İzmir,KOBİ,Vadesiz Mevduat,Şube,9,13,Aktif,21,-1209.05,-11.4
+MUS0332,40,36-50,Adana,KOBİ,Konut Kredisi,Mobil,13,1,Aktif,4,15290.56,-18.3
+MUS0333,41,36-50,Bursa,Özel Bankacılık,İhtiyaç Kredisi,İnternet,12,16,Aktif,8,49878.29,1.0
+MUS0334,68,51+,Bursa,Bireysel,İhtiyaç Kredisi,Şube,15,1,Aktif,13,7814.88,-16.1
+MUS0335,66,51+,Adana,KOBİ,Vadesiz Mevduat,Mobil,15,10,Aktif,2,717.2,-8.8
+MUS0336,37,36-50,İstanbul,KOBİ,Yatırım Hesabı,Şube,7,3,Aktif,8,-2585.49,-20.7
+MUS0337,55,51+,Konya,KOBİ,Konut Kredisi,Mobil,7,17,Aktif,-7,2343.26,2.8
+MUS0338,26,22-35,İstanbul,KOBİ,İhtiyaç Kredisi,İnternet,10,8,Aktif,14,11042.18,4.0
+MUS0339,47,36-50,Adana,Özel Bankacılık,Konut Kredisi,İnternet,12,3,Aktif,-3,46895.51,-24.6
+MUS0340,59,51+,Ankara,Özel Bankacılık,Kredi Kartı,Şube,2,40,Risk Altında,54,17358.19,-8.6
+MUS0341,35,22-35,Konya,Bireysel,Konut Kredisi,ATM,8,6,Aktif,12,39417.83,-17.8
+MUS0342,67,51+,İstanbul,Özel Bankacılık,İhtiyaç Kredisi,Şube,12,3,Aktif,4,34113.66,8.7
+MUS0343,47,36-50,Antalya,Bireysel,Vadesiz Mevduat,ATM,9,13,Aktif,-10,42003.07,-7.8
+MUS0344,57,51+,Konya,Bireysel,Vadesiz Mevduat,Mobil,4,1,Aktif,-7,-1608.19,1.2
+MUS0345,36,36-50,Gaziantep,KOBİ,Kredi Kartı,ATM,3,3,Aktif,25,27027.81,-19.6
+MUS0346,26,22-35,Bursa,Bireysel,Vadesiz Mevduat,İnternet,1,41,Risk Altında,37,1739.02,7.7
+MUS0347,25,22-35,Gaziantep,Özel Bankacılık,İhtiyaç Kredisi,İnternet,3,13,Aktif,10,32576.71,-23.1
+MUS0348,35,22-35,Antalya,Özel Bankacılık,Kredi Kartı,ATM,15,2,Aktif,29,28775.86,-5.3
+MUS0349,63,51+,Gaziantep,Bireysel,Yatırım Hesabı,İnternet,5,9,Aktif,-8,16065.84,-13.2
+MUS0350,63,51+,Bursa,Özel Bankacılık,İhtiyaç Kredisi,Mobil,15,16,Aktif,1,24948.48,-10.6
+MUS0351,58,51+,Gaziantep,Bireysel,Konut Kredisi,ATM,9,11,Aktif,-10,27841.4,-28.8
+MUS0352,39,36-50,Adana,Bireysel,Yatırım Hesabı,Şube,1,8,Aktif,28,31127.54,-19.3
+MUS0353,25,22-35,Gaziantep,Bireysel,Kredi Kartı,ATM,13,8,Aktif,30,27588.57,2.2
+MUS0354,66,51+,İstanbul,KOBİ,İhtiyaç Kredisi,ATM,6,5,Aktif,8,25970.99,-22.5
+MUS0355,53,51+,İzmir,Bireysel,Konut Kredisi,İnternet,9,2,Aktif,-8,7794.28,-21.2
+MUS0356,55,51+,Adana,Bireysel,Vadesiz Mevduat,Şube,8,6,Aktif,10,45532.94,3.8
+MUS0357,42,36-50,İzmir,Bireysel,Vadesiz Mevduat,Şube,1,43,Risk Altında,41,47830.73,-15.1
+MUS0358,64,51+,Ankara,Özel Bankacılık,İhtiyaç Kredisi,ATM,7,5,Aktif,0,48672.34,-0.7
+MUS0359,49,36-50,Adana,KOBİ,Yatırım Hesabı,Şube,13,12,Aktif,17,7278.05,-6.4
+MUS0360,33,22-35,Antalya,Bireysel,Konut Kredisi,Şube,7,19,Aktif,20,16538.08,9.8
+MUS0361,58,51+,Adana,KOBİ,Kredi Kartı,Şube,1,73,Pasif,58,46517.83,-24.4
+MUS0362,26,22-35,Adana,KOBİ,Konut Kredisi,Şube,4,11,Aktif,22,19564.65,-19.4
+MUS0363,37,36-50,Adana,Bireysel,Vadesiz Mevduat,ATM,12,2,Aktif,-10,16226.54,-0.7
+MUS0364,32,22-35,Konya,Özel Bankacılık,Yatırım Hesabı,İnternet,15,13,Aktif,27,578.57,-10.8
+MUS0365,58,51+,İzmir,Bireysel,Kredi Kartı,İnternet,11,10,Aktif,6,-3895.71,-19.6
+MUS0366,28,22-35,İzmir,Bireysel,Konut Kredisi,İnternet,2,55,Risk Altında,37,46800.88,9.1
+MUS0367,43,36-50,Konya,Özel Bankacılık,İhtiyaç Kredisi,Mobil,10,6,Aktif,10,28402.47,-12.6
+MUS0368,25,22-35,Bursa,Özel Bankacılık,Konut Kredisi,Şube,2,152,Pasif,62,45906.55,-8.4
+MUS0369,64,51+,Bursa,Bireysel,Konut Kredisi,Mobil,5,19,Aktif,2,25231.44,-10.4
+MUS0370,25,22-35,Gaziantep,Özel Bankacılık,Vadesiz Mevduat,Mobil,6,16,Aktif,30,5982.11,-29.0
+MUS0371,32,22-35,Ankara,Bireysel,Konut Kredisi,İnternet,11,13,Aktif,19,20901.94,5.8
+MUS0372,38,36-50,Gaziantep,Özel Bankacılık,İhtiyaç Kredisi,Şube,2,43,Risk Altında,37,5262.06,-28.2
+MUS0373,50,36-50,Bursa,KOBİ,Konut Kredisi,ATM,8,5,Aktif,-9,36372.93,-3.3
+MUS0374,27,22-35,Gaziantep,KOBİ,Konut Kredisi,Şube,11,13,Aktif,21,40012.29,-13.3
+MUS0375,56,51+,Bursa,Özel Bankacılık,Yatırım Hesabı,İnternet,11,13,Aktif,-8,44652.75,-1.4
+MUS0376,54,51+,İzmir,Özel Bankacılık,İhtiyaç Kredisi,Mobil,10,6,Aktif,-5,48469.07,2.3
+MUS0377,30,22-35,Ankara,Bireysel,Yatırım Hesabı,İnternet,1,29,Risk Altında,55,40875.95,-19.7
+MUS0378,68,51+,Ankara,KOBİ,Vadesiz Mevduat,İnternet,15,18,Aktif,2,12936.97,-19.0
+MUS0379,51,51+,Gaziantep,Özel Bankacılık,Vadesiz Mevduat,Mobil,15,5,Aktif,-6,26162.67,-6.7
+MUS0380,28,22-35,Ankara,KOBİ,Vadesiz Mevduat,ATM,15,14,Aktif,21,9527.51,-3.8
+MUS0381,58,51+,İstanbul,Özel Bankacılık,Yatırım Hesabı,Şube,10,5,Aktif,12,29003.45,-2.8
+MUS0382,47,36-50,Adana,Bireysel,Yatırım Hesabı,Şube,1,37,Risk Altında,40,44336.72,-29.2
+MUS0383,41,36-50,Konya,Bireysel,Konut Kredisi,Mobil,5,10,Aktif,-6,48582.07,-12.3
+MUS0384,42,36-50,Ankara,Özel Bankacılık,Yatırım Hesabı,Şube,5,14,Aktif,6,35751.96,0.4
+MUS0385,45,36-50,İzmir,Özel Bankacılık,Vadesiz Mevduat,Mobil,14,13,Aktif,6,2460.74,4.1
+MUS0386,58,51+,Bursa,Bireysel,Kredi Kartı,Şube,1,22,Risk Altında,47,20104.68,6.7
+MUS0387,67,51+,Adana,KOBİ,Konut Kredisi,İnternet,4,4,Aktif,2,32464.59,-20.3
+MUS0388,53,51+,İzmir,KOBİ,Yatırım Hesabı,İnternet,10,12,Aktif,7,13933.7,3.5
+MUS0389,38,36-50,Antalya,Özel Bankacılık,Vadesiz Mevduat,Mobil,12,6,Aktif,-9,41960.17,1.2
+MUS0390,35,22-35,Bursa,Özel Bankacılık,Kredi Kartı,Şube,14,46,Risk Altında,55,23230.47,4.6
+MUS0391,65,51+,İzmir,KOBİ,Yatırım Hesabı,Şube,1,8,Aktif,25,8881.47,2.2
+MUS0392,41,36-50,Gaziantep,Özel Bankacılık,Konut Kredisi,İnternet,12,9,Aktif,4,7001.5,-17.9
+MUS0393,55,51+,Gaziantep,Bireysel,İhtiyaç Kredisi,Mobil,14,12,Aktif,6,25880.14,-6.2
+MUS0394,40,36-50,Konya,Özel Bankacılık,Vadesiz Mevduat,Mobil,5,11,Aktif,-2,42382.04,-19.6
+MUS0395,67,51+,Bursa,KOBİ,Konut Kredisi,Şube,15,2,Aktif,7,39298.64,2.1
+MUS0396,60,51+,İzmir,KOBİ,Konut Kredisi,Mobil,7,10,Aktif,5,9268.44,-13.3
+MUS0397,46,36-50,Bursa,KOBİ,Vadesiz Mevduat,ATM,12,18,Aktif,-3,30107.25,-11.0
+MUS0398,64,51+,Antalya,KOBİ,İhtiyaç Kredisi,Şube,6,6,Aktif,17,11158.12,-11.2
+MUS0399,38,36-50,İzmir,KOBİ,İhtiyaç Kredisi,ATM,12,8,Aktif,-8,14540.59,-0.2
+MUS0400,41,36-50,Adana,KOBİ,Konut Kredisi,ATM,7,15,Aktif,-1,41816.76,-11.2
+MUS0401,62,51+,Ankara,Bireysel,İhtiyaç Kredisi,İnternet,10,4,Aktif,6,42712.38,-14.7
+MUS0402,41,36-50,İzmir,Bireysel,Vadesiz Mevduat,Şube,7,14,Aktif,10,49295.54,5.7
+MUS0403,51,51+,İzmir,Özel Bankacılık,Konut Kredisi,Mobil,3,6,Aktif,0,12237.77,-27.7
+MUS0404,50,36-50,İzmir,Özel Bankacılık,Kredi Kartı,Şube,5,5,Aktif,17,28796.39,-4.7
+MUS0405,47,36-50,Gaziantep,Bireysel,Yatırım Hesabı,Mobil,7,7,Aktif,7,35186.25,8.0
+MUS0406,42,36-50,Bursa,KOBİ,İhtiyaç Kredisi,Mobil,13,8,Aktif,-10,7444.61,5.1
+MUS0407,41,36-50,Gaziantep,Bireysel,Vadesiz Mevduat,ATM,3,2,Aktif,-8,11401.12,-18.4
+MUS0408,68,51+,Adana,KOBİ,İhtiyaç Kredisi,İnternet,9,11,Aktif,-6,49787.64,-10.4
+MUS0409,34,22-35,İstanbul,Bireysel,Yatırım Hesabı,Şube,3,7,Aktif,24,35374.21,-6.4
+MUS0410,32,22-35,İstanbul,KOBİ,Konut Kredisi,İnternet,2,54,Risk Altında,43,29272.41,-6.2
+MUS0411,25,22-35,İstanbul,KOBİ,Vadesiz Mevduat,Mobil,11,14,Aktif,13,19437.29,-25.1
+MUS0412,38,36-50,Bursa,Özel Bankacılık,Kredi Kartı,Mobil,8,4,Aktif,18,31436.56,-19.2
+MUS0413,60,51+,Gaziantep,KOBİ,Kredi Kartı,Mobil,12,4,Aktif,24,10548.87,1.4
+MUS0414,53,51+,Bursa,KOBİ,İhtiyaç Kredisi,ATM,4,12,Aktif,-4,33689.02,-18.2
+MUS0415,24,22-35,Bursa,Özel Bankacılık,Yatırım Hesabı,İnternet,9,1,Aktif,17,-4298.78,-26.4
+MUS0416,29,22-35,Konya,Bireysel,İhtiyaç Kredisi,Şube,14,24,Risk Altında,36,34796.0,-25.9
+MUS0417,38,36-50,Konya,Özel Bankacılık,Kredi Kartı,ATM,11,2,Aktif,19,489.49,-23.0
+MUS0418,24,22-35,Adana,Özel Bankacılık,Konut Kredisi,ATM,14,4,Aktif,13,41818.52,5.6
+MUS0419,22,22-35,İzmir,Özel Bankacılık,Kredi Kartı,ATM,14,59,Risk Altında,39,9757.02,-0.7
+MUS0420,45,36-50,İzmir,Özel Bankacılık,Konut Kredisi,Mobil,14,15,Aktif,2,9950.82,-14.6
+MUS0421,52,51+,İzmir,Bireysel,Yatırım Hesabı,Mobil,13,6,Aktif,-9,704.22,6.4
+MUS0422,52,51+,Konya,KOBİ,İhtiyaç Kredisi,Şube,13,12,Aktif,12,28624.71,4.5
+MUS0423,68,51+,Konya,Bireysel,Kredi Kartı,İnternet,15,15,Aktif,18,-2471.52,-19.5
+MUS0424,42,36-50,Bursa,KOBİ,İhtiyaç Kredisi,ATM,1,59,Risk Altında,31,238.32,-3.5
+MUS0425,37,36-50,Gaziantep,KOBİ,Konut Kredisi,Şube,8,2,Aktif,19,-4359.53,7.4
+MUS0426,54,51+,Konya,Bireysel,Yatırım Hesabı,Şube,14,11,Aktif,15,8249.05,8.8
+MUS0427,25,22-35,Gaziantep,Bireysel,Kredi Kartı,İnternet,9,15,Aktif,27,19430.39,-7.1
+MUS0428,27,22-35,Konya,Bireysel,Yatırım Hesabı,ATM,14,1,Aktif,25,645.38,-13.5
+MUS0429,57,51+,Ankara,KOBİ,Vadesiz Mevduat,ATM,9,7,Aktif,7,31002.78,-11.8
+MUS0430,43,36-50,Bursa,Özel Bankacılık,Vadesiz Mevduat,İnternet,6,16,Aktif,7,34416.19,-15.5
+MUS0431,50,36-50,Bursa,Özel Bankacılık,Vadesiz Mevduat,Mobil,2,10,Aktif,26,25122.98,-15.0
+MUS0432,28,22-35,Konya,KOBİ,Kredi Kartı,Şube,1,73,Pasif,73,8985.91,-22.2
+MUS0433,29,22-35,Bursa,Bireysel,Yatırım Hesabı,İnternet,15,4,Aktif,20,36643.21,-28.1
+MUS0434,62,51+,Ankara,Özel Bankacılık,İhtiyaç Kredisi,İnternet,14,17,Aktif,8,2404.98,-10.0
+MUS0435,55,51+,Gaziantep,KOBİ,Vadesiz Mevduat,İnternet,12,19,Aktif,-5,4550.76,2.6
+MUS0436,28,22-35,Adana,Özel Bankacılık,İhtiyaç Kredisi,İnternet,7,8,Aktif,29,10047.77,8.5
+MUS0437,40,36-50,İzmir,KOBİ,Kredi Kartı,İnternet,8,10,Aktif,21,41369.09,-8.1
+MUS0438,42,36-50,Bursa,Bireysel,İhtiyaç Kredisi,Şube,12,10,Aktif,19,32763.62,6.8
+MUS0439,30,22-35,Adana,Özel Bankacılık,Kredi Kartı,Mobil,12,50,Risk Altında,42,27054.34,7.7
+MUS0440,67,51+,Antalya,Bireysel,İhtiyaç Kredisi,İnternet,7,4,Aktif,6,-3610.03,-24.2
+MUS0441,64,51+,Antalya,Özel Bankacılık,Kredi Kartı,Şube,1,29,Risk Altında,48,41166.0,-2.4
+MUS0442,40,36-50,İstanbul,Özel Bankacılık,İhtiyaç Kredisi,ATM,4,18,Aktif,-7,42566.28,-0.3
+MUS0443,57,51+,Antalya,Özel Bankacılık,Kredi Kartı,Mobil,7,14,Aktif,17,47618.61,9.0
+MUS0444,42,36-50,İstanbul,Bireysel,Vadesiz Mevduat,ATM,9,15,Aktif,9,40649.09,6.5
+MUS0445,67,51+,Bursa,Özel Bankacılık,Konut Kredisi,Şube,12,6,Aktif,14,49089.93,-27.0
+MUS0446,33,22-35,Ankara,Bireysel,İhtiyaç Kredisi,İnternet,12,9,Aktif,23,25612.92,-24.8
+MUS0447,59,51+,İstanbul,Özel Bankacılık,Konut Kredisi,ATM,14,2,Aktif,-6,3453.69,-17.1
+MUS0448,25,22-35,Antalya,KOBİ,İhtiyaç Kredisi,İnternet,13,12,Aktif,27,-991.56,-1.7
+MUS0449,55,51+,Ankara,Özel Bankacılık,Kredi Kartı,Şube,4,54,Risk Altında,32,17187.94,-16.0
+MUS0450,35,22-35,Adana,Özel Bankacılık,Konut Kredisi,ATM,11,17,Aktif,16,21117.15,-7.5
+MUS0451,63,51+,Adana,Bireysel,Vadesiz Mevduat,İnternet,1,59,Risk Altında,35,45523.4,-20.2
+MUS0452,24,22-35,Gaziantep,Özel Bankacılık,Konut Kredisi,Mobil,11,18,Aktif,18,34818.66,-29.0
+MUS0453,55,51+,Konya,Bireysel,Konut Kredisi,İnternet,14,7,Aktif,-1,12617.2,-26.7
+MUS0454,28,22-35,İstanbul,Bireysel,İhtiyaç Kredisi,Mobil,3,7,Aktif,30,42572.3,-13.0
+MUS0455,28,22-35,Gaziantep,KOBİ,İhtiyaç Kredisi,Mobil,4,1,Aktif,14,20257.39,-16.7
+MUS0456,27,22-35,İzmir,KOBİ,Vadesiz Mevduat,ATM,2,56,Risk Altında,37,40189.06,6.4
+MUS0457,48,36-50,Gaziantep,Özel Bankacılık,Yatırım Hesabı,İnternet,7,13,Aktif,-10,32031.43,-8.6
+MUS0458,63,51+,Ankara,KOBİ,İhtiyaç Kredisi,Mobil,12,12,Aktif,-8,46042.63,-25.8
+MUS0459,65,51+,Ankara,Özel Bankacılık,İhtiyaç Kredisi,ATM,5,13,Aktif,2,40216.73,-28.8
+MUS0460,32,22-35,İzmir,KOBİ,Kredi Kartı,İnternet,9,29,Risk Altında,34,11393.11,5.5
+MUS0461,68,51+,İstanbul,Bireysel,Konut Kredisi,Şube,11,1,Aktif,1,26499.52,-14.2
+MUS0462,57,51+,Bursa,Bireysel,Konut Kredisi,ATM,2,17,Aktif,28,2835.03,-22.6
+MUS0463,61,51+,Bursa,Bireysel,Konut Kredisi,Mobil,14,2,Aktif,8,41826.32,7.3
+MUS0464,57,51+,Ankara,KOBİ,İhtiyaç Kredisi,ATM,8,9,Aktif,-8,401.13,-1.0
+MUS0465,53,51+,İzmir,Bireysel,Konut Kredisi,Şube,6,3,Aktif,9,44506.52,-17.3
+MUS0466,50,36-50,Antalya,KOBİ,İhtiyaç Kredisi,Şube,6,12,Aktif,18,39423.49,8.3
+MUS0467,32,22-35,Bursa,KOBİ,Konut Kredisi,Şube,1,115,Pasif,65,10217.39,-15.6
+MUS0468,65,51+,Konya,Özel Bankacılık,Konut Kredisi,İnternet,12,10,Aktif,1,21783.43,-25.6
+MUS0469,63,51+,Antalya,KOBİ,Vadesiz Mevduat,Şube,10,9,Aktif,6,35344.95,-4.9
+MUS0470,68,51+,İstanbul,KOBİ,Vadesiz Mevduat,İnternet,2,2,Aktif,21,25337.67,-8.3
+MUS0471,56,51+,Adana,Bireysel,Kredi Kartı,İnternet,8,10,Aktif,23,2363.47,-10.0
+MUS0472,27,22-35,İstanbul,KOBİ,Konut Kredisi,Şube,7,17,Aktif,25,2720.39,-23.6
+MUS0473,58,51+,Konya,Bireysel,Kredi Kartı,ATM,10,16,Aktif,12,7746.24,-19.4
+MUS0474,36,36-50,Adana,Özel Bankacılık,Kredi Kartı,İnternet,1,22,Risk Altında,44,-2805.24,-4.1
+MUS0475,28,22-35,Antalya,KOBİ,İhtiyaç Kredisi,ATM,12,19,Aktif,27,4561.74,-3.9
+MUS0476,45,36-50,Antalya,Bireysel,Vadesiz Mevduat,İnternet,10,13,Aktif,6,14409.39,4.7
+MUS0477,53,51+,İstanbul,Özel Bankacılık,Yatırım Hesabı,Şube,13,8,Aktif,5,-760.15,-4.3
+MUS0478,35,22-35,İzmir,KOBİ,Kredi Kartı,ATM,3,8,Aktif,28,17803.75,-16.8
+MUS0479,29,22-35,Konya,KOBİ,Yatırım Hesabı,Şube,8,14,Aktif,25,-3765.47,-28.3
+MUS0480,58,51+,İzmir,KOBİ,Kredi Kartı,Mobil,10,2,Aktif,9,4148.78,6.9
+MUS0481,55,51+,İstanbul,Bireysel,İhtiyaç Kredisi,ATM,7,15,Aktif,-4,28358.92,-11.1
+MUS0482,52,51+,Gaziantep,KOBİ,Kredi Kartı,Şube,3,17,Aktif,20,9548.64,-1.0
+MUS0483,43,36-50,Ankara,Özel Bankacılık,Yatırım Hesabı,Şube,15,5,Aktif,12,971.36,-21.9
+MUS0484,54,51+,İzmir,Bireysel,Yatırım Hesabı,Mobil,11,2,Aktif,5,43276.4,-8.7
+MUS0485,29,22-35,İzmir,KOBİ,Yatırım Hesabı,Mobil,2,47,Risk Altında,55,23712.43,-15.2
+MUS0486,24,22-35,Gaziantep,Özel Bankacılık,İhtiyaç Kredisi,Şube,12,42,Risk Altında,32,27397.64,-0.3
+MUS0487,66,51+,Gaziantep,Özel Bankacılık,Vadesiz Mevduat,Şube,10,8,Aktif,15,45054.69,-26.6
+MUS0488,60,51+,Gaziantep,Bireysel,İhtiyaç Kredisi,ATM,15,1,Aktif,-10,26789.29,-25.3
+MUS0489,22,22-35,Adana,Özel Bankacılık,Kredi Kartı,İnternet,7,5,Aktif,28,18433.94,-6.6
+MUS0490,38,36-50,Gaziantep,KOBİ,İhtiyaç Kredisi,ATM,14,13,Aktif,-2,36523.45,-13.5
+MUS0491,57,51+,Adana,Özel Bankacılık,Kredi Kartı,İnternet,8,19,Aktif,14,13939.6,-1.8
+MUS0492,30,22-35,Bursa,KOBİ,Vadesiz Mevduat,İnternet,14,4,Aktif,15,6795.2,-14.0
+MUS0493,43,36-50,İstanbul,Özel Bankacılık,İhtiyaç Kredisi,Şube,13,1,Aktif,20,39240.31,2.9
+MUS0494,52,51+,Gaziantep,Bireysel,İhtiyaç Kredisi,Mobil,15,8,Aktif,-2,15395.93,-5.6
+MUS0495,68,51+,Antalya,Bireysel,Yatırım Hesabı,Mobil,7,16,Aktif,10,19143.46,-21.9
+MUS0496,64,51+,Antalya,Bireysel,İhtiyaç Kredisi,Şube,15,17,Aktif,19,23369.75,-20.7
+MUS0497,32,22-35,Adana,KOBİ,Vadesiz Mevduat,Şube,11,6,Aktif,20,-223.65,-19.0
+MUS0498,47,36-50,Gaziantep,KOBİ,Yatırım Hesabı,Şube,6,3,Aktif,0,45554.76,-8.0
+MUS0499,68,51+,Adana,Özel Bankacılık,İhtiyaç Kredisi,ATM,14,7,Aktif,-3,20011.75,-13.8
+MUS0500,22,22-35,Gaziantep,KOBİ,Kredi Kartı,Mobil,5,17,Aktif,27,11183.85,7.9

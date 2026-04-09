@@ -1,0 +1,1001 @@
+﻿musteri_id,yas,sehir,segment,egitim_duzeyi,meslek,ana_urun,aylik_gelir_tl,banka_bakiyesi_tl,kredi_skoru,kredi_tutari_tl,npl_flag,dijital_kullanim_skoru,uyelik_ay,son_3ay_islem_sayisi
+MUS0001,45,İstanbul,Bireysel,Üniversite,Serbest Meslek,Kredi Kartı,33217,127979.69,520,0,0,84,76,23
+MUS0002,58,Kayseri,KOBİ,Lise,Emekli,Yatırım Hesabı,35377,282010.42,653,470111.08,0,63,151,31
+MUS0003,49,Antalya,Bireysel,Üniversite,Akademisyen,İhtiyaç Kredisi,6420,17887.52,501,0,0,87,1,5
+MUS0004,56,İstanbul,KOBİ,Üniversite,Çalışan,Vadesiz Mevduat,34652,83037.51,705,0,0,76,110,13
+MUS0005,25,İzmir,Bireysel,Üniversite,Serbest Meslek,Kredi Kartı,23060,100834.34,669,287840.12,0,94,55,31
+MUS0006,22,Mersin,Bireysel,Lisansüstü,Çalışan,Kredi Kartı,45730,106863.59,675,615769.88,0,90,57,0
+MUS0007,29,İzmir,Bireysel,Üniversite,Memur,Vadesiz Mevduat,33331,103910.52,653,0,0,100,23,32
+MUS0008,35,Kayseri,Bireysel,Lisansüstü,Memur,Vadesiz Mevduat,36380,134531.02,720,361303.92,0,97,98,15
+MUS0009,36,Ankara,Bireysel,Lisansüstü,Çalışan,Yatırım Hesabı,48989,205535.93,534,0,0,89,71,20
+MUS0010,44,Antalya,KOBİ,Lise,Serbest Meslek,Yatırım Hesabı,44350,165118.3,610,0,0,69,74,15
+MUS0011,68,Antalya,Bireysel,Üniversite,Esnaf,İhtiyaç Kredisi,25404,104187.55,528,0,0,41,114,3
+MUS0012,60,Ankara,Bireysel,Lise,Esnaf,Yatırım Hesabı,18474,99753.12,722,422577.57,0,59,57,23
+MUS0013,59,Mersin,Bireysel,Üniversite,Serbest Meslek,İhtiyaç Kredisi,32067,89273.88,715,733068.9,0,63,1,27
+MUS0014,41,Ankara,Bireysel,Lise,Serbest Meslek,Yatırım Hesabı,12638,58947.78,560,0,0,82,1,30
+MUS0015,48,Kayseri,Bireysel,Üniversite,Memur,Kredi Kartı,38976,173726.69,716,45203.47,0,100,83,9
+MUS0016,45,Kayseri,Özel Bankacılık,Üniversite,Emekli,Kredi Kartı,179311,1263259.01,900,3048569.21,0,82,123,14
+MUS0017,18,İzmir,Bireysel,Ortaokul,Memur,Kredi Kartı,16877,27300.04,489,475756.74,0,90,56,30
+MUS0018,18,Antalya,Bireysel,Lise,Akademisyen,Konut Kredisi,21298,90551.07,538,0,0,83,63,8
+MUS0019,38,Ankara,Bireysel,Lisansüstü,Çalışan,Konut Kredisi,72119,517078.99,652,0,0,68,68,20
+MUS0020,46,Ankara,Bireysel,Lisansüstü,Serbest Meslek,Konut Kredisi,60207,150127.69,655,0,0,80,40,15
+MUS0021,34,İstanbul,Özel Bankacılık,Ortaokul,Emekli,Konut Kredisi,75597,339637.92,835,2598259.59,0,61,12,44
+MUS0022,60,İstanbul,Bireysel,Üniversite,Esnaf,Yatırım Hesabı,32807,158703.03,588,0,0,95,137,2
+MUS0023,61,Ankara,Bireysel,Lise,Esnaf,İhtiyaç Kredisi,16529,87819.67,592,322975.55,0,46,118,46
+MUS0024,39,Bursa,Bireysel,Lise,Akademisyen,Vadesiz Mevduat,19021,51129.79,589,0,0,56,144,27
+MUS0025,35,Antalya,Bireysel,Lisansüstü,Çalışan,Konut Kredisi,44494,108177.14,721,0,0,88,167,43
+MUS0026,30,Antalya,Özel Bankacılık,İlkokul,Esnaf,İhtiyaç Kredisi,57388,0,728,1273615.65,0,54,18,27
+MUS0027,29,Bursa,Bireysel,Lise,Memur,Konut Kredisi,12430,87535.79,667,179668.1,0,69,42,19
+MUS0028,41,İzmir,Bireysel,Üniversite,Çalışan,İhtiyaç Kredisi,29923,105108.72,688,0,0,71,27,14
+MUS0029,44,İzmir,Özel Bankacılık,Üniversite,Çalışan,Yatırım Hesabı,117779,190554.07,900,3405653.62,0,81,46,55
+MUS0030,51,Konya,KOBİ,Lise,Akademisyen,Yatırım Hesabı,45874,316604.87,597,0,0,63,151,22
+MUS0031,27,Gaziantep,Bireysel,Lise,Akademisyen,Yatırım Hesabı,19523,95342.89,536,163906.82,0,86,38,40
+MUS0032,57,Kayseri,KOBİ,Lise,Esnaf,İhtiyaç Kredisi,27801,68678.06,643,254594.89,0,38,45,15
+MUS0033,47,Antalya,Bireysel,Lise,Esnaf,Vadesiz Mevduat,20991,61291.73,482,202212.68,0,76,85,34
+MUS0034,18,İstanbul,Bireysel,Lisansüstü,Esnaf,İhtiyaç Kredisi,60688,206461.99,697,0,0,100,20,19
+MUS0035,20,Antalya,Bireysel,Lise,Memur,İhtiyaç Kredisi,157756,875241.22,491,286010.1,1,85,64,9
+MUS0036,51,İstanbul,Bireysel,Lise,Çalışan,Kredi Kartı,13296,59960.1,639,0,0,54,1,32
+MUS0037,29,İstanbul,KOBİ,Lisansüstü,Çalışan,Kredi Kartı,69766,143755.02,552,0,0,96,81,25
+MUS0038,47,Bursa,Bireysel,Üniversite,Çalışan,Konut Kredisi,292921,3710735.22,629,0,0,69,94,20
+MUS0039,23,Gaziantep,Özel Bankacılık,Lisansüstü,Serbest Meslek,Vadesiz Mevduat,189979,786294.5,900,2315564.2,0,75,59,20
+MUS0040,55,Ankara,Bireysel,Üniversite,Çalışan,Vadesiz Mevduat,16438,131692.34,732,0,0,81,5,4
+MUS0041,49,Kayseri,Bireysel,Üniversite,Emekli,İhtiyaç Kredisi,35524,57475.7,606,0,0,84,62,34
+MUS0042,45,Gaziantep,Bireysel,Lise,Emekli,Konut Kredisi,21392,97121.2,527,0,0,64,35,51
+MUS0043,43,Konya,KOBİ,Üniversite,Serbest Meslek,İhtiyaç Kredisi,52003,112110.93,663,758830.68,0,72,131,7
+MUS0044,44,Adana,KOBİ,Lise,Emekli,Konut Kredisi,36604,196097.15,612,0,0,55,142,16
+MUS0045,40,Antalya,KOBİ,Üniversite,Esnaf,Yatırım Hesabı,74919,336703.69,747,2086421.46,0,83,132,19
+MUS0046,39,Konya,Bireysel,Ortaokul,Memur,Yatırım Hesabı,16013,19211.89,748,328949.99,0,57,9,22
+MUS0047,57,Mersin,Bireysel,Lisansüstü,Memur,Kredi Kartı,74006,90503.62,638,690720.76,0,71,165,0
+MUS0048,35,Mersin,Bireysel,Lisansüstü,Memur,Kredi Kartı,361125,2762942.08,654,0,0,99,112,16
+MUS0049,29,Ankara,KOBİ,Üniversite,Çalışan,Yatırım Hesabı,41576,1994.43,515,0,0,99,147,9
+MUS0050,29,Antalya,Bireysel,Üniversite,Esnaf,Konut Kredisi,33776,112249.25,666,327096.24,0,86,132,9
+MUS0051,75,Bursa,Bireysel,Lisansüstü,Esnaf,Yatırım Hesabı,35222,114696.72,628,646508.42,0,42,98,18
+MUS0052,33,Konya,Bireysel,Lisansüstü,Emekli,Konut Kredisi,62907,310612.28,684,390793.35,0,93,72,18
+MUS0053,42,Ankara,Bireysel,Lisansüstü,Emekli,Yatırım Hesabı,54294,299589.64,591,374961.03,0,82,57,23
+MUS0054,65,Antalya,Bireysel,Lise,Akademisyen,İhtiyaç Kredisi,28037,80005.89,612,234710.89,0,46,177,20
+MUS0055,32,İzmir,Bireysel,Üniversite,Akademisyen,Konut Kredisi,29599,202570.71,394,311828.54,0,83,1,20
+MUS0056,46,Gaziantep,Bireysel,Lise,Esnaf,Konut Kredisi,14022,44886.33,685,0,0,58,73,11
+MUS0057,39,Konya,Bireysel,Lisansüstü,Serbest Meslek,Kredi Kartı,44169,148585.24,634,0,0,83,47,0
+MUS0058,25,İzmir,Bireysel,Üniversite,Memur,Kredi Kartı,29826,202283.15,454,276703.19,0,91,12,31
+MUS0059,28,Antalya,Bireysel,Lise,Akademisyen,İhtiyaç Kredisi,9470,60373.6,412,121384.83,0,100,81,19
+MUS0060,37,Antalya,Bireysel,Lisansüstü,Akademisyen,Vadesiz Mevduat,58027,74931.5,533,698574.72,1,58,83,12
+MUS0061,44,Kayseri,Bireysel,Lise,Akademisyen,Kredi Kartı,259869,2216543.81,511,434153.49,0,64,71,31
+MUS0062,32,İzmir,Bireysel,Ortaokul,Çalışan,Yatırım Hesabı,20772,66275.27,487,699497.3,1,68,38,29
+MUS0063,39,İstanbul,Bireysel,Lisansüstü,Akademisyen,İhtiyaç Kredisi,76065,205585.97,572,809596.64,0,76,52,42
+MUS0064,24,Bursa,Bireysel,Üniversite,Akademisyen,Kredi Kartı,15962,47210.52,489,105361.9,1,83,49,41
+MUS0065,32,Kayseri,Bireysel,Lisansüstü,Çalışan,Yatırım Hesabı,54851,343716.03,789,0,0,100,63,36
+MUS0066,26,Bursa,Bireysel,Lisansüstü,Akademisyen,İhtiyaç Kredisi,84187,274618.28,590,2404989.86,0,76,92,14
+MUS0067,27,Ankara,Özel Bankacılık,Üniversite,Emekli,Vadesiz Mevduat,71230,52080.96,608,0,0,100,36,11
+MUS0068,47,Ankara,Bireysel,Ortaokul,Memur,Konut Kredisi,11954,50647.43,680,54181.7,0,82,10,18
+MUS0069,51,Ankara,KOBİ,Üniversite,Esnaf,İhtiyaç Kredisi,60006,209238.3,633,1119817.28,0,87,2,41
+MUS0070,48,Antalya,Bireysel,Lise,Memur,İhtiyaç Kredisi,20030,11878.44,436,119888.6,0,100,97,43
+MUS0071,65,Bursa,Bireysel,Lise,Serbest Meslek,Yatırım Hesabı,18190,84556.96,663,425203.54,1,71,156,23
+MUS0072,22,İzmir,Bireysel,Lise,Serbest Meslek,İhtiyaç Kredisi,16541,9404.04,561,419044.29,0,97,152,27
+MUS0073,65,Konya,Bireysel,Üniversite,Memur,Vadesiz Mevduat,29845,93854.63,670,0,0,31,107,19
+MUS0074,48,Mersin,Bireysel,Üniversite,Çalışan,İhtiyaç Kredisi,41061,160835.62,537,867550.25,0,88,16,24
+MUS0075,22,Bursa,Bireysel,Lise,Emekli,İhtiyaç Kredisi,15914,70822.29,433,370079.82,1,91,63,24
+MUS0076,37,İzmir,KOBİ,Üniversite,Esnaf,Yatırım Hesabı,38702,111246.12,477,0,0,100,1,34
+MUS0077,46,Antalya,Bireysel,Lise,Esnaf,Yatırım Hesabı,25681,106684.69,645,0,0,50,132,2
+MUS0078,32,Mersin,Özel Bankacılık,Üniversite,Akademisyen,Yatırım Hesabı,252119,1198964.28,900,3141109.58,0,83,112,46
+MUS0079,42,İzmir,Bireysel,Üniversite,Memur,Vadesiz Mevduat,29846,77847.95,543,642460.26,0,83,10,25
+MUS0080,44,Ankara,Bireysel,Lise,Akademisyen,İhtiyaç Kredisi,109132,776753.62,556,381237.31,0,64,142,4
+MUS0081,43,Antalya,Bireysel,Lisansüstü,Serbest Meslek,Konut Kredisi,52953,263721.75,571,960540.37,0,86,132,16
+MUS0082,32,Gaziantep,KOBİ,İlkokul,Memur,Konut Kredisi,11474,32169.98,530,114146.18,1,46,148,5
+MUS0083,26,Ankara,Bireysel,Lise,Esnaf,İhtiyaç Kredisi,12640,46753.82,514,313093.88,0,75,70,0
+MUS0084,40,İzmir,KOBİ,Lise,Serbest Meslek,Konut Kredisi,44848,294589.29,641,284545.61,0,46,74,22
+MUS0085,28,Mersin,Bireysel,Lise,Akademisyen,Konut Kredisi,19183,88456.82,494,391592.07,1,68,70,18
+MUS0086,43,Ankara,Bireysel,Üniversite,Esnaf,İhtiyaç Kredisi,18870,86618.69,631,29580.15,0,71,37,15
+MUS0087,43,Adana,Bireysel,Lisansüstü,Memur,Yatırım Hesabı,52168,185247.37,589,0,0,62,153,6
+MUS0088,55,Adana,Bireysel,Ortaokul,Memur,Yatırım Hesabı,10719,27092.2,576,0,0,28,102,14
+MUS0089,54,Adana,Bireysel,Lise,Akademisyen,İhtiyaç Kredisi,24145,149817.3,672,0,0,57,94,13
+MUS0090,18,Ankara,Özel Bankacılık,Üniversite,Emekli,Yatırım Hesabı,122401,666905.27,768,0,0,100,37,22
+MUS0091,52,Ankara,Bireysel,Üniversite,Esnaf,Yatırım Hesabı,31916,131124.61,589,826847.72,0,96,82,15
+MUS0092,42,Bursa,Bireysel,Lisansüstü,Esnaf,Konut Kredisi,26125,108376.54,659,0,0,92,1,28
+MUS0093,58,Antalya,Bireysel,Üniversite,Esnaf,Yatırım Hesabı,25331,116059.1,664,0,0,87,124,26
+MUS0094,42,Kayseri,Özel Bankacılık,Lisansüstü,Çalışan,Vadesiz Mevduat,209374,1033304.98,900,4889034.8,0,81,65,24
+MUS0095,43,Bursa,Bireysel,Lise,Memur,Konut Kredisi,22670,149017.71,669,438861.98,0,72,1,25
+MUS0096,41,Mersin,Bireysel,İlkokul,Memur,Vadesiz Mevduat,12552,11630.02,532,289326.31,0,59,119,25
+MUS0097,25,Ankara,Bireysel,Üniversite,Emekli,Yatırım Hesabı,27141,31560.99,510,691080.76,0,94,99,38
+MUS0098,66,Kayseri,Bireysel,Üniversite,Esnaf,Yatırım Hesabı,32331,190905.74,682,577859.15,0,47,75,39
+MUS0099,32,Adana,Bireysel,Ortaokul,Çalışan,Yatırım Hesabı,16386,89636.27,454,0,0,58,76,34
+MUS0100,56,Bursa,Bireysel,İlkokul,Serbest Meslek,Vadesiz Mevduat,7171,40006.25,472,192012.32,1,31,40,24
+MUS0101,39,Adana,Bireysel,Lise,Emekli,İhtiyaç Kredisi,22211,61844.83,678,365602.09,0,46,61,21
+MUS0102,37,Kayseri,KOBİ,Lise,Memur,Vadesiz Mevduat,34922,191293.42,487,776694.08,0,51,97,36
+MUS0103,33,İstanbul,Bireysel,Ortaokul,Akademisyen,İhtiyaç Kredisi,7773,52244.23,460,1119.61,0,68,59,41
+MUS0104,50,Mersin,Bireysel,İlkokul,Serbest Meslek,İhtiyaç Kredisi,10196,34567.41,592,77340.43,0,37,42,36
+MUS0105,54,Kayseri,Bireysel,Ortaokul,Çalışan,İhtiyaç Kredisi,13093,87510.1,498,0,1,59,85,12
+MUS0106,18,Adana,Özel Bankacılık,Üniversite,Akademisyen,Vadesiz Mevduat,114552,399573.45,714,0,0,100,62,14
+MUS0107,57,Bursa,Bireysel,Üniversite,Serbest Meslek,İhtiyaç Kredisi,31880,49339.78,747,0,0,63,58,4
+MUS0108,75,Gaziantep,Bireysel,Üniversite,Memur,Kredi Kartı,42712,149695.94,584,928316.09,0,58,4,34
+MUS0109,70,İstanbul,Özel Bankacılık,Üniversite,Esnaf,Kredi Kartı,141076,722429.12,900,0,0,53,33,20
+MUS0110,38,Kayseri,Bireysel,Lise,Akademisyen,Konut Kredisi,16424,37877.53,489,0,0,83,131,30
+MUS0111,35,İstanbul,Bireysel,Ortaokul,Akademisyen,Yatırım Hesabı,11772,63220.17,457,154675.94,0,45,52,19
+MUS0112,50,Konya,Bireysel,Ortaokul,Memur,Kredi Kartı,8151,39553.17,611,232105.9,0,51,1,28
+MUS0113,41,Adana,Bireysel,Lise,Memur,Konut Kredisi,15172,65895.71,759,0,0,82,1,37
+MUS0114,27,Mersin,KOBİ,Üniversite,Serbest Meslek,Kredi Kartı,66259,151204.93,651,1784807.62,0,86,81,32
+MUS0115,19,Konya,Bireysel,Lise,Memur,Vadesiz Mevduat,22698,79928.4,412,217124.77,1,100,54,20
+MUS0116,65,Antalya,KOBİ,Üniversite,Esnaf,Yatırım Hesabı,653204,1478705.04,887,3121443.81,0,52,15,21
+MUS0117,34,Konya,Bireysel,Ortaokul,Esnaf,Kredi Kartı,16377,117802.29,773,0,0,62,113,28
+MUS0118,28,İstanbul,Bireysel,Lise,Akademisyen,Vadesiz Mevduat,25092,91998.81,607,0,0,58,125,24
+MUS0119,35,Mersin,KOBİ,Üniversite,Akademisyen,Vadesiz Mevduat,59933,124885.48,573,0,0,99,130,50
+MUS0120,47,Adana,Bireysel,Lise,Emekli,Kredi Kartı,10113,59100.27,720,0,0,51,96,24
+MUS0121,27,Konya,Bireysel,Üniversite,Çalışan,Kredi Kartı,32785,36845.61,549,0,0,80,1,20
+MUS0122,55,Antalya,Bireysel,Lise,Çalışan,Konut Kredisi,15688,16631.51,514,0,0,61,142,14
+MUS0123,62,Kayseri,Bireysel,Lise,Emekli,Konut Kredisi,15254,54698.13,682,0,0,45,114,21
+MUS0124,55,Kayseri,Bireysel,Üniversite,Serbest Meslek,Vadesiz Mevduat,21057,47020.09,621,629530.1,0,84,88,20
+MUS0125,36,Kayseri,Bireysel,Lisansüstü,Serbest Meslek,İhtiyaç Kredisi,35506,22024.58,492,0,0,93,62,31
+MUS0126,48,Mersin,KOBİ,Lise,Akademisyen,Vadesiz Mevduat,35777,175968.76,598,0,0,80,71,0
+MUS0127,42,İstanbul,Özel Bankacılık,İlkokul,Esnaf,Yatırım Hesabı,66759,504963.11,629,2769537.95,0,77,36,14
+MUS0128,43,Konya,Bireysel,Üniversite,Akademisyen,Kredi Kartı,38129,158627.46,592,1125114.22,0,69,34,12
+MUS0129,46,İzmir,Bireysel,Üniversite,Serbest Meslek,Vadesiz Mevduat,29553,161430.54,619,0,0,98,77,20
+MUS0130,37,Gaziantep,Bireysel,Üniversite,Akademisyen,Konut Kredisi,25294,34010.77,659,384707.06,0,68,79,33
+MUS0131,41,Kayseri,Özel Bankacılık,Üniversite,Serbest Meslek,Kredi Kartı,124328,194165.21,817,1056724.03,0,87,60,34
+MUS0132,19,İzmir,Bireysel,Lise,Esnaf,İhtiyaç Kredisi,20727,101661.51,513,336954.67,0,71,88,18
+MUS0133,43,İstanbul,KOBİ,Lise,Memur,Kredi Kartı,36412,135173.37,606,0,0,74,88,20
+MUS0134,24,Gaziantep,Bireysel,Lise,Serbest Meslek,İhtiyaç Kredisi,26072,0,620,940455.57,0,100,135,39
+MUS0135,52,Gaziantep,Özel Bankacılık,Üniversite,Akademisyen,Kredi Kartı,84881,527105.57,725,0,0,59,93,23
+MUS0136,55,Ankara,Bireysel,İlkokul,Akademisyen,İhtiyaç Kredisi,46948,65031.79,629,70942.75,0,18,95,28
+MUS0137,35,İstanbul,KOBİ,Ortaokul,Çalışan,Kredi Kartı,31559,32497.52,551,0,0,84,54,31
+MUS0138,26,Bursa,Bireysel,Lise,Çalışan,Vadesiz Mevduat,15478,60129.73,497,0,0,78,66,12
+MUS0139,56,Gaziantep,Bireysel,Lise,Çalışan,İhtiyaç Kredisi,20708,129917.99,620,0,0,69,104,32
+MUS0140,42,Gaziantep,Bireysel,Üniversite,Serbest Meslek,İhtiyaç Kredisi,36062,45727.29,476,0,0,100,114,25
+MUS0141,50,Ankara,Bireysel,Lise,Esnaf,Yatırım Hesabı,18760,100175.41,658,0,0,56,79,29
+MUS0142,38,Konya,KOBİ,Lisansüstü,Akademisyen,Yatırım Hesabı,86039,354310.5,782,575363.19,0,93,8,41
+MUS0143,33,Konya,KOBİ,Üniversite,Çalışan,Kredi Kartı,80858,217772.42,670,1353206.22,0,100,48,25
+MUS0144,40,Bursa,Bireysel,Üniversite,Akademisyen,Konut Kredisi,46692,317611.32,613,1167261.68,0,100,61,8
+MUS0145,43,İstanbul,Bireysel,Üniversite,Memur,Vadesiz Mevduat,20756,99567.63,543,0,0,97,75,10
+MUS0146,53,Konya,Bireysel,Üniversite,Memur,Vadesiz Mevduat,20923,75032.31,739,404716.85,0,48,70,0
+MUS0147,54,Kayseri,Özel Bankacılık,Ortaokul,Serbest Meslek,Yatırım Hesabı,27377,92858.9,618,711735.88,0,8,13,24
+MUS0148,60,İstanbul,Bireysel,Ortaokul,Emekli,İhtiyaç Kredisi,10842,40972.09,654,198312.13,0,50,11,25
+MUS0149,37,Bursa,Bireysel,Lisansüstü,Akademisyen,Yatırım Hesabı,49964,204587.5,800,0,0,100,60,20
+MUS0150,51,Bursa,Bireysel,Üniversite,Akademisyen,İhtiyaç Kredisi,26719,43270.3,578,0,0,64,18,7
+MUS0151,55,Ankara,Bireysel,Üniversite,Çalışan,Vadesiz Mevduat,35347,170982.95,741,0,0,79,1,4
+MUS0152,53,Konya,Bireysel,Üniversite,Çalışan,Yatırım Hesabı,26540,72796.95,516,198621.01,0,53,96,25
+MUS0153,52,Gaziantep,Bireysel,Lise,Memur,Vadesiz Mevduat,18151,54266.65,653,387473.37,0,77,62,23
+MUS0154,38,Mersin,Bireysel,Üniversite,Emekli,Vadesiz Mevduat,38609,297579.98,704,0,0,100,63,27
+MUS0155,52,Konya,Bireysel,Ortaokul,Serbest Meslek,İhtiyaç Kredisi,11506,65192.41,606,0,0,38,61,8
+MUS0156,48,İzmir,Bireysel,Lise,Emekli,Konut Kredisi,13571,73230.57,521,314504.24,0,46,51,37
+MUS0157,40,İzmir,Bireysel,Lisansüstü,Çalışan,Konut Kredisi,31746,235535.01,579,487052.73,0,100,101,18
+MUS0158,49,Kayseri,Bireysel,İlkokul,Akademisyen,İhtiyaç Kredisi,7422,37953.46,432,194538.99,0,22,98,29
+MUS0159,55,Gaziantep,Bireysel,Üniversite,Memur,İhtiyaç Kredisi,29399,60845.87,688,0,0,63,15,24
+MUS0160,31,Ankara,Bireysel,Ortaokul,Serbest Meslek,Konut Kredisi,14488,92473.06,448,0,0,60,114,19
+MUS0161,24,Ankara,Bireysel,Lise,Esnaf,Yatırım Hesabı,15064,65535.42,618,192107.41,0,64,127,21
+MUS0162,35,Ankara,Özel Bankacılık,Ortaokul,Akademisyen,Kredi Kartı,73450,331888.63,586,2090907.26,0,79,85,23
+MUS0163,59,Adana,Bireysel,Üniversite,Akademisyen,Kredi Kartı,23699,35041.34,619,237654.76,0,74,50,16
+MUS0164,40,Mersin,Bireysel,Lisansüstü,Emekli,Yatırım Hesabı,55667,242397.38,718,0,0,92,11,26
+MUS0165,27,Ankara,Bireysel,Lise,Emekli,Yatırım Hesabı,22575,81979.05,502,522476.86,0,73,79,12
+MUS0166,22,İzmir,Bireysel,Lise,Serbest Meslek,Konut Kredisi,21873,115846.01,601,0,0,97,27,16
+MUS0167,48,İzmir,Bireysel,Üniversite,Emekli,Konut Kredisi,36036,121343.25,640,804574.21,0,76,127,18
+MUS0168,49,Gaziantep,Bireysel,Üniversite,Emekli,İhtiyaç Kredisi,40083,176420.18,588,763154.21,0,87,1,13
+MUS0169,22,Mersin,Bireysel,Ortaokul,Esnaf,Konut Kredisi,79477,790519.58,442,66275.67,0,87,73,46
+MUS0170,47,Ankara,Bireysel,Üniversite,Serbest Meslek,Kredi Kartı,18876,40361.91,697,0,0,80,94,24
+MUS0171,49,Antalya,Bireysel,Üniversite,Serbest Meslek,Konut Kredisi,37423,141498.16,459,347604.61,0,78,48,22
+MUS0172,29,İzmir,Bireysel,Üniversite,Serbest Meslek,Kredi Kartı,34814,188060.24,593,1163048.63,0,76,22,18
+MUS0173,45,Gaziantep,KOBİ,Üniversite,Çalışan,Konut Kredisi,44010,204643.3,501,0,0,63,179,39
+MUS0174,63,Ankara,Bireysel,Üniversite,Emekli,Kredi Kartı,26658,59577.49,645,371965.64,0,61,96,0
+MUS0175,18,Konya,Bireysel,İlkokul,Serbest Meslek,İhtiyaç Kredisi,10008,0,635,0,0,78,44,39
+MUS0176,24,Ankara,Bireysel,Lise,Akademisyen,Kredi Kartı,25172,123247.43,542,119072.56,1,93,90,36
+MUS0177,49,İstanbul,Bireysel,Üniversite,Memur,İhtiyaç Kredisi,26466,49226.91,619,0,0,81,108,28
+MUS0178,56,İzmir,Bireysel,Üniversite,Akademisyen,Kredi Kartı,34827,107225.51,615,733346.4,0,93,33,13
+MUS0179,34,İzmir,KOBİ,Üniversite,Esnaf,İhtiyaç Kredisi,82848,363306.65,639,0,0,87,137,20
+MUS0180,32,Antalya,Bireysel,Lise,Esnaf,Yatırım Hesabı,20024,117099.84,483,0,0,57,75,33
+MUS0181,47,Ankara,Bireysel,Üniversite,Memur,Konut Kredisi,28068,158943.31,534,349455.06,0,53,73,19
+MUS0182,37,İstanbul,Bireysel,Lisansüstü,Emekli,Yatırım Hesabı,80375,339605.04,615,939726.11,0,75,88,24
+MUS0183,26,İzmir,Özel Bankacılık,Üniversite,Emekli,Yatırım Hesabı,86224,318121.75,661,0,0,89,1,26
+MUS0184,43,Mersin,Bireysel,Ortaokul,Akademisyen,Kredi Kartı,16130,99036.58,567,0,0,51,1,18
+MUS0185,42,İzmir,Bireysel,Üniversite,Çalışan,Vadesiz Mevduat,27822,126857.39,543,432354.31,1,61,28,25
+MUS0186,39,Adana,Bireysel,Lise,Memur,Yatırım Hesabı,15624,62366.24,567,0,0,77,73,4
+MUS0187,62,İstanbul,Özel Bankacılık,Üniversite,Akademisyen,İhtiyaç Kredisi,155420,853506.82,900,0,0,57,50,19
+MUS0188,54,Bursa,Bireysel,Üniversite,Memur,İhtiyaç Kredisi,34225,110260.71,791,583323.64,0,70,34,18
+MUS0189,42,Mersin,Bireysel,Lisansüstü,Serbest Meslek,Yatırım Hesabı,42652,258172.21,636,396009.57,0,100,74,21
+MUS0190,18,Antalya,KOBİ,Ortaokul,Esnaf,Kredi Kartı,36146,184056.49,564,852528.8,0,82,1,35
+MUS0191,55,Mersin,KOBİ,Ortaokul,Serbest Meslek,İhtiyaç Kredisi,31047,0,718,543937.27,0,63,48,3
+MUS0192,46,Ankara,Bireysel,Lisansüstü,Serbest Meslek,Yatırım Hesabı,59931,140835.66,697,561388.51,0,100,1,27
+MUS0193,64,Antalya,KOBİ,Üniversite,Akademisyen,Yatırım Hesabı,682246,3635377.62,773,911200.97,0,76,62,58
+MUS0194,45,Bursa,KOBİ,Ortaokul,Memur,Kredi Kartı,28353,121184.56,555,230195.88,0,71,127,30
+MUS0195,43,Ankara,Bireysel,Lise,Akademisyen,İhtiyaç Kredisi,15790,96129.36,462,322294.38,0,67,1,29
+MUS0196,39,Gaziantep,Bireysel,Lise,Serbest Meslek,Kredi Kartı,23796,134243.3,678,0,0,62,26,32
+MUS0197,32,Gaziantep,Bireysel,Lise,Esnaf,Kredi Kartı,11379,15518.53,617,0,0,34,33,33
+MUS0198,57,Kayseri,Özel Bankacılık,Lise,Çalışan,Kredi Kartı,95935,727886.43,796,2039160.44,0,42,41,17
+MUS0199,44,Bursa,Bireysel,Lise,Akademisyen,Vadesiz Mevduat,5000,0,457,203481.08,1,50,75,32
+MUS0200,56,Mersin,Bireysel,İlkokul,Akademisyen,Konut Kredisi,6999,19657.23,570,0,0,52,34,16
+MUS0201,54,Bursa,Bireysel,İlkokul,Emekli,Vadesiz Mevduat,6372,40806.68,610,71057.56,0,44,59,33
+MUS0202,57,Kayseri,Bireysel,Lisansüstü,Memur,Konut Kredisi,48150,56481.71,612,687155.57,0,71,20,13
+MUS0203,31,Kayseri,KOBİ,Üniversite,Esnaf,Konut Kredisi,70418,466820.52,697,0,0,100,126,35
+MUS0204,46,Gaziantep,Özel Bankacılık,Lisansüstü,Esnaf,Vadesiz Mevduat,340733,1701302.01,900,0,0,96,106,19
+MUS0205,46,Ankara,Bireysel,Üniversite,Akademisyen,Konut Kredisi,23327,105361.39,602,489811.85,0,92,72,18
+MUS0206,18,Gaziantep,Bireysel,Lise,Emekli,Vadesiz Mevduat,22524,20203.21,426,262411.15,0,90,60,31
+MUS0207,43,Gaziantep,Bireysel,Lise,Memur,Yatırım Hesabı,31937,64662.72,491,0,0,100,57,9
+MUS0208,44,Gaziantep,Bireysel,Lise,Memur,Konut Kredisi,21369,63200.66,473,0,0,67,110,22
+MUS0209,45,İzmir,KOBİ,Ortaokul,Memur,İhtiyaç Kredisi,38979,231929.85,567,449190.9,0,31,1,16
+MUS0210,42,Antalya,Bireysel,Ortaokul,Esnaf,İhtiyaç Kredisi,14981,117152.6,518,364910.45,0,62,109,40
+MUS0211,49,Adana,Bireysel,Üniversite,Emekli,Yatırım Hesabı,30449,143184.07,549,0,0,86,28,0
+MUS0212,18,Antalya,Bireysel,Ortaokul,Akademisyen,Vadesiz Mevduat,11897,58746.5,409,0,0,97,127,38
+MUS0213,72,İzmir,KOBİ,İlkokul,Memur,İhtiyaç Kredisi,20521,154951.26,713,546216.22,0,28,52,7
+MUS0214,36,İstanbul,Bireysel,Üniversite,Esnaf,Yatırım Hesabı,20706,76720.86,538,0,0,89,77,0
+MUS0215,48,Ankara,Bireysel,Üniversite,Esnaf,Konut Kredisi,25107,63584.11,524,547725.42,0,89,51,10
+MUS0216,43,Bursa,KOBİ,İlkokul,Emekli,Konut Kredisi,16956,79663.85,521,96113.85,1,50,89,17
+MUS0217,37,Adana,Bireysel,Lise,Emekli,Yatırım Hesabı,15239,74602.44,713,0,0,76,1,28
+MUS0218,28,Kayseri,Bireysel,Lise,Esnaf,Yatırım Hesabı,21475,90984.28,638,102755.1,0,100,35,18
+MUS0219,64,Ankara,Bireysel,Üniversite,Serbest Meslek,Konut Kredisi,20241,84061.71,720,0,0,58,20,40
+MUS0220,50,Ankara,KOBİ,Lise,Emekli,Vadesiz Mevduat,52821,414637.07,635,0,0,58,37,19
+MUS0221,43,İstanbul,KOBİ,Üniversite,Serbest Meslek,Kredi Kartı,63922,245793.96,675,2075275.18,0,69,32,14
+MUS0222,49,Kayseri,Bireysel,Üniversite,Emekli,Yatırım Hesabı,38622,209917.69,558,188276.79,0,65,46,25
+MUS0223,44,Antalya,Bireysel,Lise,Akademisyen,Konut Kredisi,20461,127576.08,594,0,0,73,89,10
+MUS0224,52,İstanbul,Bireysel,Üniversite,Çalışan,Konut Kredisi,24939,94262.63,512,0,0,77,31,17
+MUS0225,24,Adana,Bireysel,Üniversite,Serbest Meslek,Yatırım Hesabı,31710,152933.88,618,0,0,100,74,14
+MUS0226,20,Ankara,Bireysel,Lise,Serbest Meslek,Konut Kredisi,23401,50603.66,627,467138.96,0,91,13,13
+MUS0227,40,Ankara,Bireysel,Lisansüstü,Emekli,Yatırım Hesabı,60249,280897.21,630,557900.95,0,97,31,24
+MUS0228,41,Konya,KOBİ,Lise,Serbest Meslek,Konut Kredisi,38736,135632.06,757,729909.18,0,53,128,30
+MUS0229,45,Konya,Bireysel,Lise,Memur,Yatırım Hesabı,22957,132163.79,606,0,0,76,139,15
+MUS0230,35,İzmir,Bireysel,Ortaokul,Esnaf,Yatırım Hesabı,11543,54133.47,743,271490.38,0,50,64,19
+MUS0231,36,Bursa,Bireysel,Lise,Emekli,Vadesiz Mevduat,19176,137951.17,662,0,0,93,94,32
+MUS0232,38,Antalya,Bireysel,Üniversite,Esnaf,Vadesiz Mevduat,28429,197849.34,692,695844.06,0,94,70,40
+MUS0233,37,İstanbul,Bireysel,Lise,Akademisyen,Vadesiz Mevduat,14347,45110.48,539,0,0,93,118,26
+MUS0234,45,Bursa,Bireysel,Üniversite,Esnaf,Kredi Kartı,24202,135516.07,656,0,0,93,51,9
+MUS0235,45,Ankara,Bireysel,Lisansüstü,Esnaf,İhtiyaç Kredisi,60777,48710.34,666,1080937.28,0,93,56,34
+MUS0236,36,İstanbul,Bireysel,Lisansüstü,Çalışan,Konut Kredisi,58672,381251.31,518,1493224.24,0,100,166,3
+MUS0237,18,Adana,KOBİ,Üniversite,Serbest Meslek,Vadesiz Mevduat,95600,356587.39,769,0,0,100,5,23
+MUS0238,36,İzmir,Bireysel,Ortaokul,Esnaf,İhtiyaç Kredisi,13748,15788.75,596,345088.7,1,53,1,28
+MUS0239,40,Gaziantep,Bireysel,Lise,Memur,Konut Kredisi,17521,65513.49,645,0,0,58,66,13
+MUS0240,56,Kayseri,KOBİ,Üniversite,Akademisyen,Yatırım Hesabı,82422,331045.65,814,0,0,47,132,0
+MUS0241,29,İzmir,Bireysel,Üniversite,Emekli,İhtiyaç Kredisi,32420,110969.18,527,0,0,91,104,24
+MUS0242,19,Bursa,Bireysel,Ortaokul,Emekli,Yatırım Hesabı,14272,43524.61,543,226580.12,0,73,71,21
+MUS0243,46,Mersin,Bireysel,Üniversite,Esnaf,Yatırım Hesabı,42938,249420.86,618,836921.82,0,93,32,12
+MUS0244,53,Ankara,KOBİ,Ortaokul,Akademisyen,Kredi Kartı,26502,42530.89,516,406449.45,0,56,1,23
+MUS0245,52,Antalya,Bireysel,Üniversite,Serbest Meslek,Vadesiz Mevduat,26182,16715.71,657,0,0,84,103,42
+MUS0246,31,Konya,KOBİ,Üniversite,Esnaf,Yatırım Hesabı,81430,469023.16,664,0,0,88,101,10
+MUS0247,55,İzmir,Özel Bankacılık,Üniversite,Serbest Meslek,Kredi Kartı,189901,496615.89,900,0,0,52,104,18
+MUS0248,33,Antalya,Bireysel,Üniversite,Serbest Meslek,Kredi Kartı,18080,101564.92,565,0,0,74,120,7
+MUS0249,31,Bursa,Bireysel,Lise,Akademisyen,Konut Kredisi,6780,41470.28,632,0,0,87,125,9
+MUS0250,27,Mersin,Bireysel,Üniversite,Akademisyen,İhtiyaç Kredisi,21265,4993.1,400,309072.96,1,100,101,25
+MUS0251,43,Antalya,KOBİ,Üniversite,Serbest Meslek,Vadesiz Mevduat,59961,146450.92,670,0,0,75,149,36
+MUS0252,40,Kayseri,KOBİ,Lise,Esnaf,Konut Kredisi,36148,89374.47,672,0,0,56,1,40
+MUS0253,48,Konya,KOBİ,Üniversite,Akademisyen,Konut Kredisi,66799,99244.71,583,0,0,59,63,29
+MUS0254,51,İzmir,Bireysel,Üniversite,Memur,İhtiyaç Kredisi,31838,123981.63,676,0,0,89,73,25
+MUS0255,40,Mersin,Bireysel,Üniversite,Çalışan,İhtiyaç Kredisi,32822,50908.08,722,772855.88,0,55,61,30
+MUS0256,54,Bursa,Bireysel,Üniversite,Çalışan,Konut Kredisi,24037,209555.04,553,0,0,59,72,4
+MUS0257,42,Bursa,Bireysel,Lisansüstü,Esnaf,Yatırım Hesabı,59703,326913.42,615,0,0,94,96,21
+MUS0258,39,Kayseri,KOBİ,Üniversite,Emekli,İhtiyaç Kredisi,106735,551106.35,789,0,0,99,131,48
+MUS0259,50,Ankara,Bireysel,Lise,Akademisyen,Kredi Kartı,13742,82087.12,651,0,0,89,59,4
+MUS0260,19,Konya,Bireysel,Üniversite,Memur,Vadesiz Mevduat,35048,159684.91,571,0,0,100,113,15
+MUS0261,25,Adana,Bireysel,İlkokul,Akademisyen,Vadesiz Mevduat,7253,11079.84,437,0,0,62,54,27
+MUS0262,39,Ankara,Bireysel,Lise,Emekli,İhtiyaç Kredisi,11722,67995.81,467,229838.13,0,78,14,28
+MUS0263,40,Adana,Özel Bankacılık,Lisansüstü,Memur,Yatırım Hesabı,307161,988454.22,900,6360354.29,0,95,88,20
+MUS0264,22,Kayseri,Özel Bankacılık,Ortaokul,Serbest Meslek,Kredi Kartı,49801,148252.39,697,0,0,91,147,28
+MUS0265,41,Kayseri,Bireysel,Ortaokul,Akademisyen,Vadesiz Mevduat,14387,0,479,219028.46,0,51,100,25
+MUS0266,22,Antalya,Bireysel,Üniversite,Serbest Meslek,Yatırım Hesabı,23334,120747.88,542,485473.56,0,73,64,33
+MUS0267,36,Konya,Bireysel,Üniversite,Çalışan,Konut Kredisi,30353,106092.27,570,782723.39,0,57,65,5
+MUS0268,28,Kayseri,KOBİ,Üniversite,Esnaf,Yatırım Hesabı,80843,493679.53,625,2186203.65,0,91,49,28
+MUS0269,51,Antalya,KOBİ,Ortaokul,Esnaf,Yatırım Hesabı,30458,166741.44,630,0,0,75,63,22
+MUS0270,35,Mersin,Bireysel,Üniversite,Serbest Meslek,İhtiyaç Kredisi,32398,122650.38,602,395448.76,0,77,21,25
+MUS0271,30,İstanbul,KOBİ,Lisansüstü,Çalışan,Vadesiz Mevduat,108370,181407.14,813,507018.69,0,100,134,10
+MUS0272,55,Gaziantep,Bireysel,Lisansüstü,Serbest Meslek,Yatırım Hesabı,29749,180172.67,553,0,0,97,171,23
+MUS0273,46,Kayseri,Bireysel,Üniversite,Serbest Meslek,Kredi Kartı,37873,143736.95,592,863052.28,0,55,39,23
+MUS0274,36,İstanbul,KOBİ,Lise,Serbest Meslek,Yatırım Hesabı,36096,0,594,977382.12,0,100,1,39
+MUS0275,31,Antalya,KOBİ,Lisansüstü,Serbest Meslek,İhtiyaç Kredisi,95567,248644.92,723,2351089.54,0,100,30,11
+MUS0276,37,Konya,Bireysel,Üniversite,Memur,Kredi Kartı,33320,213892.51,614,0,0,73,1,16
+MUS0277,37,Kayseri,Bireysel,Üniversite,Memur,Vadesiz Mevduat,25273,104066.44,469,0,0,67,82,4
+MUS0278,54,İstanbul,Bireysel,Üniversite,Emekli,Kredi Kartı,26104,110093.39,550,0,0,94,21,10
+MUS0279,36,Ankara,KOBİ,Lise,Esnaf,İhtiyaç Kredisi,39539,166428.09,614,673934.48,0,68,95,26
+MUS0280,30,Mersin,Bireysel,Lise,Esnaf,İhtiyaç Kredisi,11175,32546.35,626,196514.96,0,71,61,9
+MUS0281,36,Gaziantep,Bireysel,Üniversite,Akademisyen,Vadesiz Mevduat,29865,54491.26,580,402759.96,0,75,123,15
+MUS0282,24,İstanbul,Özel Bankacılık,Üniversite,Serbest Meslek,İhtiyaç Kredisi,192987,586586.86,900,3902163.24,0,62,164,11
+MUS0283,32,İzmir,Bireysel,Üniversite,Emekli,Vadesiz Mevduat,33933,230462.13,617,400629.28,0,77,68,23
+MUS0284,44,İzmir,Bireysel,Ortaokul,Çalışan,İhtiyaç Kredisi,9821,54987.99,488,0,0,49,90,24
+MUS0285,35,Mersin,KOBİ,Lise,Çalışan,Kredi Kartı,34757,221229.74,558,515520.83,1,79,40,49
+MUS0286,31,Kayseri,Özel Bankacılık,Üniversite,Esnaf,Konut Kredisi,246938,295777.88,553,0,0,100,59,6
+MUS0287,45,Bursa,Bireysel,Üniversite,Serbest Meslek,Konut Kredisi,22839,113648.54,478,348048.81,0,57,119,13
+MUS0288,54,Bursa,Bireysel,Lisansüstü,Çalışan,Kredi Kartı,78646,236801.11,808,1018981.81,0,82,48,24
+MUS0289,50,Ankara,Bireysel,Ortaokul,Memur,İhtiyaç Kredisi,7379,13064.0,556,128352.24,0,10,78,41
+MUS0290,27,Kayseri,Özel Bankacılık,Lise,Serbest Meslek,Yatırım Hesabı,112839,650210.25,575,3024027.27,0,98,8,16
+MUS0291,43,İstanbul,Bireysel,İlkokul,Serbest Meslek,İhtiyaç Kredisi,6140,19250.15,515,85730.26,0,29,83,12
+MUS0292,52,Adana,KOBİ,Lise,Emekli,Konut Kredisi,24870,119206.02,738,0,0,59,56,0
+MUS0293,40,Bursa,KOBİ,Ortaokul,Akademisyen,Kredi Kartı,26587,81175.15,617,0,0,49,28,16
+MUS0294,54,İstanbul,KOBİ,Lise,Akademisyen,Kredi Kartı,371816,5895267.09,580,1176466.91,0,48,119,30
+MUS0295,38,Bursa,Özel Bankacılık,Üniversite,Akademisyen,Yatırım Hesabı,185769,1318566.87,838,5099157.7,0,94,41,18
+MUS0296,58,Adana,Bireysel,Lise,Esnaf,Yatırım Hesabı,8273,53407.98,661,177874.7,0,52,8,2
+MUS0297,57,Mersin,Özel Bankacılık,Üniversite,Emekli,İhtiyaç Kredisi,193841,1435792.57,900,4291220.24,0,68,38,17
+MUS0298,45,İstanbul,Bireysel,İlkokul,Emekli,Yatırım Hesabı,8094,25656.43,566,0,0,56,103,15
+MUS0299,53,İzmir,Bireysel,Ortaokul,Serbest Meslek,Vadesiz Mevduat,12741,94840.87,514,393390.35,0,26,149,43
+MUS0300,26,Konya,Bireysel,Üniversite,Akademisyen,Yatırım Hesabı,359276,0.0,549,649386.19,0,99,48,25
+MUS0301,54,Antalya,Bireysel,Üniversite,Memur,İhtiyaç Kredisi,26647,163040.99,630,482667.49,0,72,19,30
+MUS0302,56,Gaziantep,Bireysel,Üniversite,Serbest Meslek,Konut Kredisi,36020,15542.82,633,0,0,65,36,13
+MUS0303,30,Ankara,Bireysel,Lise,Çalışan,Vadesiz Mevduat,13114,24887.82,534,381128.53,1,97,90,24
+MUS0304,47,İstanbul,KOBİ,Lise,Serbest Meslek,Vadesiz Mevduat,28741,117084.7,561,0,0,91,1,26
+MUS0305,34,İzmir,KOBİ,Ortaokul,Emekli,Vadesiz Mevduat,25055,130361.22,545,992543.0,0,70,1,43
+MUS0306,37,Bursa,Özel Bankacılık,Üniversite,Memur,Yatırım Hesabı,123417,11020.25,900,0,0,97,137,21
+MUS0307,26,Antalya,Bireysel,Lise,Memur,Kredi Kartı,21906,82251.59,547,0,0,84,30,15
+MUS0308,53,Mersin,Özel Bankacılık,Üniversite,Emekli,Yatırım Hesabı,213882,859570.97,900,0,0,50,179,22
+MUS0309,37,Kayseri,Bireysel,Üniversite,Serbest Meslek,İhtiyaç Kredisi,32765,315298.84,635,0,0,59,42,24
+MUS0310,37,İzmir,Bireysel,Lise,Memur,İhtiyaç Kredisi,11344,19987.27,536,0,0,61,60,0
+MUS0311,46,İzmir,KOBİ,Ortaokul,Serbest Meslek,İhtiyaç Kredisi,334417,2346707.33,603,0,0,57,49,27
+MUS0312,48,Ankara,Bireysel,Üniversite,Esnaf,İhtiyaç Kredisi,42684,175611.18,599,514321.21,0,82,64,18
+MUS0313,54,İstanbul,Bireysel,Lise,Emekli,Kredi Kartı,22084,121721.56,515,356600.31,0,49,57,19
+MUS0314,43,Konya,Bireysel,Lisansüstü,Memur,İhtiyaç Kredisi,49458,0,581,467659.1,0,100,70,25
+MUS0315,39,Bursa,Bireysel,Lisansüstü,Memur,Vadesiz Mevduat,34923,171387.57,702,504829.96,0,81,52,24
+MUS0316,45,Konya,Bireysel,Üniversite,Emekli,Vadesiz Mevduat,34918,88039.09,665,930720.81,0,77,13,55
+MUS0317,42,Gaziantep,Bireysel,Üniversite,Çalışan,Yatırım Hesabı,323873,748279.89,702,0,0,69,112,22
+MUS0318,41,Antalya,Bireysel,İlkokul,Serbest Meslek,Kredi Kartı,8309,30495.09,616,58080.51,0,19,34,23
+MUS0319,44,Adana,Bireysel,Lisansüstü,Serbest Meslek,Kredi Kartı,54453,309778.94,567,737923.37,1,76,121,0
+MUS0320,43,Ankara,KOBİ,Üniversite,Çalışan,Vadesiz Mevduat,62875,87904.99,699,0,0,82,20,40
+MUS0321,30,Bursa,KOBİ,Üniversite,Esnaf,Vadesiz Mevduat,45123,284212.15,646,517399.97,0,84,113,36
+MUS0322,22,Mersin,Özel Bankacılık,Üniversite,Memur,Kredi Kartı,182791,929012.88,900,3235987.29,0,77,30,29
+MUS0323,37,Konya,KOBİ,Üniversite,Emekli,İhtiyaç Kredisi,55308,86627.19,561,1685468.0,0,95,90,19
+MUS0324,30,Adana,Bireysel,Lise,Çalışan,Yatırım Hesabı,10333,50646.98,609,0,0,86,8,0
+MUS0325,51,İzmir,Bireysel,Üniversite,Memur,Vadesiz Mevduat,29560,74215.3,592,0,0,67,61,32
+MUS0326,45,Konya,Bireysel,İlkokul,Serbest Meslek,Yatırım Hesabı,10931,43785.55,474,0,0,71,68,16
+MUS0327,31,Antalya,Bireysel,Lise,Çalışan,Kredi Kartı,271089,409893.59,675,432578.58,0,75,165,9
+MUS0328,21,Gaziantep,Bireysel,Üniversite,Akademisyen,Vadesiz Mevduat,38529,103723.86,554,617707.61,0,75,43,48
+MUS0329,48,İzmir,Bireysel,İlkokul,Akademisyen,Konut Kredisi,6748,36023.99,795,117697.3,0,44,119,58
+MUS0330,41,Bursa,Özel Bankacılık,Lise,Emekli,Kredi Kartı,112568,566069.76,877,0,0,66,77,30
+MUS0331,43,Mersin,Özel Bankacılık,Lise,Esnaf,Kredi Kartı,104206,55399.71,721,0,0,61,141,15
+MUS0332,41,İzmir,Özel Bankacılık,Üniversite,Esnaf,Kredi Kartı,126359,799493.98,836,2113414.16,0,77,1,31
+MUS0333,33,Antalya,Bireysel,Lise,Serbest Meslek,Vadesiz Mevduat,18842,81755.28,678,0,0,75,22,11
+MUS0334,25,Ankara,Bireysel,Üniversite,Emekli,Kredi Kartı,29820,105635.8,498,0,0,85,73,23
+MUS0335,44,Antalya,Bireysel,Lisansüstü,Serbest Meslek,Kredi Kartı,55298,180327.84,871,0,0,64,29,22
+MUS0336,39,Gaziantep,Bireysel,Üniversite,Esnaf,İhtiyaç Kredisi,21147,135703.83,545,214141.08,1,64,113,30
+MUS0337,28,Bursa,KOBİ,Üniversite,Emekli,Vadesiz Mevduat,57538,205212.96,616,721159.17,0,99,23,25
+MUS0338,53,Kayseri,Bireysel,Lisansüstü,Emekli,İhtiyaç Kredisi,65464,336061.11,796,0,0,62,58,20
+MUS0339,44,Bursa,KOBİ,Lisansüstü,Memur,Konut Kredisi,97438,641605.54,735,0,0,75,135,32
+MUS0340,53,Gaziantep,Bireysel,Üniversite,Esnaf,Yatırım Hesabı,27273,40853.29,717,0,0,51,43,36
+MUS0341,61,Gaziantep,KOBİ,Lise,Akademisyen,İhtiyaç Kredisi,37790,197467.72,824,222909.53,0,72,76,0
+MUS0342,42,Bursa,Bireysel,Üniversite,Emekli,İhtiyaç Kredisi,26907,119339.91,553,389449.06,0,54,40,28
+MUS0343,44,İstanbul,Bireysel,Üniversite,Esnaf,Konut Kredisi,28118,133504.99,805,958965.87,0,66,8,8
+MUS0344,35,Adana,KOBİ,Lisansüstü,Memur,Konut Kredisi,86770,679408.22,765,0,0,68,121,27
+MUS0345,36,Adana,KOBİ,Üniversite,Esnaf,Kredi Kartı,40315,262119.84,698,0,0,100,67,11
+MUS0346,18,Mersin,Bireysel,Üniversite,Çalışan,Yatırım Hesabı,18800,51306.87,636,246605.25,0,72,73,28
+MUS0347,36,Ankara,Bireysel,İlkokul,Akademisyen,Vadesiz Mevduat,7871,20786.11,489,98488.48,0,58,40,10
+MUS0348,27,Antalya,Bireysel,Üniversite,Çalışan,Vadesiz Mevduat,36117,187123.21,507,0,0,100,87,15
+MUS0349,25,Konya,Özel Bankacılık,Lisansüstü,Memur,Kredi Kartı,288444,1711226.01,900,5697576.85,0,83,92,13
+MUS0350,49,Kayseri,Bireysel,İlkokul,Esnaf,Konut Kredisi,5000,3983.43,740,202511.53,0,53,106,8
+MUS0351,41,Antalya,Bireysel,Üniversite,Çalışan,Vadesiz Mevduat,237309,1657009.36,559,0,0,75,127,27
+MUS0352,52,Konya,Bireysel,Lisansüstü,Serbest Meslek,Kredi Kartı,44825,266266.76,706,586721.72,0,100,150,0
+MUS0353,38,Gaziantep,Bireysel,Üniversite,Esnaf,Vadesiz Mevduat,50880,209618.0,600,411307.27,0,100,88,16
+MUS0354,33,Bursa,Bireysel,Lise,Serbest Meslek,Konut Kredisi,17210,98598.29,527,334689.08,0,98,78,13
+MUS0355,41,İzmir,Bireysel,Lisansüstü,Çalışan,Yatırım Hesabı,55206,263251.5,601,731373.77,0,64,85,25
+MUS0356,44,Mersin,Bireysel,Lisansüstü,Akademisyen,İhtiyaç Kredisi,44365,126195.43,692,0,0,62,1,15
+MUS0357,50,İzmir,Bireysel,Ortaokul,Akademisyen,İhtiyaç Kredisi,13780,26173.9,484,306133.27,0,51,69,33
+MUS0358,37,Adana,Özel Bankacılık,Üniversite,Çalışan,İhtiyaç Kredisi,151297,867259.4,900,0,0,81,115,9
+MUS0359,35,Ankara,KOBİ,Lise,Akademisyen,Vadesiz Mevduat,43460,70403.75,553,0,0,85,1,12
+MUS0360,45,Mersin,Bireysel,Lise,Emekli,Yatırım Hesabı,11413,48575.55,694,313661.71,0,59,27,14
+MUS0361,27,İzmir,KOBİ,Lise,Emekli,Vadesiz Mevduat,29139,27850.94,491,473599.37,0,78,112,34
+MUS0362,37,İzmir,KOBİ,Üniversite,Emekli,Yatırım Hesabı,92452,251185.1,740,0,0,76,153,10
+MUS0363,18,Adana,KOBİ,Lisansüstü,Esnaf,Vadesiz Mevduat,87832,215992.58,765,456902.44,0,100,71,0
+MUS0364,29,İstanbul,Bireysel,Lise,Akademisyen,Yatırım Hesabı,14279,72524.09,492,332241.61,0,71,76,1
+MUS0365,60,İzmir,Bireysel,Ortaokul,Memur,Vadesiz Mevduat,16625,120861.7,498,0,1,56,1,36
+MUS0366,30,Konya,Bireysel,Üniversite,Esnaf,İhtiyaç Kredisi,135423,1719128.88,565,464403.43,0,87,35,36
+MUS0367,34,Mersin,Bireysel,Üniversite,Akademisyen,Vadesiz Mevduat,39152,255474.42,838,0,0,82,53,23
+MUS0368,35,Konya,Bireysel,Üniversite,Akademisyen,Vadesiz Mevduat,19744,31231.43,520,0,0,83,70,0
+MUS0369,49,Adana,Bireysel,Lisansüstü,Çalışan,Konut Kredisi,67598,451386.04,641,0,0,72,67,38
+MUS0370,40,Antalya,Bireysel,Üniversite,Esnaf,Vadesiz Mevduat,33635,3253.32,605,752479.9,0,91,95,22
+MUS0371,40,İzmir,Bireysel,Üniversite,Çalışan,Kredi Kartı,43945,18954.96,645,0,0,78,88,39
+MUS0372,64,Gaziantep,Bireysel,Üniversite,Serbest Meslek,İhtiyaç Kredisi,29181,81811.02,514,314830.48,0,64,57,8
+MUS0373,45,Kayseri,Özel Bankacılık,Lise,Akademisyen,İhtiyaç Kredisi,75070,313648.1,712,0,0,66,3,27
+MUS0374,54,İstanbul,Bireysel,Ortaokul,Esnaf,Konut Kredisi,10959,81549.99,516,192988.65,0,57,7,35
+MUS0375,25,Mersin,KOBİ,Üniversite,Esnaf,Konut Kredisi,9773,37988.42,544,249166.19,0,100,54,11
+MUS0376,58,İstanbul,Bireysel,İlkokul,Memur,Vadesiz Mevduat,6677,43455.64,424,0,0,35,48,25
+MUS0377,37,Mersin,KOBİ,Üniversite,Serbest Meslek,Vadesiz Mevduat,60931,155952.98,476,0,0,91,106,17
+MUS0378,43,Adana,Özel Bankacılık,Lise,Memur,Konut Kredisi,63858,233122.75,702,0,0,68,123,0
+MUS0379,43,Konya,Bireysel,Ortaokul,Esnaf,İhtiyaç Kredisi,13020,88736.74,684,148176.28,0,49,56,0
+MUS0380,50,İstanbul,Bireysel,Üniversite,Çalışan,Kredi Kartı,23977,0,526,0,0,65,20,22
+MUS0381,63,Ankara,KOBİ,Üniversite,Memur,İhtiyaç Kredisi,55617,79413.01,712,0,0,49,128,8
+MUS0382,51,Kayseri,Bireysel,Lisansüstü,Çalışan,Vadesiz Mevduat,70120,81251.23,692,0,0,87,141,18
+MUS0383,56,Ankara,Bireysel,Üniversite,Çalışan,İhtiyaç Kredisi,36475,142211.54,605,582610.5,0,49,127,27
+MUS0384,36,Konya,Bireysel,Lisansüstü,Memur,Vadesiz Mevduat,67683,245726.21,591,843987.84,0,75,112,11
+MUS0385,34,Ankara,Bireysel,İlkokul,Serbest Meslek,İhtiyaç Kredisi,5770,26155.19,531,0,0,63,93,31
+MUS0386,45,İzmir,Bireysel,Üniversite,Memur,Vadesiz Mevduat,39117,225619.84,610,629046.89,0,90,4,17
+MUS0387,45,Adana,Bireysel,Üniversite,Serbest Meslek,Vadesiz Mevduat,23215,69683.83,632,488376.48,0,62,55,25
+MUS0388,40,Mersin,KOBİ,Lise,Serbest Meslek,Vadesiz Mevduat,43145,148284.15,812,0,0,73,39,16
+MUS0389,32,Konya,KOBİ,Üniversite,Serbest Meslek,Kredi Kartı,47451,0,721,0,0,97,79,0
+MUS0390,42,Adana,KOBİ,Lise,Esnaf,Kredi Kartı,52055,493836.88,762,0,0,67,128,20
+MUS0391,47,Bursa,Bireysel,Lise,Serbest Meslek,Vadesiz Mevduat,10138,63102.78,560,170902.67,0,62,60,34
+MUS0392,48,Konya,KOBİ,İlkokul,Akademisyen,Vadesiz Mevduat,16106,72631.79,502,452738.62,0,30,57,29
+MUS0393,40,Ankara,Bireysel,Lise,Memur,Kredi Kartı,7126,21364.06,598,8943.61,0,75,119,16
+MUS0394,40,Bursa,Bireysel,Üniversite,Çalışan,Kredi Kartı,31972,80746.92,580,315493.17,0,85,79,31
+MUS0395,45,Mersin,KOBİ,Lisansüstü,Esnaf,Yatırım Hesabı,108801,592258.04,699,0,0,59,22,18
+MUS0396,61,Adana,Bireysel,Lise,Serbest Meslek,Yatırım Hesabı,29279,74163.67,711,381668.2,0,53,15,11
+MUS0397,47,Ankara,Bireysel,Üniversite,Serbest Meslek,Vadesiz Mevduat,28671,111426.56,592,0,0,72,55,11
+MUS0398,43,Mersin,KOBİ,İlkokul,Emekli,İhtiyaç Kredisi,19070,0,471,494221.0,0,29,1,44
+MUS0399,52,Gaziantep,Bireysel,Üniversite,Akademisyen,Yatırım Hesabı,14555,44576.18,604,0,0,66,70,17
+MUS0400,33,İstanbul,Bireysel,Ortaokul,Çalışan,İhtiyaç Kredisi,9662,49833.69,640,160694.48,0,57,73,27
+MUS0401,42,Mersin,Özel Bankacılık,Lisansüstü,Akademisyen,Kredi Kartı,135467,293890.45,900,2117421.51,0,87,17,26
+MUS0402,31,Kayseri,Bireysel,Üniversite,Esnaf,Konut Kredisi,32562,83850.31,482,0,0,96,51,25
+MUS0403,38,Ankara,Bireysel,Ortaokul,Çalışan,Vadesiz Mevduat,10623,18971.9,629,0,0,50,38,52
+MUS0404,40,Adana,Bireysel,Lise,Akademisyen,Vadesiz Mevduat,19881,99553.27,541,0,0,62,32,12
+MUS0405,56,Kayseri,Bireysel,Üniversite,Emekli,İhtiyaç Kredisi,28404,142109.6,644,376020.2,0,94,56,32
+MUS0406,45,İzmir,Bireysel,Üniversite,Çalışan,Kredi Kartı,46967,157770.01,606,324183.93,0,90,82,28
+MUS0407,48,İstanbul,Bireysel,Üniversite,Çalışan,Kredi Kartı,22175,128282.85,639,0,0,86,25,29
+MUS0408,52,Adana,Bireysel,Lise,Akademisyen,Yatırım Hesabı,17260,58231.19,515,674878.38,0,47,109,34
+MUS0409,39,Ankara,Bireysel,Üniversite,Memur,Kredi Kartı,25964,174978.2,611,352006.98,0,93,91,35
+MUS0410,28,Bursa,KOBİ,İlkokul,Esnaf,İhtiyaç Kredisi,5693,34044.77,519,59013.02,1,50,47,11
+MUS0411,22,Gaziantep,Bireysel,Lise,Çalışan,Konut Kredisi,29961,137907.37,543,0,0,42,123,25
+MUS0412,32,Gaziantep,Özel Bankacılık,Üniversite,Emekli,Kredi Kartı,181090,304332.94,900,0,0,98,29,20
+MUS0413,28,Gaziantep,Bireysel,Ortaokul,Emekli,Konut Kredisi,14346,45484.65,418,302274.45,0,85,158,27
+MUS0414,43,Kayseri,Bireysel,Üniversite,Serbest Meslek,Vadesiz Mevduat,24968,77725.23,708,0,0,95,121,20
+MUS0415,49,İstanbul,Bireysel,Ortaokul,Çalışan,İhtiyaç Kredisi,13337,52995.1,585,0,0,35,117,9
+MUS0416,51,Ankara,Bireysel,Lise,Akademisyen,Yatırım Hesabı,18460,55758.78,580,283827.92,1,49,28,35
+MUS0417,47,Antalya,Bireysel,Üniversite,Memur,Yatırım Hesabı,41876,177935.82,534,625088.5,0,88,83,12
+MUS0418,48,Kayseri,Bireysel,Üniversite,Serbest Meslek,Vadesiz Mevduat,35547,155377.23,549,0,0,81,100,0
+MUS0419,41,Kayseri,Bireysel,Üniversite,Akademisyen,Yatırım Hesabı,25210,14070.74,441,676577.38,1,94,76,19
+MUS0420,35,Kayseri,Özel Bankacılık,Üniversite,Çalışan,Kredi Kartı,147289,520238.42,850,0,0,76,93,28
+MUS0421,55,Ankara,Bireysel,Lise,Memur,Vadesiz Mevduat,18732,52432.37,633,229258.82,0,43,83,20
+MUS0422,35,Ankara,Bireysel,Üniversite,Esnaf,Kredi Kartı,26854,101153.74,570,479235.67,0,73,15,40
+MUS0423,43,Kayseri,Bireysel,Üniversite,Memur,Yatırım Hesabı,18996,55079.2,386,342285.32,0,78,167,9
+MUS0424,46,Mersin,Bireysel,Lise,Akademisyen,Vadesiz Mevduat,22585,67524.7,639,802763.44,0,95,91,26
+MUS0425,30,Kayseri,KOBİ,Üniversite,Memur,Konut Kredisi,66770,57008.99,692,0,0,95,43,0
+MUS0426,61,Konya,KOBİ,Lisansüstü,Çalışan,Kredi Kartı,175186,742851.18,898,1910516.95,0,81,104,10
+MUS0427,18,İzmir,KOBİ,Ortaokul,Serbest Meslek,Konut Kredisi,31093,238444.27,514,662147.85,0,81,1,5
+MUS0428,30,Adana,Özel Bankacılık,Üniversite,Esnaf,İhtiyaç Kredisi,203693,776587.36,900,5100593.38,0,94,185,41
+MUS0429,45,İstanbul,Bireysel,Lisansüstü,Emekli,Yatırım Hesabı,50912,150727.86,629,789280.31,0,85,1,27
+MUS0430,58,Adana,Bireysel,Üniversite,Esnaf,Yatırım Hesabı,45199,197815.9,834,770139.8,0,77,30,29
+MUS0431,43,İzmir,KOBİ,Üniversite,Serbest Meslek,Konut Kredisi,61107,106391.95,764,0,0,93,47,7
+MUS0432,32,Kayseri,KOBİ,Ortaokul,Çalışan,İhtiyaç Kredisi,22223,55110.22,450,620097.49,1,75,13,38
+MUS0433,54,Adana,KOBİ,Lise,Emekli,Konut Kredisi,38980,210630.32,670,651663.49,0,66,88,17
+MUS0434,29,İstanbul,Bireysel,Üniversite,Emekli,Yatırım Hesabı,29128,181589.22,591,401370.81,0,100,117,30
+MUS0435,47,Konya,Bireysel,Üniversite,Akademisyen,Konut Kredisi,36575,194504.8,620,0,0,82,68,26
+MUS0436,35,Mersin,Bireysel,Lise,Serbest Meslek,Yatırım Hesabı,17894,55872.29,589,269085.61,1,81,20,27
+MUS0437,62,Antalya,Bireysel,Lise,Esnaf,Konut Kredisi,19690,116763.95,565,0,0,42,75,24
+MUS0438,40,Mersin,KOBİ,Üniversite,Akademisyen,İhtiyaç Kredisi,94044,509412.01,586,0,0,100,41,29
+MUS0439,44,Antalya,Bireysel,Üniversite,Emekli,Konut Kredisi,42640,26119.27,534,275549.45,0,90,133,22
+MUS0440,50,Antalya,Bireysel,Üniversite,Esnaf,İhtiyaç Kredisi,12744,77039.38,608,307079.88,0,70,131,19
+MUS0441,39,İstanbul,KOBİ,Lisansüstü,Memur,Konut Kredisi,62425,100213.02,733,825051.18,0,100,133,20
+MUS0442,35,Ankara,KOBİ,Üniversite,Esnaf,Yatırım Hesabı,65532,534461.7,668,0,0,93,41,35
+MUS0443,48,Bursa,KOBİ,Lisansüstü,Serbest Meslek,Kredi Kartı,136670,503656.03,900,0,0,97,92,20
+MUS0444,36,Bursa,Bireysel,Lisansüstü,Serbest Meslek,Konut Kredisi,39391,169261.25,573,0,0,100,148,26
+MUS0445,30,Bursa,Bireysel,Lise,Emekli,Konut Kredisi,11573,75168.99,477,216866.0,1,96,178,15
+MUS0446,25,Bursa,Bireysel,Lise,Serbest Meslek,İhtiyaç Kredisi,9838,41461.5,452,274968.37,0,63,23,24
+MUS0447,30,Ankara,KOBİ,Üniversite,Akademisyen,Konut Kredisi,65266,69438.63,566,0,0,86,75,38
+MUS0448,47,İzmir,KOBİ,İlkokul,Serbest Meslek,Konut Kredisi,16747,79766.27,644,0,0,61,111,4
+MUS0449,40,Adana,Bireysel,Üniversite,Akademisyen,Kredi Kartı,43695,247455.21,504,596213.81,0,86,165,13
+MUS0450,69,Kayseri,Özel Bankacılık,Üniversite,Akademisyen,Kredi Kartı,82788,413349.46,885,920363.41,0,68,110,28
+MUS0451,55,Kayseri,Bireysel,Lise,Emekli,İhtiyaç Kredisi,23786,129692.51,769,0,0,55,126,38
+MUS0452,59,Antalya,Özel Bankacılık,Üniversite,Serbest Meslek,İhtiyaç Kredisi,183810,1325769.21,900,4031218.54,0,67,135,18
+MUS0453,37,Gaziantep,KOBİ,Üniversite,Akademisyen,İhtiyaç Kredisi,57658,48778.93,651,1244102.78,0,87,176,50
+MUS0454,41,İstanbul,Bireysel,İlkokul,Esnaf,Yatırım Hesabı,5000,38741.34,535,0,0,44,101,23
+MUS0455,35,Adana,Bireysel,Lisansüstü,Serbest Meslek,Vadesiz Mevduat,73500,340070.1,712,2150212.07,0,100,70,0
+MUS0456,32,Mersin,KOBİ,Üniversite,Çalışan,Yatırım Hesabı,104596,147961.24,900,0,0,100,148,10
+MUS0457,24,Bursa,Bireysel,Lise,Emekli,Konut Kredisi,21131,125119.12,680,619523.5,0,100,67,16
+MUS0458,43,Adana,Bireysel,Ortaokul,Çalışan,Kredi Kartı,190647,173397.05,625,0,0,42,111,63
+MUS0459,44,Bursa,Özel Bankacılık,Üniversite,Akademisyen,Vadesiz Mevduat,143290,392035.02,728,203589.04,0,58,83,26
+MUS0460,36,Konya,Bireysel,Üniversite,Çalışan,Yatırım Hesabı,23261,155520.98,612,1149939.79,0,64,79,15
+MUS0461,26,Antalya,KOBİ,Lise,Memur,Vadesiz Mevduat,34889,184312.7,619,664838.12,1,68,84,33
+MUS0462,39,İzmir,Bireysel,Ortaokul,Emekli,İhtiyaç Kredisi,5000,31189.04,490,121512.44,0,70,27,25
+MUS0463,48,Ankara,Bireysel,Üniversite,Çalışan,Yatırım Hesabı,41700,250303.95,696,0,0,65,9,15
+MUS0464,18,Ankara,Bireysel,Lise,Emekli,Vadesiz Mevduat,23137,63515.03,571,0,0,95,103,9
+MUS0465,29,Ankara,Bireysel,Lisansüstü,Esnaf,Vadesiz Mevduat,53860,47709.99,657,0,0,83,122,22
+MUS0466,39,İzmir,Bireysel,Üniversite,Memur,Vadesiz Mevduat,17850,99393.25,527,0,0,100,1,28
+MUS0467,40,İzmir,Özel Bankacılık,Lise,Memur,Yatırım Hesabı,130323,475957.32,810,3863194.23,0,73,13,31
+MUS0468,30,Antalya,KOBİ,Üniversite,Esnaf,Konut Kredisi,182703,428352.18,432,399251.61,0,97,61,14
+MUS0469,49,Kayseri,Bireysel,Lise,Çalışan,İhtiyaç Kredisi,22534,162474.28,722,0,0,48,90,35
+MUS0470,43,Gaziantep,Bireysel,Ortaokul,Memur,Vadesiz Mevduat,8116,13720.33,720,0,0,55,21,13
+MUS0471,65,Konya,Bireysel,Üniversite,Akademisyen,Yatırım Hesabı,22275,110900.21,595,632851.77,0,64,64,39
+MUS0472,41,Mersin,Bireysel,Lisansüstü,Çalışan,İhtiyaç Kredisi,51798,191179.89,700,965117.33,0,96,37,35
+MUS0473,63,İzmir,Bireysel,Lisansüstü,Akademisyen,İhtiyaç Kredisi,47198,117366.72,569,0,0,77,1,14
+MUS0474,35,İzmir,Bireysel,Lise,Serbest Meslek,Yatırım Hesabı,8420,35147.97,638,124035.55,0,90,71,20
+MUS0475,59,Kayseri,KOBİ,İlkokul,Memur,Konut Kredisi,10963,56688.53,645,240298.61,0,33,83,28
+MUS0476,35,Kayseri,Bireysel,Üniversite,Memur,Vadesiz Mevduat,233997,1831285.71,463,853659.37,1,65,18,43
+MUS0477,34,Adana,KOBİ,Lise,Çalışan,İhtiyaç Kredisi,542574,921821.2,645,594826.6,0,84,94,42
+MUS0478,38,İzmir,Bireysel,Ortaokul,Çalışan,İhtiyaç Kredisi,8589,53865.25,634,248314.01,0,68,25,10
+MUS0479,49,Adana,KOBİ,Lisansüstü,Emekli,Kredi Kartı,128289,108387.3,788,2266797.69,0,82,21,19
+MUS0480,44,Mersin,Bireysel,Ortaokul,Akademisyen,Yatırım Hesabı,15698,57196.7,677,0,0,43,64,11
+MUS0481,34,Kayseri,KOBİ,Üniversite,Serbest Meslek,İhtiyaç Kredisi,70450,43108.04,634,0,0,76,1,24
+MUS0482,30,İstanbul,Bireysel,Üniversite,Emekli,Kredi Kartı,18864,69418.86,583,515568.87,0,87,64,33
+MUS0483,32,Antalya,KOBİ,Üniversite,Esnaf,Vadesiz Mevduat,61707,11432.25,645,1697159.96,0,100,53,20
+MUS0484,41,Mersin,Bireysel,Üniversite,Akademisyen,Yatırım Hesabı,33675,93955.59,577,0,0,100,48,19
+MUS0485,47,Ankara,KOBİ,Lise,Esnaf,Kredi Kartı,29509,194020.46,689,0,0,71,80,32
+MUS0486,33,Kayseri,Bireysel,Lise,Esnaf,Yatırım Hesabı,19972,217.18,471,0,0,66,28,0
+MUS0487,40,İzmir,Bireysel,Ortaokul,Serbest Meslek,İhtiyaç Kredisi,10161,29217.54,411,204307.68,0,78,115,18
+MUS0488,38,Gaziantep,Bireysel,Ortaokul,Çalışan,Yatırım Hesabı,16244,85442.49,618,283945.35,0,67,82,9
+MUS0489,57,Antalya,Bireysel,Lise,Akademisyen,İhtiyaç Kredisi,18089,82323.89,624,267416.97,0,73,6,37
+MUS0490,38,İzmir,Bireysel,Üniversite,Emekli,İhtiyaç Kredisi,299200,1320875.28,556,0,0,73,38,30
+MUS0491,35,Ankara,Bireysel,Lisansüstü,Akademisyen,Vadesiz Mevduat,28532,69644.44,563,231098.57,0,98,134,18
+MUS0492,40,Konya,Bireysel,Üniversite,Memur,Vadesiz Mevduat,23956,46332.82,654,395215.26,0,92,18,34
+MUS0493,49,Konya,Bireysel,Lisansüstü,Memur,Konut Kredisi,39236,188264.7,684,494513.64,0,87,89,27
+MUS0494,49,Gaziantep,Bireysel,Üniversite,Memur,Yatırım Hesabı,35526,131229.79,617,406704.37,0,83,48,46
+MUS0495,32,Mersin,Bireysel,Üniversite,Emekli,Yatırım Hesabı,30133,61109.45,609,598811.25,0,73,76,24
+MUS0496,66,Ankara,Özel Bankacılık,Lise,Esnaf,Kredi Kartı,80717,478218.93,855,1914667.54,0,20,171,24
+MUS0497,27,Konya,Özel Bankacılık,İlkokul,Emekli,Yatırım Hesabı,32163,295533.52,768,580977.73,0,70,32,11
+MUS0498,55,İstanbul,Bireysel,Lise,Esnaf,Yatırım Hesabı,20118,87893.59,566,0,0,33,170,21
+MUS0499,60,Adana,Bireysel,Lisansüstü,Çalışan,Konut Kredisi,51698,184839.66,804,1186551.94,0,100,94,18
+MUS0500,20,İstanbul,Bireysel,Lisansüstü,Akademisyen,Kredi Kartı,73189,220970.69,520,1514209.1,1,81,160,26
+MUS0501,37,Adana,Bireysel,Lisansüstü,Emekli,Yatırım Hesabı,63023,274033.85,541,0,0,97,73,24
+MUS0502,45,Adana,Özel Bankacılık,Lise,Esnaf,Konut Kredisi,72182,663361.96,672,399076.73,0,69,210,23
+MUS0503,25,Antalya,Bireysel,Üniversite,Emekli,Kredi Kartı,25774,31584.11,516,0,0,100,82,30
+MUS0504,45,Kayseri,Bireysel,Üniversite,Çalışan,Kredi Kartı,288518,1824355.32,734,0,0,73,30,0
+MUS0505,52,Adana,Bireysel,Lise,Emekli,Konut Kredisi,22518,35740.3,615,395275.08,0,57,31,19
+MUS0506,54,Mersin,Bireysel,Üniversite,Akademisyen,Kredi Kartı,28703,153677.87,656,396586.83,0,90,1,24
+MUS0507,18,Adana,Bireysel,Üniversite,Serbest Meslek,Vadesiz Mevduat,33756,197145.98,438,616350.2,0,100,52,24
+MUS0508,56,İstanbul,Bireysel,Lisansüstü,Emekli,Konut Kredisi,38838,161012.84,625,0,0,93,94,16
+MUS0509,44,Gaziantep,Bireysel,Lise,Esnaf,İhtiyaç Kredisi,18773,125603.99,583,319416.43,0,83,26,6
+MUS0510,65,Adana,Bireysel,Üniversite,Memur,Vadesiz Mevduat,44183,187506.24,554,0,0,46,112,32
+MUS0511,43,Mersin,Bireysel,Lise,Serbest Meslek,Kredi Kartı,16175,51621.4,661,0,0,69,30,37
+MUS0512,28,Adana,Bireysel,Lise,Memur,Yatırım Hesabı,11037,26966.63,631,0,0,87,103,12
+MUS0513,32,Bursa,Bireysel,Üniversite,Çalışan,Kredi Kartı,17940,120003.18,551,0,0,70,47,25
+MUS0514,37,İstanbul,KOBİ,Üniversite,Memur,Kredi Kartı,45201,204561.29,717,0,0,95,1,13
+MUS0515,50,İstanbul,Bireysel,Ortaokul,Memur,Yatırım Hesabı,14235,72561.84,628,0,0,72,83,22
+MUS0516,42,Antalya,Bireysel,Üniversite,Çalışan,Yatırım Hesabı,35942,168856.37,675,723464.32,0,73,104,14
+MUS0517,72,Adana,Bireysel,Üniversite,Akademisyen,Kredi Kartı,21062,171268.03,647,0,0,64,82,40
+MUS0518,32,Adana,Bireysel,Lise,Emekli,Kredi Kartı,26058,62117.71,446,255586.72,1,78,139,20
+MUS0519,48,Konya,Bireysel,Lise,Memur,İhtiyaç Kredisi,19900,26431.94,639,0,0,78,72,10
+MUS0520,26,Adana,Bireysel,Üniversite,Emekli,İhtiyaç Kredisi,31948,54735.79,471,0,0,100,170,13
+MUS0521,44,Gaziantep,Bireysel,Üniversite,Çalışan,Konut Kredisi,25407,93103.87,677,568357.49,0,58,86,9
+MUS0522,48,Adana,KOBİ,Lise,Memur,Kredi Kartı,30884,140923.84,774,800039.25,0,59,66,20
+MUS0523,50,Kayseri,Bireysel,Lise,Serbest Meslek,Konut Kredisi,17998,131517.69,617,47592.95,0,83,143,18
+MUS0524,27,Antalya,KOBİ,Üniversite,Emekli,İhtiyaç Kredisi,80549,78086.36,795,0,0,94,163,14
+MUS0525,46,Bursa,KOBİ,Üniversite,Esnaf,Yatırım Hesabı,33512,121233.48,535,0,0,73,100,24
+MUS0526,23,Kayseri,Bireysel,İlkokul,Serbest Meslek,Yatırım Hesabı,9437,26261.29,521,0,0,47,51,28
+MUS0527,39,Kayseri,KOBİ,Lise,Esnaf,Vadesiz Mevduat,38347,288737.11,787,0,0,48,36,35
+MUS0528,33,Gaziantep,Bireysel,Ortaokul,Emekli,Kredi Kartı,61686,715548.77,658,134977.12,0,63,45,29
+MUS0529,27,Bursa,Bireysel,Lise,Akademisyen,Yatırım Hesabı,19680,84483.48,508,0,0,81,48,25
+MUS0530,47,Konya,Bireysel,Üniversite,Emekli,Kredi Kartı,34450,39123.27,678,101599.85,0,54,1,21
+MUS0531,47,İzmir,Bireysel,Lise,Emekli,Yatırım Hesabı,11829,88437.96,493,75561.07,0,55,110,12
+MUS0532,42,Antalya,KOBİ,Lise,Serbest Meslek,İhtiyaç Kredisi,65091,245226.59,590,0,0,78,128,0
+MUS0533,59,Antalya,KOBİ,Lisansüstü,Esnaf,Konut Kredisi,114253,383460.73,785,0,0,39,2,32
+MUS0534,33,Ankara,Bireysel,Üniversite,Çalışan,İhtiyaç Kredisi,32084,56921.43,590,431496.8,0,64,69,0
+MUS0535,35,Ankara,Bireysel,Üniversite,Serbest Meslek,Konut Kredisi,21179,67648.76,584,0,0,82,21,12
+MUS0536,43,Mersin,KOBİ,Ortaokul,Çalışan,Vadesiz Mevduat,18700,66755.75,707,0,0,71,97,31
+MUS0537,53,Kayseri,Bireysel,Lise,Akademisyen,Vadesiz Mevduat,9556,19032.3,490,0,0,51,98,23
+MUS0538,42,Bursa,KOBİ,Lise,Serbest Meslek,Kredi Kartı,50039,257044.86,720,876293.94,0,76,169,28
+MUS0539,20,Gaziantep,Bireysel,Üniversite,Çalışan,Konut Kredisi,24602,86282.95,579,0,0,100,96,27
+MUS0540,43,Gaziantep,Bireysel,Üniversite,Memur,İhtiyaç Kredisi,36173,112743.75,568,0,0,100,99,4
+MUS0541,52,Kayseri,Özel Bankacılık,Üniversite,Esnaf,Kredi Kartı,149755,732645.33,816,4205755.79,0,73,46,31
+MUS0542,60,Konya,Özel Bankacılık,Ortaokul,Memur,Yatırım Hesabı,76728,219026.38,606,1311178.41,0,49,72,22
+MUS0543,35,Bursa,Bireysel,Üniversite,Memur,Kredi Kartı,24677,128070.8,614,553005.58,0,56,4,21
+MUS0544,31,İstanbul,Bireysel,Üniversite,Emekli,Konut Kredisi,30022,76783.26,578,321633.5,1,100,1,27
+MUS0545,24,Kayseri,KOBİ,Lise,Emekli,Vadesiz Mevduat,52295,257229.61,641,0,0,83,95,19
+MUS0546,40,Bursa,Bireysel,Lise,Memur,İhtiyaç Kredisi,13392,50013.58,511,241624.66,0,84,46,14
+MUS0547,28,Adana,Bireysel,Lise,Serbest Meslek,İhtiyaç Kredisi,20306,74733.13,425,0,0,82,62,4
+MUS0548,57,Mersin,Özel Bankacılık,Üniversite,Esnaf,Kredi Kartı,147699,920178.39,799,0,0,72,95,24
+MUS0549,18,Bursa,Bireysel,İlkokul,Esnaf,Konut Kredisi,8293,74136.32,438,54508.44,0,71,60,23
+MUS0550,44,Mersin,Bireysel,Lise,Emekli,Konut Kredisi,9068,19725.82,672,0,0,65,84,12
+MUS0551,50,Adana,Bireysel,Üniversite,Akademisyen,Vadesiz Mevduat,25800,32913.94,609,0,0,90,70,38
+MUS0552,29,İstanbul,KOBİ,Ortaokul,Memur,İhtiyaç Kredisi,32707,195102.84,531,152943.82,0,83,31,51
+MUS0553,54,Antalya,Bireysel,Üniversite,Akademisyen,Vadesiz Mevduat,37438,190175.87,506,799037.96,0,94,101,22
+MUS0554,41,Gaziantep,Bireysel,Üniversite,Akademisyen,Konut Kredisi,24525,44095.49,683,639500.8,0,100,84,14
+MUS0555,30,Bursa,Bireysel,Lise,Emekli,İhtiyaç Kredisi,12594,60654.94,513,168366.7,0,88,25,14
+MUS0556,42,İstanbul,Bireysel,Lise,Memur,Yatırım Hesabı,16468,80002.8,718,0,0,65,1,23
+MUS0557,36,Adana,Bireysel,Lisansüstü,Serbest Meslek,Konut Kredisi,41145,236844.06,644,1034625.02,0,99,56,0
+MUS0558,30,Kayseri,Bireysel,Lise,Akademisyen,Kredi Kartı,23514,65123.74,494,632521.01,0,100,75,19
+MUS0559,22,Adana,Bireysel,Üniversite,Serbest Meslek,Yatırım Hesabı,31431,141589.11,499,0,0,100,52,11
+MUS0560,26,Mersin,Bireysel,Lise,Serbest Meslek,Yatırım Hesabı,24745,38112.33,561,396225.05,1,100,1,35
+MUS0561,40,Konya,Özel Bankacılık,Üniversite,Serbest Meslek,Kredi Kartı,167969,1217640.7,861,2532826.14,0,100,165,38
+MUS0562,30,Konya,Bireysel,Lisansüstü,Akademisyen,Vadesiz Mevduat,36089,3516.69,533,0,0,82,55,29
+MUS0563,30,Ankara,Özel Bankacılık,Üniversite,Emekli,İhtiyaç Kredisi,85037,518354.43,676,1498447.6,0,100,37,35
+MUS0564,41,Mersin,Özel Bankacılık,Lise,Çalışan,İhtiyaç Kredisi,89272,561717.9,762,0,0,84,66,10
+MUS0565,55,Mersin,Bireysel,Üniversite,Memur,İhtiyaç Kredisi,47574,201034.79,609,1497552.3,0,66,47,17
+MUS0566,61,İstanbul,KOBİ,Üniversite,Çalışan,Yatırım Hesabı,76146,299839.15,863,1351741.85,0,41,74,0
+MUS0567,65,Bursa,KOBİ,Üniversite,Serbest Meslek,Vadesiz Mevduat,96336,230600.06,866,760798.43,0,69,57,33
+MUS0568,43,Adana,Bireysel,Üniversite,Emekli,Vadesiz Mevduat,22770,84613.67,578,0,0,70,52,25
+MUS0569,35,İstanbul,Bireysel,Üniversite,Akademisyen,Konut Kredisi,31418,188615.75,690,673750.67,0,94,71,20
+MUS0570,46,İzmir,Bireysel,Lise,Emekli,Kredi Kartı,16911,88647.93,581,498954.86,0,64,138,18
+MUS0571,58,Bursa,Bireysel,Lise,Çalışan,Yatırım Hesabı,15787,28813.74,698,0,0,43,2,33
+MUS0572,28,Adana,Bireysel,İlkokul,Memur,Vadesiz Mevduat,10475,62719.53,588,0,0,55,126,20
+MUS0573,40,Mersin,Bireysel,Lise,Emekli,İhtiyaç Kredisi,20665,52897.34,697,0,0,57,60,18
+MUS0574,30,Kayseri,KOBİ,Üniversite,Esnaf,Yatırım Hesabı,30493,94637.03,507,216040.58,0,100,136,21
+MUS0575,40,İstanbul,Bireysel,Ortaokul,Serbest Meslek,Kredi Kartı,14361,69043.16,573,210197.86,0,70,65,39
+MUS0576,39,Kayseri,Bireysel,Lisansüstü,Çalışan,Yatırım Hesabı,34636,169370.83,578,0,0,70,36,33
+MUS0577,35,İstanbul,Bireysel,Lise,Serbest Meslek,Kredi Kartı,27716,183446.66,560,425290.82,0,82,104,26
+MUS0578,48,Gaziantep,Özel Bankacılık,Üniversite,Çalışan,İhtiyaç Kredisi,140817,676962.03,900,1447383.49,0,59,8,15
+MUS0579,58,İzmir,Bireysel,Lise,Emekli,İhtiyaç Kredisi,19190,94258.8,637,291305.7,0,55,43,30
+MUS0580,50,Bursa,KOBİ,Lise,Memur,İhtiyaç Kredisi,38517,282543.85,599,72977.24,0,58,79,16
+MUS0581,47,Antalya,Bireysel,Üniversite,Esnaf,Vadesiz Mevduat,26667,156693.86,585,449413.72,0,37,1,8
+MUS0582,38,İstanbul,Bireysel,Üniversite,Akademisyen,Kredi Kartı,25825,66173.76,565,0,0,74,36,25
+MUS0583,24,Konya,Bireysel,Lisansüstü,Emekli,Yatırım Hesabı,45656,402121.0,477,0,0,96,81,38
+MUS0584,49,Adana,Bireysel,Üniversite,Akademisyen,Vadesiz Mevduat,33090,204411.24,686,459411.53,0,100,188,23
+MUS0585,38,İzmir,Özel Bankacılık,Üniversite,Esnaf,Yatırım Hesabı,106548,77204.88,635,0,0,78,1,21
+MUS0586,33,Kayseri,Özel Bankacılık,Üniversite,Memur,Yatırım Hesabı,124070,544079.84,900,0,0,76,92,32
+MUS0587,37,İstanbul,Bireysel,Lise,Emekli,Kredi Kartı,19892,105436.13,546,366260.88,0,66,63,29
+MUS0588,43,Bursa,Bireysel,Lisansüstü,Akademisyen,Yatırım Hesabı,51060,66413.09,677,570831.42,0,100,69,22
+MUS0589,46,Adana,Bireysel,İlkokul,Emekli,İhtiyaç Kredisi,10786,60969.71,528,0,0,72,75,21
+MUS0590,55,İzmir,Bireysel,Üniversite,Çalışan,Vadesiz Mevduat,43123,164079.1,619,0,0,73,171,22
+MUS0591,41,Antalya,Bireysel,İlkokul,Emekli,İhtiyaç Kredisi,5000,23558.41,601,74035.11,0,41,1,15
+MUS0592,62,Gaziantep,Bireysel,Üniversite,Akademisyen,İhtiyaç Kredisi,46637,199390.82,641,1404047.17,0,66,96,10
+MUS0593,42,Konya,Bireysel,Lise,Emekli,Vadesiz Mevduat,13934,74910.78,654,274179.4,0,40,73,44
+MUS0594,57,Ankara,KOBİ,Üniversite,Esnaf,Yatırım Hesabı,122278,197566.2,761,2385419.51,0,71,117,16
+MUS0595,31,İstanbul,Bireysel,Lise,Esnaf,Konut Kredisi,5000,21859.06,618,78316.23,0,81,1,43
+MUS0596,36,İstanbul,Bireysel,Lise,Memur,Vadesiz Mevduat,13976,50915.87,627,0,0,64,87,11
+MUS0597,42,Kayseri,Bireysel,Üniversite,Serbest Meslek,Konut Kredisi,19499,132599.8,582,0,0,60,74,31
+MUS0598,53,Ankara,Bireysel,Ortaokul,Akademisyen,Yatırım Hesabı,15283,99073.13,539,196784.0,1,18,29,18
+MUS0599,50,Bursa,Özel Bankacılık,Üniversite,Serbest Meslek,Vadesiz Mevduat,183702,549767.7,767,0,0,84,21,15
+MUS0600,51,Gaziantep,Bireysel,Ortaokul,Emekli,Yatırım Hesabı,15871,47767.5,704,0,0,55,82,24
+MUS0601,32,Bursa,KOBİ,Üniversite,Emekli,İhtiyaç Kredisi,29306,151921.04,578,0,0,68,127,14
+MUS0602,47,Bursa,Bireysel,Üniversite,Memur,Yatırım Hesabı,106502,1487744.18,523,278238.15,0,67,62,30
+MUS0603,44,Antalya,Özel Bankacılık,Lisansüstü,Memur,Kredi Kartı,331519,1296168.85,900,0,0,98,113,20
+MUS0604,32,Antalya,KOBİ,Üniversite,Emekli,Yatırım Hesabı,121231,460272.47,762,2086030.42,0,76,141,23
+MUS0605,50,Mersin,Özel Bankacılık,Ortaokul,Akademisyen,İhtiyaç Kredisi,55350,115632.1,597,629836.58,0,58,6,4
+MUS0606,28,Gaziantep,Bireysel,Lise,Emekli,Vadesiz Mevduat,18151,81655.81,510,0,0,90,61,19
+MUS0607,52,Mersin,KOBİ,Lise,Serbest Meslek,Vadesiz Mevduat,167234,1751945.14,574,0,0,50,124,37
+MUS0608,55,İstanbul,Bireysel,Üniversite,Akademisyen,Vadesiz Mevduat,41393,143920.32,844,0,0,70,65,25
+MUS0609,27,Ankara,KOBİ,Lise,Emekli,Yatırım Hesabı,56635,96228.0,599,1503483.24,0,80,131,25
+MUS0610,42,Gaziantep,Bireysel,Ortaokul,Serbest Meslek,Vadesiz Mevduat,12518,74509.39,533,0,0,70,42,5
+MUS0611,66,Konya,Özel Bankacılık,Lise,Memur,Kredi Kartı,130237,296055.35,900,4418753.68,0,35,48,17
+MUS0612,35,Gaziantep,Bireysel,Lise,Akademisyen,Konut Kredisi,14864,76214.99,518,203999.99,0,84,97,1
+MUS0613,38,İzmir,Özel Bankacılık,Lise,Emekli,İhtiyaç Kredisi,43386,141446.72,630,0,0,85,62,54
+MUS0614,62,Adana,Bireysel,Üniversite,Emekli,İhtiyaç Kredisi,19723,45406.61,751,0,0,91,27,32
+MUS0615,31,Kayseri,Bireysel,Üniversite,Emekli,Vadesiz Mevduat,268943,636536.54,518,0,0,86,38,60
+MUS0616,42,İstanbul,Özel Bankacılık,Lisansüstü,Çalışan,Kredi Kartı,262242,1330134.3,900,0,0,53,76,44
+MUS0617,29,İzmir,Bireysel,Lise,Memur,İhtiyaç Kredisi,24059,86418.24,543,0,0,83,63,18
+MUS0618,45,Gaziantep,Bireysel,Ortaokul,Serbest Meslek,İhtiyaç Kredisi,11758,8013.95,556,136384.77,0,62,1,20
+MUS0619,48,İzmir,Bireysel,Üniversite,Memur,İhtiyaç Kredisi,36743,50686.32,705,0,0,62,121,15
+MUS0620,20,İzmir,Bireysel,Lise,Memur,Yatırım Hesabı,27228,106536.89,477,174333.71,0,100,56,19
+MUS0621,47,Gaziantep,Bireysel,Üniversite,Serbest Meslek,Vadesiz Mevduat,17740,76744.34,629,100276.39,1,58,59,36
+MUS0622,42,Antalya,Bireysel,Lise,Serbest Meslek,Vadesiz Mevduat,20272,69975.41,578,0,0,65,73,30
+MUS0623,47,Gaziantep,KOBİ,Üniversite,Çalışan,İhtiyaç Kredisi,57866,0,663,841239.08,0,98,123,31
+MUS0624,54,İstanbul,Bireysel,Lise,Serbest Meslek,İhtiyaç Kredisi,24664,131506.68,676,402115.55,0,75,131,36
+MUS0625,41,Kayseri,Bireysel,Lisansüstü,Çalışan,İhtiyaç Kredisi,58307,129718.53,561,1755882.04,0,88,25,26
+MUS0626,57,Konya,Bireysel,Ortaokul,Memur,Kredi Kartı,12317,28176.9,698,0,0,28,19,22
+MUS0627,48,Ankara,Bireysel,Lise,Çalışan,Konut Kredisi,19804,83420.33,538,344201.9,0,96,87,26
+MUS0628,28,Antalya,Bireysel,Lise,Esnaf,Kredi Kartı,20351,56376.35,511,214100.68,0,90,86,21
+MUS0629,45,Bursa,Bireysel,Üniversite,Esnaf,Vadesiz Mevduat,33504,72128.8,694,0,0,83,168,16
+MUS0630,32,Konya,Bireysel,Ortaokul,Serbest Meslek,Vadesiz Mevduat,19071,33526.6,572,242172.36,0,85,70,17
+MUS0631,28,İzmir,Bireysel,Lisansüstü,Serbest Meslek,Kredi Kartı,53223,237177.64,563,0,0,87,39,31
+MUS0632,39,İstanbul,Bireysel,Lisansüstü,Akademisyen,İhtiyaç Kredisi,78265,364372.19,713,1113236.09,0,100,1,19
+MUS0633,51,Ankara,KOBİ,Lisansüstü,Emekli,Konut Kredisi,114048,628893.96,900,495472.72,0,72,1,32
+MUS0634,57,Kayseri,KOBİ,Üniversite,Esnaf,Kredi Kartı,79808,214223.48,690,0,0,91,42,21
+MUS0635,31,İzmir,Bireysel,Üniversite,Çalışan,Vadesiz Mevduat,33515,37184.57,582,0,0,100,160,13
+MUS0636,28,Mersin,Bireysel,Ortaokul,Serbest Meslek,Kredi Kartı,197975,989996.88,615,544556.0,0,59,159,23
+MUS0637,32,Konya,KOBİ,Üniversite,Emekli,İhtiyaç Kredisi,75848,125305.02,654,0,0,95,91,15
+MUS0638,45,Gaziantep,Bireysel,Lise,Akademisyen,İhtiyaç Kredisi,12407,20804.64,739,141251.5,0,71,54,49
+MUS0639,44,Mersin,KOBİ,Lisansüstü,Memur,İhtiyaç Kredisi,55287,216919.65,585,243988.93,0,76,64,40
+MUS0640,18,Konya,KOBİ,Lise,Akademisyen,İhtiyaç Kredisi,51098,209121.96,612,0,0,100,63,44
+MUS0641,48,Bursa,Bireysel,İlkokul,Emekli,Vadesiz Mevduat,8134,11425.18,680,0,0,34,46,58
+MUS0642,32,Bursa,Özel Bankacılık,Üniversite,Emekli,Vadesiz Mevduat,168732,254582.47,900,0,0,100,119,45
+MUS0643,53,Ankara,Bireysel,Üniversite,Serbest Meslek,Yatırım Hesabı,194343,891536.09,731,0,0,76,47,19
+MUS0644,46,Mersin,Bireysel,Üniversite,Memur,Yatırım Hesabı,19043,118413.23,654,0,0,89,49,28
+MUS0645,44,Kayseri,Bireysel,Üniversite,Akademisyen,İhtiyaç Kredisi,16901,55258.66,770,0,0,66,23,32
+MUS0646,50,Antalya,Bireysel,Lise,Serbest Meslek,Vadesiz Mevduat,27212,157922.21,665,412316.4,0,49,100,16
+MUS0647,36,Konya,KOBİ,Üniversite,Serbest Meslek,Konut Kredisi,78398,319855.86,593,1059600.69,0,100,69,10
+MUS0648,32,Ankara,KOBİ,Lise,Memur,Yatırım Hesabı,53676,233246.56,727,1671213.64,0,73,101,18
+MUS0649,18,Ankara,Bireysel,Lise,Esnaf,Konut Kredisi,8383,39804.26,338,0,0,100,71,29
+MUS0650,46,Gaziantep,KOBİ,Ortaokul,Esnaf,Konut Kredisi,31039,112598.02,534,396107.34,0,50,108,29
+MUS0651,41,Ankara,Bireysel,Lise,Memur,Yatırım Hesabı,23544,17554.56,493,0,0,56,62,38
+MUS0652,56,Bursa,Bireysel,Ortaokul,Akademisyen,Konut Kredisi,7658,49820.36,641,175139.38,0,23,90,34
+MUS0653,32,Kayseri,Bireysel,Lise,Esnaf,Konut Kredisi,15252,0,600,0,0,57,27,7
+MUS0654,51,Bursa,KOBİ,Lise,Emekli,İhtiyaç Kredisi,42357,237535.74,710,0,0,53,52,24
+MUS0655,42,İstanbul,Bireysel,Lisansüstü,Çalışan,Kredi Kartı,64122,147266.3,818,455691.51,0,91,81,28
+MUS0656,23,Gaziantep,KOBİ,Ortaokul,Çalışan,İhtiyaç Kredisi,20373,55070.7,521,0,0,60,95,20
+MUS0657,50,İstanbul,Bireysel,Lise,Memur,Kredi Kartı,20925,66594.0,526,507103.33,0,94,190,1
+MUS0658,51,Antalya,KOBİ,Lisansüstü,Memur,Vadesiz Mevduat,130185,486510.79,900,0,0,61,123,36
+MUS0659,34,İzmir,Bireysel,Üniversite,Emekli,İhtiyaç Kredisi,24627,46405.85,586,667511.66,0,89,17,39
+MUS0660,53,Bursa,Bireysel,Üniversite,Akademisyen,Kredi Kartı,28794,93760.81,572,0,0,71,25,24
+MUS0661,42,Mersin,Bireysel,Üniversite,Esnaf,Konut Kredisi,22236,64290.16,605,507493.43,0,74,167,18
+MUS0662,30,Bursa,KOBİ,Ortaokul,Emekli,Kredi Kartı,8457,26885.9,523,177783.05,1,74,35,24
+MUS0663,36,Adana,Bireysel,Lise,Esnaf,Vadesiz Mevduat,20954,48331.14,629,226907.96,1,80,1,40
+MUS0664,29,İzmir,Bireysel,Üniversite,Esnaf,Yatırım Hesabı,30384,84809.58,478,0,0,91,87,31
+MUS0665,44,Bursa,Bireysel,Lisansüstü,Akademisyen,İhtiyaç Kredisi,49066,224753.85,633,79738.29,0,86,28,18
+MUS0666,57,Kayseri,Bireysel,Lisansüstü,Esnaf,İhtiyaç Kredisi,52788,5055.3,664,0,0,64,93,31
+MUS0667,66,Konya,Özel Bankacılık,Lise,Memur,Kredi Kartı,419412,7355652.17,876,1019190.69,0,64,109,12
+MUS0668,42,Bursa,Bireysel,Üniversite,Serbest Meslek,Kredi Kartı,25920,119254.45,531,312416.93,0,95,70,35
+MUS0669,32,Adana,Bireysel,Lisansüstü,Akademisyen,Yatırım Hesabı,56284,65452.75,626,744597.42,0,99,64,24
+MUS0670,52,Gaziantep,Bireysel,Lise,Akademisyen,Vadesiz Mevduat,30611,20228.98,470,0,0,48,1,0
+MUS0671,51,Adana,Bireysel,Lisansüstü,Emekli,Yatırım Hesabı,9229,66208.61,576,186043.69,0,66,38,0
+MUS0672,50,İstanbul,Bireysel,Üniversite,Akademisyen,Kredi Kartı,24979,105903.8,723,0,0,69,58,31
+MUS0673,51,İstanbul,Bireysel,Lise,Esnaf,Vadesiz Mevduat,19513,26115.77,654,349928.47,0,77,116,8
+MUS0674,18,Ankara,Bireysel,Üniversite,Serbest Meslek,Kredi Kartı,38340,148390.32,596,0,0,99,144,12
+MUS0675,49,Antalya,KOBİ,Üniversite,Serbest Meslek,Yatırım Hesabı,28793,161341.4,634,0,0,67,71,34
+MUS0676,30,Antalya,Bireysel,Üniversite,Akademisyen,İhtiyaç Kredisi,27517,152014.42,518,317034.64,0,94,59,8
+MUS0677,54,Gaziantep,Bireysel,Üniversite,Esnaf,Vadesiz Mevduat,27517,112866.19,516,507490.18,1,88,12,17
+MUS0678,22,Gaziantep,KOBİ,Ortaokul,Akademisyen,Vadesiz Mevduat,29512,5924.67,549,443876.4,1,100,1,9
+MUS0679,41,İstanbul,Bireysel,Ortaokul,Esnaf,Yatırım Hesabı,10814,46618.08,610,0,0,50,73,11
+MUS0680,21,İstanbul,Bireysel,Üniversite,Esnaf,Kredi Kartı,30057,120563.28,533,466900.4,0,69,86,18
+MUS0681,43,İzmir,Bireysel,Üniversite,Esnaf,Konut Kredisi,35925,45876.5,692,338693.12,0,90,153,17
+MUS0682,35,Konya,Bireysel,Üniversite,Çalışan,Vadesiz Mevduat,40144,136788.02,574,0,0,73,110,29
+MUS0683,39,Konya,Bireysel,Ortaokul,Emekli,Vadesiz Mevduat,75969,369545.76,470,280126.97,1,55,111,13
+MUS0684,38,Bursa,KOBİ,Lise,Akademisyen,Yatırım Hesabı,42313,125330.23,562,0,0,60,136,24
+MUS0685,32,Gaziantep,Bireysel,Ortaokul,Akademisyen,İhtiyaç Kredisi,9096,50777.3,489,0,0,51,81,7
+MUS0686,44,Mersin,Bireysel,Lise,Esnaf,İhtiyaç Kredisi,18544,71284.56,531,0,0,46,72,18
+MUS0687,49,Bursa,Özel Bankacılık,Ortaokul,Serbest Meslek,İhtiyaç Kredisi,60686,116132.9,784,1355200.11,0,77,108,3
+MUS0688,27,Konya,Bireysel,Lise,Akademisyen,Yatırım Hesabı,213967,475177.86,426,273700.29,0,65,95,23
+MUS0689,37,İzmir,Bireysel,Lisansüstü,Çalışan,İhtiyaç Kredisi,25001,58409.47,522,0,0,100,63,7
+MUS0690,61,Konya,Bireysel,Üniversite,Çalışan,Yatırım Hesabı,19611,91874.77,543,0,0,78,27,32
+MUS0691,52,İstanbul,Bireysel,Üniversite,Çalışan,Vadesiz Mevduat,33475,290888.43,688,0,0,67,160,32
+MUS0692,29,Mersin,Bireysel,Lise,Esnaf,Yatırım Hesabı,17998,124168.55,601,7746.7,0,86,114,24
+MUS0693,57,İstanbul,Bireysel,Ortaokul,Esnaf,Konut Kredisi,9563,48367.56,556,329108.37,0,37,73,18
+MUS0694,35,Mersin,Özel Bankacılık,Üniversite,Memur,Yatırım Hesabı,153151,588654.17,803,2932973.78,0,99,91,0
+MUS0695,32,İstanbul,Özel Bankacılık,Üniversite,Serbest Meslek,Yatırım Hesabı,122379,470561.39,758,1479760.88,0,97,53,7
+MUS0696,46,Mersin,Bireysel,Lisansüstü,Çalışan,Konut Kredisi,71576,383512.05,719,0,0,85,150,38
+MUS0697,28,İstanbul,Özel Bankacılık,Lisansüstü,Serbest Meslek,Vadesiz Mevduat,313066,1403172.22,900,6313981.48,0,97,111,11
+MUS0698,33,Antalya,Bireysel,Lisansüstü,Serbest Meslek,İhtiyaç Kredisi,46611,22326.71,749,396545.11,0,79,117,28
+MUS0699,35,Kayseri,Bireysel,Üniversite,Memur,Konut Kredisi,41407,89795.3,570,559318.93,0,96,66,21
+MUS0700,33,İzmir,KOBİ,İlkokul,Serbest Meslek,İhtiyaç Kredisi,14184,31507.59,629,343046.41,0,36,131,30
+MUS0701,46,Gaziantep,Bireysel,Lise,Memur,Kredi Kartı,18946,99049.42,570,361865.43,0,65,81,2
+MUS0702,25,Mersin,Özel Bankacılık,Lise,Memur,Konut Kredisi,84295,104879.94,775,0,0,64,73,0
+MUS0703,25,Antalya,Özel Bankacılık,Lisansüstü,Esnaf,İhtiyaç Kredisi,335552,1404286.94,900,0,0,52,102,23
+MUS0704,68,Antalya,Bireysel,Ortaokul,Serbest Meslek,Yatırım Hesabı,10669,69296.96,683,208457.9,0,24,4,32
+MUS0705,42,İzmir,KOBİ,Lise,Memur,İhtiyaç Kredisi,42857,172739.24,561,0,0,86,18,30
+MUS0706,50,Kayseri,KOBİ,Lise,Memur,İhtiyaç Kredisi,685898,3545237.31,838,863998.89,0,57,94,23
+MUS0707,75,İstanbul,Bireysel,Üniversite,Serbest Meslek,Vadesiz Mevduat,21645,94290.16,655,0,0,64,23,30
+MUS0708,44,Ankara,Bireysel,Üniversite,Serbest Meslek,Kredi Kartı,26024,148666.41,640,0,0,64,90,17
+MUS0709,18,Adana,KOBİ,Lisansüstü,Akademisyen,Konut Kredisi,138915,437298.29,745,4718800.0,0,90,4,8
+MUS0710,52,Kayseri,KOBİ,Üniversite,Akademisyen,Konut Kredisi,58880,85968.72,627,1113812.01,0,50,216,12
+MUS0711,50,Kayseri,Özel Bankacılık,Üniversite,Esnaf,Vadesiz Mevduat,104920,644672.15,802,1268957.53,0,78,62,30
+MUS0712,37,Adana,KOBİ,Lise,Çalışan,Vadesiz Mevduat,27524,164644.1,571,413877.65,0,72,37,22
+MUS0713,33,İzmir,Bireysel,Lisansüstü,Serbest Meslek,İhtiyaç Kredisi,33293,39630.69,508,800617.61,0,100,105,33
+MUS0714,48,İzmir,Bireysel,Lisansüstü,Memur,Kredi Kartı,63878,0,625,0,0,83,81,5
+MUS0715,49,Kayseri,Bireysel,Lisansüstü,Emekli,Konut Kredisi,72748,452392.91,711,1793788.18,0,69,128,36
+MUS0716,54,Konya,Özel Bankacılık,Lisansüstü,Akademisyen,İhtiyaç Kredisi,269844,503046.14,900,0,0,52,61,6
+MUS0717,30,İzmir,Bireysel,Lisansüstü,Esnaf,Yatırım Hesabı,72427,176664.5,727,117340.14,0,76,59,32
+MUS0718,37,Mersin,KOBİ,Üniversite,Emekli,Konut Kredisi,81559,365663.65,741,0,0,80,1,25
+MUS0719,56,Ankara,Bireysel,Lise,Serbest Meslek,Vadesiz Mevduat,16531,103229.45,617,0,0,68,68,38
+MUS0720,52,Antalya,Bireysel,Ortaokul,Serbest Meslek,Yatırım Hesabı,48362,1095548.01,611,0,0,26,50,44
+MUS0721,42,Konya,Bireysel,Üniversite,Emekli,Konut Kredisi,42430,103349.46,668,0,0,76,51,22
+MUS0722,40,Ankara,Bireysel,Lisansüstü,Memur,Kredi Kartı,40460,96853.86,622,0,0,61,65,19
+MUS0723,31,Kayseri,Bireysel,Lise,Esnaf,Vadesiz Mevduat,25203,78582.43,579,0,0,99,77,29
+MUS0724,49,İzmir,Bireysel,Üniversite,Çalışan,Kredi Kartı,47433,368025.69,608,0,0,80,72,14
+MUS0725,39,Antalya,Bireysel,Üniversite,Akademisyen,Yatırım Hesabı,30799,179976.42,408,0,0,75,124,1
+MUS0726,39,Gaziantep,Bireysel,Üniversite,Esnaf,İhtiyaç Kredisi,36070,293879.24,574,0,0,68,97,22
+MUS0727,54,Ankara,Özel Bankacılık,Lise,Emekli,Kredi Kartı,94602,163245.2,792,876970.48,0,56,127,38
+MUS0728,28,Antalya,KOBİ,Üniversite,Emekli,İhtiyaç Kredisi,73552,149928.08,665,1520732.66,0,88,60,13
+MUS0729,44,Ankara,Bireysel,Lisansüstü,Esnaf,Yatırım Hesabı,44205,282525.98,767,0,0,86,135,32
+MUS0730,45,Kayseri,KOBİ,Ortaokul,Memur,Yatırım Hesabı,35906,280082.44,611,598548.52,0,45,37,30
+MUS0731,51,İstanbul,Bireysel,İlkokul,Memur,Yatırım Hesabı,9451,26808.57,589,186418.41,0,68,68,28
+MUS0732,54,İzmir,Bireysel,Üniversite,Çalışan,Vadesiz Mevduat,34933,107038.4,517,612682.09,0,52,124,31
+MUS0733,41,Antalya,KOBİ,Üniversite,Emekli,Yatırım Hesabı,49218,153257.45,653,0,0,68,50,14
+MUS0734,45,Antalya,Bireysel,Lisansüstü,Esnaf,Yatırım Hesabı,55104,240941.05,584,1000086.75,0,91,93,33
+MUS0735,40,Mersin,Bireysel,Ortaokul,Çalışan,Konut Kredisi,15141,94098.18,663,350493.83,0,56,60,3
+MUS0736,55,Bursa,KOBİ,Ortaokul,Emekli,Konut Kredisi,15335,87835.36,615,0,0,46,1,7
+MUS0737,35,Kayseri,Bireysel,Üniversite,Esnaf,İhtiyaç Kredisi,42065,110609.21,731,1423647.33,0,49,130,33
+MUS0738,49,İzmir,KOBİ,Üniversite,Memur,Kredi Kartı,641119,14799495.84,878,1157722.01,0,61,107,13
+MUS0739,35,Antalya,KOBİ,Üniversite,Esnaf,Konut Kredisi,61344,198774.41,774,0,0,99,58,11
+MUS0740,33,İzmir,Bireysel,Lise,Akademisyen,İhtiyaç Kredisi,23592,97387.39,594,0,0,82,60,29
+MUS0741,38,Adana,Bireysel,Ortaokul,Esnaf,İhtiyaç Kredisi,11251,14453.52,437,261169.01,0,64,114,15
+MUS0742,36,Gaziantep,Bireysel,Lisansüstü,Esnaf,Yatırım Hesabı,46374,149376.9,608,1042706.22,0,100,3,19
+MUS0743,35,Mersin,Bireysel,Üniversite,Akademisyen,Yatırım Hesabı,21114,120807.59,698,0,0,100,118,26
+MUS0744,47,İstanbul,Bireysel,Ortaokul,Emekli,İhtiyaç Kredisi,10366,25589.5,538,0,0,56,38,30
+MUS0745,58,Kayseri,Bireysel,Lise,Memur,Yatırım Hesabı,6730,50931.05,542,0,0,67,20,0
+MUS0746,43,Gaziantep,Bireysel,Üniversite,Serbest Meslek,Vadesiz Mevduat,41798,44659.88,643,446823.56,0,100,1,26
+MUS0747,52,Bursa,Özel Bankacılık,Lise,Esnaf,Kredi Kartı,1354046,5076062.4,858,2523312.74,0,59,64,19
+MUS0748,55,Mersin,Bireysel,Üniversite,Akademisyen,İhtiyaç Kredisi,225961,3162002.9,569,0,0,71,72,0
+MUS0749,21,İzmir,Bireysel,Lisansüstü,Serbest Meslek,Vadesiz Mevduat,942042,8547062.29,686,1845963.69,0,100,94,37
+MUS0750,18,İzmir,Bireysel,Lisansüstü,Esnaf,Konut Kredisi,50982,44367.35,689,0,0,100,107,2
+MUS0751,41,Antalya,Bireysel,Üniversite,Akademisyen,Yatırım Hesabı,19239,106456.56,688,39687.43,0,93,108,24
+MUS0752,37,Ankara,Bireysel,Lise,Memur,Kredi Kartı,14880,97592.63,616,276976.8,0,44,96,31
+MUS0753,38,Bursa,Özel Bankacılık,Üniversite,Akademisyen,Kredi Kartı,133696,777298.72,792,0,0,95,1,33
+MUS0754,51,Antalya,Bireysel,Lise,Emekli,Konut Kredisi,20774,36292.61,711,495271.62,0,43,132,17
+MUS0755,46,Gaziantep,Bireysel,Lise,Akademisyen,Konut Kredisi,160451,98218.35,604,0,0,88,116,21
+MUS0756,55,İzmir,Bireysel,Üniversite,Çalışan,Konut Kredisi,17855,51008.12,667,248138.42,0,77,55,11
+MUS0757,43,Adana,Bireysel,Lise,Emekli,Yatırım Hesabı,18442,80889.13,619,0,0,54,27,26
+MUS0758,32,Adana,Bireysel,Üniversite,Emekli,İhtiyaç Kredisi,52742,339487.73,538,0,0,72,69,26
+MUS0759,18,Kayseri,Bireysel,Lise,Çalışan,Yatırım Hesabı,30612,90706.47,629,0,0,100,101,29
+MUS0760,35,Antalya,Özel Bankacılık,Üniversite,Serbest Meslek,Konut Kredisi,156939,805071.82,848,0,0,84,90,22
+MUS0761,50,Kayseri,Bireysel,Üniversite,Çalışan,Vadesiz Mevduat,21808,92921.32,487,0,0,78,132,12
+MUS0762,33,Ankara,KOBİ,Lise,Çalışan,Kredi Kartı,45822,154847.72,738,0,0,62,38,11
+MUS0763,56,Mersin,Bireysel,Lise,Serbest Meslek,Konut Kredisi,13868,80385.78,711,251124.15,0,61,128,31
+MUS0764,44,İzmir,Bireysel,Lise,Çalışan,Konut Kredisi,10407,66839.42,769,232921.93,0,57,1,17
+MUS0765,43,Gaziantep,Bireysel,Üniversite,Memur,Kredi Kartı,25054,159671.37,534,597991.51,0,58,119,18
+MUS0766,50,Konya,Bireysel,Üniversite,Emekli,Konut Kredisi,43408,0,689,922056.88,0,78,57,51
+MUS0767,43,Kayseri,Bireysel,Üniversite,Akademisyen,İhtiyaç Kredisi,20767,101540.78,747,456620.04,0,67,45,5
+MUS0768,50,Antalya,Bireysel,Lise,Çalışan,İhtiyaç Kredisi,22755,95449.48,538,224803.01,1,63,35,26
+MUS0769,44,Gaziantep,Bireysel,Lisansüstü,Çalışan,İhtiyaç Kredisi,50383,131617.25,722,0,0,58,19,20
+MUS0770,18,İzmir,Bireysel,Üniversite,Akademisyen,Vadesiz Mevduat,47040,377801.06,681,0,0,96,76,30
+MUS0771,39,Gaziantep,KOBİ,Lisansüstü,Serbest Meslek,Yatırım Hesabı,118873,677098.23,623,1975289.59,0,75,110,22
+MUS0772,29,Antalya,KOBİ,Üniversite,Memur,Yatırım Hesabı,55931,265783.96,632,1050708.52,0,84,39,1
+MUS0773,46,Bursa,Bireysel,İlkokul,Çalışan,Kredi Kartı,9821,45591.96,540,0,0,19,43,13
+MUS0774,45,İstanbul,Özel Bankacılık,Lise,Çalışan,Konut Kredisi,76093,413460.57,631,1661246.09,0,81,38,8
+MUS0775,35,Adana,Bireysel,Ortaokul,Akademisyen,Yatırım Hesabı,209069,584010.63,672,206895.35,0,59,1,38
+MUS0776,20,Bursa,Bireysel,Lise,Esnaf,Kredi Kartı,27107,147269.59,614,625575.49,0,95,86,0
+MUS0777,38,Adana,Bireysel,Üniversite,Emekli,Yatırım Hesabı,45187,89517.52,544,0,0,69,21,7
+MUS0778,41,Konya,Bireysel,Lise,Emekli,Kredi Kartı,20998,71908.41,564,579161.2,0,86,164,9
+MUS0779,53,İstanbul,Bireysel,Üniversite,Serbest Meslek,Yatırım Hesabı,5755,0,476,0,0,57,55,30
+MUS0780,55,Ankara,Bireysel,Lisansüstü,Memur,Yatırım Hesabı,38932,8589.28,600,0,0,82,111,27
+MUS0781,36,Adana,Özel Bankacılık,Ortaokul,Memur,Vadesiz Mevduat,65341,401423.97,670,0,0,85,109,0
+MUS0782,18,Mersin,Bireysel,Üniversite,Serbest Meslek,Kredi Kartı,35423,159836.06,571,0,0,100,1,24
+MUS0783,38,Kayseri,Bireysel,Ortaokul,Esnaf,Yatırım Hesabı,100286,406013.67,575,0,0,58,108,5
+MUS0784,47,Konya,Bireysel,Lise,Memur,Vadesiz Mevduat,21345,117909.99,481,470123.24,0,79,145,10
+MUS0785,42,Ankara,Bireysel,Üniversite,Akademisyen,İhtiyaç Kredisi,14863,34515.53,679,180120.8,0,83,97,23
+MUS0786,35,Adana,Bireysel,Üniversite,Akademisyen,Konut Kredisi,43381,106130.56,592,0,0,81,47,24
+MUS0787,36,Antalya,KOBİ,Üniversite,Memur,Kredi Kartı,56278,193252.93,724,1045457.01,0,68,66,48
+MUS0788,23,Kayseri,Bireysel,Lise,Çalışan,İhtiyaç Kredisi,22127,50338.81,601,587048.89,0,100,82,16
+MUS0789,50,Ankara,Bireysel,Üniversite,Çalışan,İhtiyaç Kredisi,10770,55105.96,712,0,0,58,84,7
+MUS0790,32,İstanbul,Bireysel,Lise,Memur,Konut Kredisi,17799,138135.69,526,543954.12,0,91,36,20
+MUS0791,56,Bursa,Bireysel,Lise,Akademisyen,İhtiyaç Kredisi,31508,121008.24,703,0,0,55,1,27
+MUS0792,38,Bursa,Bireysel,Üniversite,Esnaf,İhtiyaç Kredisi,19112,87006.62,591,0,0,70,79,27
+MUS0793,41,Kayseri,Bireysel,Üniversite,Esnaf,İhtiyaç Kredisi,31189,2384.91,682,0,0,61,96,7
+MUS0794,32,Antalya,Özel Bankacılık,Üniversite,Esnaf,Konut Kredisi,121983,494994.47,675,0,0,87,42,44
+MUS0795,57,Kayseri,Bireysel,Üniversite,Akademisyen,İhtiyaç Kredisi,39751,162761.92,665,0,0,50,68,30
+MUS0796,60,Konya,Bireysel,Lise,Akademisyen,Yatırım Hesabı,19559,55195.34,668,423784.87,0,57,18,11
+MUS0797,18,Adana,Bireysel,Lise,Emekli,Kredi Kartı,22444,40474.04,655,0,0,100,23,4
+MUS0798,48,Antalya,Bireysel,Üniversite,Çalışan,Konut Kredisi,36408,72468.31,737,395547.61,0,82,75,9
+MUS0799,45,İzmir,Bireysel,Lisansüstü,Çalışan,Vadesiz Mevduat,44921,143424.41,591,0,0,98,79,10
+MUS0800,52,Mersin,KOBİ,Üniversite,Çalışan,Vadesiz Mevduat,76451,346563.25,688,0,0,37,182,13
+MUS0801,38,Konya,Bireysel,Lise,Esnaf,Yatırım Hesabı,19765,58749.9,530,423815.33,0,70,71,11
+MUS0802,28,İzmir,Bireysel,Lisansüstü,Esnaf,Konut Kredisi,45485,106877.74,637,571740.38,0,80,62,15
+MUS0803,41,Adana,KOBİ,Lisansüstü,Çalışan,İhtiyaç Kredisi,95758,323426.07,789,2367303.97,0,100,1,5
+MUS0804,44,Gaziantep,Bireysel,Lise,Emekli,Vadesiz Mevduat,16340,96895.38,579,0,0,100,68,29
+MUS0805,34,Adana,Bireysel,Üniversite,Akademisyen,Vadesiz Mevduat,7676,14138.28,566,0,0,68,83,17
+MUS0806,47,Bursa,Bireysel,Üniversite,Akademisyen,İhtiyaç Kredisi,20822,186181.09,434,323730.42,0,84,1,27
+MUS0807,33,İstanbul,Özel Bankacılık,Lise,Çalışan,Vadesiz Mevduat,71175,410106.4,676,1745753.25,0,61,3,18
+MUS0808,53,Adana,KOBİ,Lisansüstü,Akademisyen,Yatırım Hesabı,172167,747977.98,900,967486.56,0,59,1,14
+MUS0809,61,Bursa,Bireysel,Üniversite,Serbest Meslek,Konut Kredisi,53625,240222.63,871,0,0,95,88,27
+MUS0810,39,Bursa,Bireysel,Lise,Emekli,İhtiyaç Kredisi,15046,72270.92,464,421564.53,1,93,32,36
+MUS0811,55,Mersin,Bireysel,Lise,Çalışan,İhtiyaç Kredisi,23678,222784.18,644,255972.24,0,58,73,25
+MUS0812,30,Antalya,Bireysel,Üniversite,Emekli,Konut Kredisi,31809,225291.21,502,0,0,67,195,25
+MUS0813,36,İstanbul,KOBİ,Ortaokul,Serbest Meslek,Kredi Kartı,24764,141660.42,687,0,0,90,104,33
+MUS0814,28,İzmir,Bireysel,Lise,Serbest Meslek,Yatırım Hesabı,26678,87715.43,592,0,0,72,94,26
+MUS0815,32,Adana,Bireysel,Lisansüstü,Çalışan,Yatırım Hesabı,81025,157518.53,836,2453618.18,0,69,25,33
+MUS0816,38,İstanbul,Bireysel,Lise,Serbest Meslek,Vadesiz Mevduat,18965,117432.2,560,472503.4,0,63,72,21
+MUS0817,31,Antalya,KOBİ,Ortaokul,Akademisyen,Yatırım Hesabı,34566,121709.69,505,0,0,75,46,23
+MUS0818,48,Ankara,Bireysel,Üniversite,Akademisyen,İhtiyaç Kredisi,27493,184387.04,615,0,0,86,48,39
+MUS0819,36,Kayseri,Bireysel,Üniversite,Çalışan,Kredi Kartı,37697,226113.46,714,0,0,84,1,7
+MUS0820,26,İstanbul,Bireysel,Üniversite,Serbest Meslek,Kredi Kartı,28899,120955.81,416,575190.3,0,100,63,35
+MUS0821,41,Antalya,Bireysel,Üniversite,Esnaf,Konut Kredisi,20092,152802.61,581,653044.49,0,69,11,14
+MUS0822,54,İstanbul,Bireysel,Lisansüstü,Serbest Meslek,Vadesiz Mevduat,57613,356560.03,764,1411745.85,0,70,120,26
+MUS0823,41,Gaziantep,Bireysel,Üniversite,Esnaf,Kredi Kartı,38554,244767.58,631,0,0,71,1,18
+MUS0824,45,İstanbul,Bireysel,Üniversite,Çalışan,Yatırım Hesabı,51660,108433.9,642,1226268.04,0,96,116,5
+MUS0825,72,Mersin,Özel Bankacılık,Lise,Serbest Meslek,Konut Kredisi,111543,266079.67,877,1114187.12,0,54,64,12
+MUS0826,38,Antalya,KOBİ,Lise,Akademisyen,Yatırım Hesabı,37140,149886.43,570,1093393.39,0,100,119,20
+MUS0827,46,Mersin,Bireysel,Lise,Çalışan,Vadesiz Mevduat,31030,164064.26,680,0,0,47,35,23
+MUS0828,48,Ankara,Bireysel,Üniversite,Esnaf,Vadesiz Mevduat,31649,41879.61,632,0,0,91,8,17
+MUS0829,46,Adana,KOBİ,Lisansüstü,Memur,İhtiyaç Kredisi,97270,245893.75,690,1360946.08,0,53,57,36
+MUS0830,57,Mersin,KOBİ,Lisansüstü,Serbest Meslek,İhtiyaç Kredisi,41202,61268.61,714,0,0,68,147,20
+MUS0831,51,Antalya,Bireysel,Lisansüstü,Memur,Vadesiz Mevduat,79049,486129.41,728,0,0,95,60,17
+MUS0832,22,Kayseri,KOBİ,Üniversite,Esnaf,İhtiyaç Kredisi,41145,152629.19,569,989132.8,0,78,175,39
+MUS0833,29,Mersin,Bireysel,Lise,Emekli,Vadesiz Mevduat,275150,1189459.23,489,815732.14,0,70,84,4
+MUS0834,38,Ankara,Özel Bankacılık,Lise,Emekli,Vadesiz Mevduat,37914,148563.71,763,908676.27,0,71,122,25
+MUS0835,40,İzmir,Bireysel,Lise,Esnaf,Konut Kredisi,8980,38053.97,513,218376.32,0,79,114,0
+MUS0836,34,Ankara,Bireysel,Üniversite,Çalışan,Yatırım Hesabı,30101,85448.51,634,0,0,70,142,37
+MUS0837,29,Ankara,Bireysel,Lise,Çalışan,Yatırım Hesabı,15869,24753.72,557,127961.33,0,82,91,1
+MUS0838,27,Adana,Bireysel,Üniversite,Emekli,Kredi Kartı,33704,119845.01,726,0,0,84,55,37
+MUS0839,63,Konya,Özel Bankacılık,Üniversite,Serbest Meslek,Yatırım Hesabı,266717,1442018.5,900,0,0,69,168,1
+MUS0840,50,İstanbul,Bireysel,Lisansüstü,Emekli,İhtiyaç Kredisi,37053,196205.47,563,0,0,72,13,13
+MUS0841,31,Antalya,Özel Bankacılık,Üniversite,Çalışan,Konut Kredisi,167923,890919.18,835,4850466.32,0,99,106,5
+MUS0842,36,Ankara,Bireysel,Lisansüstü,Esnaf,İhtiyaç Kredisi,53289,248503.26,591,613396.02,0,50,78,31
+MUS0843,49,Konya,Bireysel,Üniversite,Emekli,Vadesiz Mevduat,28399,46013.55,581,248249.58,0,99,64,17
+MUS0844,33,İstanbul,Bireysel,Üniversite,Emekli,İhtiyaç Kredisi,9358,50412.76,543,59501.45,0,82,1,11
+MUS0845,62,Kayseri,Bireysel,Lisansüstü,Esnaf,Konut Kredisi,21673,155349.1,675,0,0,70,53,33
+MUS0846,46,Mersin,Bireysel,Üniversite,Serbest Meslek,Kredi Kartı,50336,243979.66,647,547699.55,0,70,2,25
+MUS0847,30,İzmir,KOBİ,Ortaokul,Çalışan,Kredi Kartı,22080,802.91,517,397665.58,0,91,65,11
+MUS0848,58,Mersin,Bireysel,Ortaokul,Esnaf,Vadesiz Mevduat,11338,36087.21,834,206942.49,0,38,152,11
+MUS0849,37,Mersin,Bireysel,Üniversite,Esnaf,Kredi Kartı,34017,131408.85,587,468247.52,0,57,105,23
+MUS0850,27,Mersin,Bireysel,İlkokul,Esnaf,Vadesiz Mevduat,8729,20791.78,516,219650.79,0,76,38,0
+MUS0851,18,Kayseri,Özel Bankacılık,Üniversite,Emekli,Vadesiz Mevduat,792710,9429263.47,784,0,0,100,1,23
+MUS0852,36,Mersin,Bireysel,Ortaokul,Esnaf,Vadesiz Mevduat,9290,13208.85,536,93675.71,0,76,49,33
+MUS0853,28,Gaziantep,Özel Bankacılık,Lise,Emekli,Vadesiz Mevduat,91879,275682.46,786,362541.65,0,81,65,18
+MUS0854,25,Ankara,Bireysel,Lise,Esnaf,Yatırım Hesabı,15947,61128.5,447,260139.29,0,93,156,29
+MUS0855,40,Kayseri,KOBİ,Üniversite,Esnaf,Konut Kredisi,60562,271874.22,751,1165773.8,0,94,9,22
+MUS0856,43,Gaziantep,Bireysel,Lise,Akademisyen,Vadesiz Mevduat,17759,74965.92,731,0,0,100,58,27
+MUS0857,31,İzmir,Bireysel,Üniversite,Esnaf,Konut Kredisi,36957,95472.55,455,0,0,76,99,45
+MUS0858,37,İstanbul,Bireysel,Lise,Emekli,İhtiyaç Kredisi,29435,145477.51,512,0,0,63,37,17
+MUS0859,29,Ankara,Bireysel,Ortaokul,Emekli,Vadesiz Mevduat,13303,74859.95,606,0,0,66,115,16
+MUS0860,53,Mersin,Bireysel,Lise,Memur,İhtiyaç Kredisi,7945,51012.53,554,288960.2,0,96,98,27
+MUS0861,35,Ankara,Bireysel,Lise,Esnaf,Konut Kredisi,19136,67457.77,559,0,0,77,41,24
+MUS0862,52,Adana,Özel Bankacılık,Lisansüstü,Çalışan,Kredi Kartı,242513,1232525.8,900,2844165.05,0,86,83,28
+MUS0863,58,Ankara,KOBİ,Üniversite,Esnaf,Yatırım Hesabı,63238,325812.33,639,1009249.09,0,64,70,18
+MUS0864,23,Ankara,Bireysel,Üniversite,Memur,İhtiyaç Kredisi,33121,132977.99,497,0,0,100,72,18
+MUS0865,38,Konya,Bireysel,Lisansüstü,Akademisyen,İhtiyaç Kredisi,77356,65265.31,736,0,0,78,43,35
+MUS0866,41,Kayseri,Bireysel,Lisansüstü,Serbest Meslek,Kredi Kartı,48862,349578.11,720,790296.8,0,85,21,20
+MUS0867,45,Bursa,KOBİ,Lisansüstü,Serbest Meslek,Konut Kredisi,130638,779952.43,881,1576049.79,0,69,81,18
+MUS0868,36,Bursa,Bireysel,Üniversite,Akademisyen,Yatırım Hesabı,23434,133304.27,674,169073.33,0,71,105,9
+MUS0869,38,Mersin,Özel Bankacılık,Lise,Serbest Meslek,Kredi Kartı,60308,457125.66,559,128667.33,0,83,76,15
+MUS0870,38,İzmir,Bireysel,Üniversite,Esnaf,Kredi Kartı,34587,187320.23,612,0,0,100,6,23
+MUS0871,68,İstanbul,Bireysel,Üniversite,Memur,Vadesiz Mevduat,32721,170944.77,612,812471.87,0,53,111,19
+MUS0872,38,Adana,Bireysel,Üniversite,Emekli,İhtiyaç Kredisi,34742,97890.14,745,746723.42,0,77,113,15
+MUS0873,38,Antalya,Bireysel,Üniversite,Serbest Meslek,Vadesiz Mevduat,25655,21589.02,636,314839.28,0,93,144,24
+MUS0874,70,Mersin,Özel Bankacılık,Üniversite,Emekli,Vadesiz Mevduat,129787,25515.99,795,0,0,62,60,28
+MUS0875,49,Bursa,Bireysel,Lisansüstü,Çalışan,Konut Kredisi,45342,0,746,0,0,89,172,24
+MUS0876,44,Antalya,Bireysel,Lise,Çalışan,Yatırım Hesabı,17334,60587.17,630,0,0,65,36,32
+MUS0877,41,Konya,Özel Bankacılık,Üniversite,Çalışan,Yatırım Hesabı,239484,1148161.07,900,0,0,80,61,29
+MUS0878,49,Antalya,Bireysel,Üniversite,Çalışan,Konut Kredisi,13330,59120.18,508,399065.9,0,66,34,22
+MUS0879,44,Ankara,Özel Bankacılık,Üniversite,Çalışan,Yatırım Hesabı,144088,913918.91,900,2780384.58,0,83,73,27
+MUS0880,51,Adana,KOBİ,Lisansüstü,Esnaf,Vadesiz Mevduat,163336,904111.86,828,0,0,79,49,35
+MUS0881,54,Ankara,KOBİ,Lise,Akademisyen,Vadesiz Mevduat,60633,247714.75,695,1245876.09,0,44,61,33
+MUS0882,75,Antalya,Bireysel,Üniversite,Esnaf,Vadesiz Mevduat,19978,96718.87,843,566782.78,0,45,57,36
+MUS0883,56,Bursa,KOBİ,Lise,Akademisyen,Yatırım Hesabı,36055,215387.02,612,492545.68,0,59,77,36
+MUS0884,30,İstanbul,Bireysel,Ortaokul,Çalışan,Vadesiz Mevduat,7153,10561.8,657,0,0,82,151,23
+MUS0885,24,Adana,Bireysel,Üniversite,Esnaf,Vadesiz Mevduat,23889,76640.08,628,0,0,86,101,6
+MUS0886,43,İzmir,Bireysel,İlkokul,Çalışan,İhtiyaç Kredisi,5393,24194.5,698,0,0,36,1,27
+MUS0887,44,Gaziantep,Bireysel,Lise,Memur,Kredi Kartı,12859,61467.46,544,57645.72,0,79,139,45
+MUS0888,53,Konya,Bireysel,Ortaokul,Çalışan,Kredi Kartı,12487,29409.82,783,240846.1,0,68,1,33
+MUS0889,59,İstanbul,Özel Bankacılık,Lise,Memur,Vadesiz Mevduat,77691,243891.16,709,964665.5,0,57,137,17
+MUS0890,48,Mersin,Bireysel,Lise,Memur,Yatırım Hesabı,21192,72623.04,459,0,0,38,165,34
+MUS0891,47,Adana,Bireysel,Üniversite,Çalışan,İhtiyaç Kredisi,32625,49677.62,559,478097.03,0,67,133,30
+MUS0892,40,Bursa,Bireysel,Üniversite,Emekli,Vadesiz Mevduat,22794,177813.09,555,479049.95,0,50,95,40
+MUS0893,35,Bursa,Bireysel,Üniversite,Çalışan,Kredi Kartı,19767,130845.49,517,374267.83,0,72,29,28
+MUS0894,18,Kayseri,Bireysel,Lise,Akademisyen,Kredi Kartı,25030,82389.13,644,0,0,100,101,42
+MUS0895,41,Gaziantep,KOBİ,Üniversite,Memur,Konut Kredisi,77017,528945.97,718,0,0,95,97,27
+MUS0896,38,Mersin,Bireysel,Lise,Çalışan,Vadesiz Mevduat,23496,73962.66,622,665969.72,0,72,79,32
+MUS0897,45,Gaziantep,Bireysel,Üniversite,Akademisyen,İhtiyaç Kredisi,24524,58957.92,532,772143.65,0,60,47,25
+MUS0898,39,Ankara,Bireysel,Lisansüstü,Serbest Meslek,Kredi Kartı,62890,296575.87,659,916827.1,0,99,93,32
+MUS0899,47,Gaziantep,Bireysel,Üniversite,Esnaf,Vadesiz Mevduat,33863,67525.01,757,1004685.73,0,64,23,43
+MUS0900,49,Bursa,Bireysel,Üniversite,Serbest Meslek,Kredi Kartı,240282,925173.48,610,134324.37,0,52,75,17
+MUS0901,27,İstanbul,Bireysel,Lise,Memur,Yatırım Hesabı,22741,54232.02,601,248406.74,1,67,23,20
+MUS0902,53,Mersin,KOBİ,Lise,Serbest Meslek,Konut Kredisi,49106,137748.09,616,534774.59,0,49,1,23
+MUS0903,47,Bursa,Bireysel,Lise,Esnaf,Konut Kredisi,22025,30883.21,713,183947.26,0,52,27,28
+MUS0904,35,Bursa,Bireysel,Üniversite,Çalışan,Kredi Kartı,15640,62687.71,548,145520.34,0,100,45,4
+MUS0905,29,Ankara,Özel Bankacılık,Üniversite,Memur,Vadesiz Mevduat,85007,111535.89,866,1015251.89,0,82,60,29
+MUS0906,44,Adana,Bireysel,Ortaokul,Emekli,Vadesiz Mevduat,11717,52846.54,607,246415.08,0,91,60,34
+MUS0907,53,Konya,KOBİ,Lise,Memur,Vadesiz Mevduat,37536,68434.23,738,372804.0,0,56,65,19
+MUS0908,34,İstanbul,Bireysel,Üniversite,Emekli,İhtiyaç Kredisi,30667,131601.01,686,0,0,73,125,8
+MUS0909,43,Antalya,Bireysel,İlkokul,Çalışan,Kredi Kartı,10604,73152.03,572,0,0,57,27,35
+MUS0910,37,İstanbul,KOBİ,Lise,Memur,Yatırım Hesabı,24796,167269.43,513,0,0,70,63,7
+MUS0911,31,Gaziantep,Bireysel,Lise,Emekli,Konut Kredisi,19012,57659.93,705,0,0,60,74,13
+MUS0912,51,Adana,KOBİ,Lisansüstü,Akademisyen,İhtiyaç Kredisi,77956,370907.57,650,217031.97,0,86,69,12
+MUS0913,56,Mersin,KOBİ,Ortaokul,Serbest Meslek,İhtiyaç Kredisi,33588,168745.95,715,809522.63,0,84,74,18
+MUS0914,35,Adana,KOBİ,Üniversite,Çalışan,Konut Kredisi,47063,159968.89,583,0,0,73,71,3
+MUS0915,36,Konya,Bireysel,Lise,Akademisyen,Kredi Kartı,6835,51407.79,522,195780.97,0,63,73,11
+MUS0916,47,Bursa,Bireysel,İlkokul,Memur,Konut Kredisi,9060,37376.72,545,235395.81,0,41,11,32
+MUS0917,56,Bursa,Bireysel,Lise,Esnaf,Yatırım Hesabı,14286,21262.26,537,0,0,45,72,21
+MUS0918,55,Ankara,KOBİ,Lise,Esnaf,Yatırım Hesabı,60815,40915.82,592,0,0,60,51,21
+MUS0919,47,Ankara,KOBİ,Üniversite,Akademisyen,Konut Kredisi,69082,673080.54,763,0,0,79,92,15
+MUS0920,53,İzmir,Bireysel,Üniversite,Akademisyen,Vadesiz Mevduat,26154,46275.02,621,0,0,45,142,19
+MUS0921,38,Konya,Bireysel,Lise,Emekli,Konut Kredisi,18932,67139.61,509,0,0,64,90,21
+MUS0922,42,Gaziantep,Bireysel,Üniversite,Akademisyen,Kredi Kartı,27330,129777.04,669,0,0,86,43,4
+MUS0923,48,İzmir,Bireysel,Ortaokul,Esnaf,Yatırım Hesabı,16168,70284.03,615,0,0,40,108,15
+MUS0924,46,İstanbul,Bireysel,Lise,Esnaf,İhtiyaç Kredisi,18942,116055.58,511,227933.69,0,66,78,24
+MUS0925,29,Bursa,Bireysel,Lise,Esnaf,Konut Kredisi,15828,108801.81,532,0,0,83,81,24
+MUS0926,51,Adana,Bireysel,Ortaokul,Memur,Vadesiz Mevduat,9203,34587.37,517,0,0,50,56,30
+MUS0927,49,Konya,Bireysel,Üniversite,Serbest Meslek,Vadesiz Mevduat,40091,49639.9,528,406310.17,0,49,75,8
+MUS0928,62,İzmir,Bireysel,Lise,Emekli,Konut Kredisi,14129,17235.62,690,205789.62,0,67,65,10
+MUS0929,26,Bursa,KOBİ,Üniversite,Serbest Meslek,İhtiyaç Kredisi,42867,266050.12,527,0,0,100,126,17
+MUS0930,62,Ankara,Bireysel,Üniversite,Akademisyen,Kredi Kartı,30368,104308.55,637,0,0,76,115,21
+MUS0931,21,Antalya,Bireysel,Lisansüstü,Emekli,Yatırım Hesabı,57128,309817.18,529,0,0,93,12,23
+MUS0932,35,Adana,Bireysel,Üniversite,Esnaf,Vadesiz Mevduat,29928,167012.08,585,734670.6,0,100,13,11
+MUS0933,37,Kayseri,KOBİ,Üniversite,Çalışan,Konut Kredisi,41916,95749.1,663,0,0,100,95,4
+MUS0934,35,Kayseri,Bireysel,Üniversite,Serbest Meslek,İhtiyaç Kredisi,27270,91360.35,427,0,0,93,153,25
+MUS0935,35,Bursa,Bireysel,Lise,Akademisyen,Konut Kredisi,23455,72414.9,547,542993.74,0,62,114,18
+MUS0936,44,Konya,Bireysel,Üniversite,Esnaf,Yatırım Hesabı,34655,63851.11,566,0,0,84,33,11
+MUS0937,28,Adana,Bireysel,Ortaokul,Serbest Meslek,Vadesiz Mevduat,16951,129700.0,605,202841.3,0,68,137,13
+MUS0938,60,Mersin,KOBİ,Ortaokul,Memur,Konut Kredisi,266346,1551907.26,691,181304.4,0,30,50,29
+MUS0939,47,Gaziantep,Bireysel,Lise,Esnaf,Vadesiz Mevduat,17333,63568.75,371,250034.93,0,66,81,35
+MUS0940,35,Bursa,Bireysel,Lise,Memur,Kredi Kartı,12921,83964.49,440,254967.55,0,100,46,24
+MUS0941,52,Gaziantep,KOBİ,İlkokul,Çalışan,Kredi Kartı,13447,61854.49,500,93284.71,0,42,35,14
+MUS0942,44,Gaziantep,Bireysel,Lise,Emekli,Kredi Kartı,22939,80772.79,723,0,0,46,139,39
+MUS0943,37,Ankara,Bireysel,Üniversite,Memur,İhtiyaç Kredisi,22350,71037.68,667,426883.91,0,71,89,18
+MUS0944,68,Bursa,Bireysel,Lisansüstü,Akademisyen,Yatırım Hesabı,30567,57272.48,787,0,0,92,129,37
+MUS0945,52,Antalya,Bireysel,Üniversite,Çalışan,Kredi Kartı,34582,94933.85,687,521928.08,0,73,92,38
+MUS0946,47,İzmir,Özel Bankacılık,Lise,Emekli,İhtiyaç Kredisi,105657,327480.28,788,0,0,57,92,24
+MUS0947,40,Ankara,Bireysel,Üniversite,Esnaf,Konut Kredisi,24891,133597.66,568,656843.9,0,61,128,23
+MUS0948,56,İstanbul,Bireysel,Üniversite,Serbest Meslek,Kredi Kartı,16967,43309.5,580,335084.78,0,75,20,6
+MUS0949,36,İstanbul,Bireysel,Lise,Esnaf,İhtiyaç Kredisi,13137,26724.27,541,481142.58,0,66,11,10
+MUS0950,45,Kayseri,KOBİ,Lisansüstü,Serbest Meslek,Yatırım Hesabı,106313,506121.88,773,0,0,87,52,31
+MUS0951,35,Konya,Bireysel,Lise,Memur,Kredi Kartı,10920,55955.89,652,0,0,99,71,4
+MUS0952,28,İstanbul,Bireysel,Lisansüstü,Emekli,Konut Kredisi,56534,0,668,890839.9,0,99,158,5
+MUS0953,50,Konya,Bireysel,Lisansüstü,Akademisyen,İhtiyaç Kredisi,61489,313242.24,595,2053730.23,1,75,51,31
+MUS0954,41,Ankara,Bireysel,Ortaokul,Akademisyen,Yatırım Hesabı,12798,57262.22,666,79823.78,0,76,43,15
+MUS0955,42,Ankara,Bireysel,Lisansüstü,Emekli,İhtiyaç Kredisi,50538,232045.39,522,0,0,100,123,32
+MUS0956,37,Antalya,Bireysel,Ortaokul,Serbest Meslek,Vadesiz Mevduat,9853,28804.65,562,200591.87,0,55,87,29
+MUS0957,18,Bursa,Bireysel,İlkokul,Memur,Kredi Kartı,9191,25570.48,488,168393.76,0,85,46,33
+MUS0958,48,Adana,Bireysel,Lisansüstü,Çalışan,Yatırım Hesabı,22708,56562.37,633,0,0,68,1,19
+MUS0959,47,Antalya,Bireysel,Üniversite,Serbest Meslek,Kredi Kartı,21187,70782.56,788,895933.89,0,68,1,10
+MUS0960,35,Kayseri,KOBİ,Lise,Serbest Meslek,Kredi Kartı,41122,248193.34,674,724089.69,0,60,96,25
+MUS0961,31,Ankara,Özel Bankacılık,Üniversite,Memur,İhtiyaç Kredisi,176679,0,900,2347835.11,0,98,182,21
+MUS0962,36,Gaziantep,Bireysel,Üniversite,Çalışan,Kredi Kartı,26541,131685.78,649,553973.89,0,88,131,22
+MUS0963,44,İzmir,Bireysel,Lisansüstü,Memur,İhtiyaç Kredisi,62933,371422.76,670,0,0,90,32,18
+MUS0964,40,İstanbul,Bireysel,Lisansüstü,Memur,Vadesiz Mevduat,31945,49709.0,625,720829.01,0,100,112,11
+MUS0965,32,Ankara,Bireysel,Üniversite,Çalışan,Kredi Kartı,21334,33417.78,660,0,0,100,163,26
+MUS0966,36,Konya,Bireysel,Lise,Esnaf,Konut Kredisi,26129,27452.81,672,649318.01,0,73,73,28
+MUS0967,48,Mersin,Bireysel,Lisansüstü,Serbest Meslek,Vadesiz Mevduat,54904,204382.67,605,850058.87,0,90,1,36
+MUS0968,55,Mersin,Bireysel,Lise,Akademisyen,Kredi Kartı,13186,35478.86,660,430207.52,0,68,4,36
+MUS0969,25,Adana,Özel Bankacılık,Lise,Çalışan,İhtiyaç Kredisi,32952,133070.04,418,700613.5,0,77,153,35
+MUS0970,67,İzmir,Bireysel,Lise,Esnaf,İhtiyaç Kredisi,146053,962587.72,545,0,0,34,16,25
+MUS0971,30,Bursa,Bireysel,Ortaokul,Akademisyen,Yatırım Hesabı,11474,68491.43,441,0,0,66,99,41
+MUS0972,52,Mersin,Bireysel,Üniversite,Esnaf,İhtiyaç Kredisi,32234,53309.45,694,0,0,42,87,45
+MUS0973,30,Adana,Bireysel,Üniversite,Serbest Meslek,İhtiyaç Kredisi,206004,2468967.74,668,0,0,67,29,16
+MUS0974,62,Bursa,KOBİ,Lise,Emekli,Vadesiz Mevduat,34102,117886.91,801,334861.74,0,63,90,5
+MUS0975,27,İstanbul,Bireysel,Üniversite,Esnaf,Kredi Kartı,256300,1557603.66,418,0,0,73,121,29
+MUS0976,57,Konya,Bireysel,İlkokul,Serbest Meslek,Konut Kredisi,8972,48919.67,593,204107.19,0,21,134,11
+MUS0977,75,Ankara,Bireysel,Lisansüstü,Memur,Vadesiz Mevduat,60839,230429.84,752,281377.23,0,60,28,0
+MUS0978,41,Konya,Bireysel,Üniversite,Çalışan,Vadesiz Mevduat,27551,129217.87,665,853492.09,0,100,84,29
+MUS0979,21,İzmir,Bireysel,Lise,Esnaf,Yatırım Hesabı,23703,231641.78,556,250395.76,0,87,49,0
+MUS0980,40,Konya,Bireysel,Üniversite,Akademisyen,Vadesiz Mevduat,44704,156748.7,727,0,0,51,22,17
+MUS0981,39,İstanbul,Bireysel,İlkokul,Serbest Meslek,Vadesiz Mevduat,7807,23520.04,491,140513.18,0,50,46,23
+MUS0982,27,Ankara,Bireysel,Üniversite,Emekli,İhtiyaç Kredisi,26234,106863.12,530,0,0,97,5,22
+MUS0983,56,Ankara,Bireysel,Ortaokul,Çalışan,Kredi Kartı,9792,5211.3,660,0,0,49,201,18
+MUS0984,33,Antalya,Bireysel,Lise,Memur,Konut Kredisi,25521,182703.27,445,0,0,86,35,29
+MUS0985,47,İzmir,KOBİ,Üniversite,Esnaf,Vadesiz Mevduat,67845,379818.42,748,645329.05,0,83,15,5
+MUS0986,33,Antalya,Bireysel,Ortaokul,Emekli,Vadesiz Mevduat,9200,71721.8,608,0,0,75,85,26
+MUS0987,32,Konya,Bireysel,İlkokul,Çalışan,İhtiyaç Kredisi,7509,13816.68,487,0,0,66,86,12
+MUS0988,29,İstanbul,Bireysel,Üniversite,Akademisyen,Kredi Kartı,40966,343776.44,666,0,0,77,130,22
+MUS0989,27,Bursa,KOBİ,Üniversite,Serbest Meslek,Vadesiz Mevduat,77663,89012.12,769,2496790.81,0,100,38,17
+MUS0990,47,Gaziantep,KOBİ,Lise,Esnaf,İhtiyaç Kredisi,39653,47958.27,565,0,0,41,31,0
+MUS0991,26,Bursa,KOBİ,Lisansüstü,Akademisyen,Vadesiz Mevduat,114523,112799.56,782,0,0,100,9,14
+MUS0992,35,İstanbul,KOBİ,Lise,Çalışan,Kredi Kartı,41786,141508.07,584,1074981.41,0,73,60,39
+MUS0993,18,Gaziantep,Bireysel,Lise,Akademisyen,Kredi Kartı,18834,48813.09,561,481737.84,0,100,71,7
+MUS0994,40,Antalya,Bireysel,Ortaokul,Çalışan,Kredi Kartı,12268,55773.81,472,0,0,49,128,4
+MUS0995,47,Gaziantep,Bireysel,Lise,Emekli,Kredi Kartı,15325,67518.79,610,102691.28,0,46,50,27
+MUS0996,49,Ankara,Bireysel,Lise,Akademisyen,Yatırım Hesabı,20735,17535.35,706,0,0,67,74,31
+MUS0997,56,Kayseri,KOBİ,Lisansüstü,Esnaf,Yatırım Hesabı,672179,3753382.89,768,0,0,63,136,7
+MUS0998,36,Gaziantep,Bireysel,Lise,Çalışan,Yatırım Hesabı,19709,116807.58,634,0,0,58,116,29
+MUS0999,42,İstanbul,Bireysel,Lisansüstü,Çalışan,İhtiyaç Kredisi,34685,65160.63,621,0,0,82,51,28
+MUS1000,36,Gaziantep,Bireysel,Üniversite,Akademisyen,Vadesiz Mevduat,51777,395526.97,518,733849.76,0,82,81,37
